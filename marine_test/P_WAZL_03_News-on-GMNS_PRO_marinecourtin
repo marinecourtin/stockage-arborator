@@ -1,0 +1,2744 @@
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_1
+# sent_translation = All right ! good morning to my beautiful country. How are you? Yes you are on the quick quick information on the goodmorning Naija show.
+# text = alright una good morning > my beautiful country people //
+# timestamp = 1590163822.940596
+1	alright	_	ADV	_	_	4	discourse	_	endali=4510|startali=4265
+2	una	_	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	vocative	_	endali=4630|startali=4510
+3	good	_	ADJ	_	_	4	dep	_	endali=4750|startali=4630
+4	morning	_	NOUN	_	_	0	root	_	endali=4931|startali=4750
+5	>	_	PUNCT	_	_	9	punct	_	endali=4961|startali=4931
+6	my	_	ADJ	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	dep	_	endali=5080|startali=4961
+7	beautiful	_	ADJ	_	_	8	compound	_	endali=5450|startali=5080
+8	country	_	NOUN	_	_	9	compound	_	endali=5733|startali=5450
+9	people	_	NOUN	_	_	4	vocative	_	endali=5950|startali=5733
+10	//	_	PUNCT	_	_	4	punct	_	endali=5980|startali=5950
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_2
+# sent_translation = All right ! good morning to my beautiful country. How are you? Yes you are on the quick quick information on the goodmorning Naija show.
+# text = how una dey ?//
+# timestamp = 1590163822.940609
+1	how	_	ADV	_	PronType=Int	0	root	_	endali=6170|startali=5980
+2	una	_	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	subj	_	endali=6353|startali=6170
+3	dey	_	VERB	_	PartType=Cop	1	comp:cleft	_	endali=6665|startali=6353
+4	?//	_	PUNCT	_	_	1	punct	_	endali=6695|startali=6665
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_3
+# sent_translation = All right ! good morning to my beautiful country. How are you? Yes you are on the quick quick information on the goodmorning Naija show.
+# text = yes na di papapa informate on top di Good Morning Naija show # I don carry come for una this beautiful morning //
+# timestamp = 1590163822.940612
+1	yes	_	INTJ	_	_	2	discourse	_	endali=7278|startali=6695
+2	na	_	PART	_	PartType=Cop	0	root	_	endali=7455|startali=7278
+3	di	_	DET	_	Definite=Def|PronType=Art	5	det	_	endali=7546|startali=7455
+4	papapa	_	NOUN	_	_	5	dep	_	endali=7925|startali=7546
+5	informate	_	NOUN	_	_	2	comp:pred	_	endali=8385|startali=7925
+6	on	_	ADP	_	_	5	dep	_	endali=8582|startali=8385
+7	top	_	NOUN	_	_	6	fixed	_	endali=8755|startali=8582
+8	di	_	DET	_	Definite=Def|PronType=Art	12	det	_	endali=8855|startali=8755
+9	Good	_	PROPN	_	_	12	compound	_	endali=9039|startali=8855
+10	Morning	_	PROPN	_	_	9	flat	_	endali=9297|startali=9039
+11	Naija	_	PROPN	_	_	10	flat	_	endali=9615|startali=9297
+12	show	_	NOUN	_	_	6	comp	_	endali=9841|startali=9615
+13	#	_	PUNCT	_	_	15	punct	_	endali=10220|startali=9871
+14	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	subj	_	endali=10280|startali=10220
+15	don	_	AUX	_	Aspect=Perf	12	dep	_	endali=10420|startali=10280
+16	carry	_	VERB	_	_	15	comp:aux	_	endali=10620|startali=10420
+17	come	_	VERB	_	_	16	compound:svc	_	endali=10780|startali=10620
+18	for	_	ADP	_	_	16	comp:obl	_	endali=10870|startali=10780
+19	una	_	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	18	comp	_	endali=11010|startali=10870
+20	this	dis	DET	_	Number=Sing|PronType=Prox	22	det	_	endali=11233|startali=11010
+21	beautiful	_	ADJ	_	_	22	dep	_	endali=11619|startali=11233
+22	morning	_	NOUN	_	_	16	mod	_	endali=11961|startali=11619
+23	//	_	PUNCT	_	_	2	punct	_	endali=11991|startali=11961
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_4
+# sent_translation = I have brought to you this beautiful morning, my name # is Ajibike Ogunlade
+# text = my name < # na Ajibike Ogunlade //
+# timestamp = 1590163822.940615
+1	my	_	ADJ	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	dep	_	endali=12198|startali=11991
+2	name	_	NOUN	_	_	5	subj	_	endali=12430|startali=12198
+3	<	_	PUNCT	_	_	2	punct	_	endali=12460|startali=12430
+4	#	_	PUNCT	_	_	2	punct	_	endali=12780|startali=12460
+5	na	_	PART	_	PartType=Cop	0	root	_	endali=12900|startali=12780
+6	Ajibike	_	PROPN	_	_	5	comp:pred	_	endali=13343|startali=12900
+7	Ogunlade	_	PROPN	_	_	6	flat	_	endali=13990|startali=13343
+8	//	_	PUNCT	_	_	5	punct	_	endali=14020|startali=13990
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_5
+# sent_translation = # On top of the very first story, we have heard that indeed, this one which is that they have eh that this one is second anniversary gift to all our country people.
+# text = # ontop of very first story now < we don hear sey [ Presido Muhammadu Buhari don commot tian say dis one wey be sey [ de don # eh # find dis eighty two Chibok girls |c sey de don rescue am |c # sey dis one na second anniversary gift to all we obodo people ] ] //
+# timestamp = 1590163822.940617
+1	#	_	PUNCT	_	_	10	punct	_	endali=15640|startali=14020
+2	ontop	_	ADP	_	_	10	dislocated	_	endali=15970|startali=15640
+3	of	_	ADP	_	_	2	comp	_	endali=16100|startali=15970
+4	very	_	ADV	_	_	5	mod	_	endali=16270|startali=16100
+5	first	_	ADJ	_	NumType=Ord	6	dep	_	endali=16450|startali=16270
+6	story	_	NOUN	_	_	3	comp	_	endali=16685|startali=16450
+7	now	_	ADV	_	_	6	mod:emph	_	endali=16760|startali=16685
+8	<	_	PUNCT	_	_	2	punct	_	endali=16790|startali=16760
+9	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	subj	_	endali=16870|startali=16790
+10	don	_	AUX	_	Aspect=Perf	0	root	_	endali=16983|startali=16870
+11	hear	_	VERB	_	_	10	comp:aux	_	endali=17170|startali=16983
+12	sey	_	SCONJ	_	_	11	comp:obj	_	endali=17460|startali=17170
+13	[	_	PUNCT	_	_	17	punct	_	endali=17490|startali=17460
+14	Presido	_	PROPN	_	_	17	subj	_	endali=17830|startali=17490
+15	Muhammadu	_	PROPN	_	_	14	flat	_	endali=18270|startali=17830
+16	Buhari	_	PROPN	_	_	15	flat	_	endali=18540|startali=18270
+17	don	_	AUX	_	Aspect=Perf	12	comp	_	endali=18670|startali=18540
+18	commot	_	VERB	_	_	17	comp:aux	_	endali=19003|startali=18670
+19	tian	_	NOUN	_	_	18	comp:obj	_	endali=19154|startali=19003
+20	say	_	VERB	_	_	18	compound:svc	_	endali=19315|startali=19184
+21	dis	_	DET	_	Number=Sing|PronType=Prox	22	det	_	endali=19583|startali=19315
+22	one	_	NOUN	_	_	20	comp:obj	_	endali=19763|startali=19583
+23	wey	_	SCONJ	_	_	22	dep	_	endali=19853|startali=19763
+24	be	_	VERB	_	PartType=Cop	23	comp	_	endali=19958|startali=19853
+25	sey	_	SCONJ	_	_	24	comp:pred	_	endali=20063|startali=19958
+26	[	_	PUNCT	_	_	28	punct	_	endali=20093|startali=20063
+27	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	28	subj	_	endali=20213|startali=20093
+28	don	_	AUX	_	Aspect=Perf	25	comp	_	endali=20516|startali=20213
+29	#	_	PUNCT	_	_	32	punct	_	endali=20759|startali=20516
+30	eh	_	INTJ	_	_	32	discourse	_	endali=21309|startali=20759
+31	#	_	PUNCT	_	_	32	punct	_	endali=21494|startali=21309
+32	find	_	VERB	_	_	28	comp:aux	_	endali=21785|startali=21494
+33	dis	_	DET	_	Number=Sing|PronType=Prox	37	det	_	endali=22077|startali=21785
+34	eighty	_	NUM	_	NumType=Card	37	dep	_	endali=22316|startali=22077
+35	two	_	NUM	_	NumType=Card	37	dep	_	endali=22457|startali=22316
+36	Chibok	_	PROPN	_	_	37	dep	_	endali=22890|startali=22457
+37	girls	_	NOUN	_	Number=Plur	32	comp:obj	_	endali=23069|startali=22890
+38	|c	_	PUNCT	_	_	41	punct	_	endali=23099|startali=23069
+39	sey	_	SCONJ	_	_	41	discourse	_	endali=23207|startali=23099
+40	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	41	subj	_	endali=23323|startali=23207
+41	don	_	AUX	_	Aspect=Perf	28	conj:coord	_	endali=23481|startali=23323
+42	rescue	_	VERB	_	_	41	comp:aux	_	endali=23860|startali=23481
+43	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	42	comp:obj	_	endali=23998|startali=23860
+44	|c	_	PUNCT	_	_	49	punct	_	endali=24028|startali=23998
+45	#	_	PUNCT	_	_	49	punct	_	endali=24269|startali=24028
+46	sey	_	SCONJ	_	_	49	discourse	_	endali=24363|startali=24269
+47	dis	_	DET	_	Number=Sing|PronType=Prox	48	det	_	endali=24553|startali=24363
+48	one	_	NOUN	_	_	49	subj	_	endali=24672|startali=24553
+49	na	_	PART	_	PartType=Cop	41	conj:coord	_	endali=24893|startali=24672
+50	second	_	NOUN	_	_	51	dep	_	endali=25419|startali=24893
+51	anniversary	_	NOUN	_	_	52	compound	_	endali=26073|startali=25419
+52	gift	_	NOUN	_	_	49	comp:pred	_	endali=26497|startali=26073
+53	to	_	ADP	_	_	52	dep	_	endali=26753|startali=26497
+54	all	_	DET	_	_	57	det	_	endali=27455|startali=26753
+55	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	57	dep	_	endali=27663|startali=27455
+56	obodo	_	NOUN	_	_	57	compound	_	endali=27913|startali=27663
+57	people	_	NOUN	_	_	53	comp	_	endali=28290|startali=27913
+58	]	_	PUNCT	_	_	28	punct	_	endali=28320|startali=28290
+59	]	_	PUNCT	_	_	17	punct	_	endali=28320|startali=28290
+60	//	_	PUNCT	_	_	10	punct	_	endali=28320|startali=28290
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_6
+# sent_translation = # Now this one that the president Buhari came, the president spoke indeed,  it was inside the presidential villa yesterday  and during one reception which they organised  because of Chibok girls whom they rescued.
+# text = # now dis one wey be sey [ { Oga Buhari || ehm Oga Buhari } bin yarn so ] < # na for inside presidential villa yesterday |c # and during one small reception wey be sey [ de bin organise # ehm because of di Chibok girls wey be sey de rescue ] //
+# timestamp = 1590163822.94062
+1	#	_	PUNCT	_	_	23	punct	_	endali=28770|startali=28320
+2	now	_	ADV	_	_	23	discourse	_	endali=29040|startali=28770
+3	dis	_	DET	_	Number=Sing|PronType=Prox	4	det	_	endali=29191|startali=29040
+4	one	_	NOUN	_	_	23	dislocated	_	endali=29270|startali=29191
+5	wey	_	SCONJ	_	_	4	dep	_	endali=29370|startali=29270
+6	be	_	VERB	_	PartType=Cop	5	comp	_	endali=29430|startali=29370
+7	sey	_	SCONJ	_	_	6	comp:pred	_	endali=29530|startali=29430
+8	[	_	PUNCT	_	_	17	punct	_	endali=29560|startali=29530
+9	{	_	PUNCT	_	_	10	punct	_	endali=29560|startali=29530
+10	Oga	_	PROPN	_	_	17	subj	_	endali=29740|startali=29560
+11	Buhari	_	PROPN	_	_	10	flat	_	endali=30010|startali=29740
+12	||	_	PUNCT	_	_	14	punct	_	endali=30040|startali=30010
+13	ehm	_	INTJ	_	_	14	discourse	_	endali=30250|startali=30040
+14	Oga	_	PROPN	_	_	10	conj:dicto	_	endali=30512|startali=30250
+15	Buhari	_	PROPN	_	_	14	flat	_	endali=30735|startali=30512
+16	}	_	PUNCT	_	_	10	punct	_	endali=30765|startali=30735
+17	bin	_	AUX	_	Tense=Past	7	comp	_	endali=30930|startali=30765
+18	yarn	_	VERB	_	_	17	comp:aux	_	endali=31130|startali=30930
+19	so	_	ADV	_	_	18	mod	_	endali=31480|startali=31130
+20	]	_	PUNCT	_	_	17	punct	_	endali=31510|startali=31480
+21	<	_	PUNCT	_	_	4	punct	_	endali=31510|startali=31480
+22	#	_	PUNCT	_	_	4	punct	_	endali=31756|startali=31510
+23	na	_	PART	_	PartType=Cop	0	root	_	endali=31886|startali=31756
+24	for	_	ADP	_	_	23	comp:pred	_	endali=32116|startali=31916
+25	inside	_	ADP	_	_	24	fixed	_	endali=32616|startali=32116
+26	presidential	_	ADJ	_	_	27	dep	_	endali=33336|startali=32616
+27	villa	_	NOUN	_	_	24	comp	_	endali=33907|startali=33336
+28	yesterday	_	NOUN	_	_	23	mod	_	endali=34807|startali=33907
+29	|c	_	PUNCT	_	_	32	punct	_	endali=34837|startali=34807
+30	#	_	PUNCT	_	_	32	punct	_	endali=35081|startali=34837
+31	and	_	CCONJ	_	_	32	cc	_	endali=35201|startali=35081
+32	during	_	ADP	_	_	23	conj:coord	_	endali=35421|startali=35201
+33	one	_	DET	_	Definite=Spec|Number=Sing|PronType=Art	35	det	_	endali=35601|startali=35421
+34	small	_	ADJ	_	_	35	dep	_	endali=36107|startali=35601
+35	reception	_	NOUN	_	_	32	comp	_	endali=36621|startali=36107
+36	wey	_	SCONJ	_	_	35	dep	_	endali=36731|startali=36621
+37	be	_	VERB	_	PartType=Cop	36	comp	_	endali=36827|startali=36731
+38	sey	_	SCONJ	_	_	37	comp:pred	_	endali=36923|startali=36827
+39	[	_	PUNCT	_	_	41	punct	_	endali=36953|startali=36923
+40	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	41	subj	_	endali=37101|startali=36953
+41	bin	_	AUX	_	AUX  Tense=Past	38	comp	_	endali=37241|startali=37101
+42	organise	_	VERB	_	_	41	comp:aux	_	endali=37790|startali=37241
+43	#	_	PUNCT	_	_	45	punct	_	endali=37999|startali=37790
+44	ehm	_	INTJ	_	_	45	discourse	_	endali=38229|startali=37999
+45	because	_	SCONJ	_	_	42	mod	_	endali=38479|startali=38229
+46	of	_	ADP	_	_	45	fixed	_	endali=38579|startali=38479
+47	di	_	DET	_	Definite=Def|PronType=Art	49	det	_	endali=38699|startali=38579
+48	Chibok	_	PROPN	_	_	49	dep	_	endali=39097|startali=38699
+49	girls	girl	NOUN	_	Number=Plur	45	comp	_	endali=39325|startali=39097
+50	wey	_	SCONJ	_	_	49	dep	_	endali=39379|startali=39325
+51	be	_	VERB	_	PartType=Cop	50	comp	_	endali=39449|startali=39379
+52	sey	_	SCONJ	_	_	51	comp:pred	_	endali=39597|startali=39449
+53	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	54	subj	_	endali=39739|startali=39597
+54	rescue	_	VERB	_	_	52	comp	_	endali=40488|startali=39739
+55	]	_	PUNCT	_	_	41	punct	_	endali=40518|startali=40488
+56	//	_	PUNCT	_	_	23	punct	_	endali=40518|startali=40488
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_7
+# sent_translation = # and in fact we heard that after they had rescued them, they carried all of them to Abuja  to go and meet the president and other important important people.
+# text = # and in fact < yesterday < after de bin rescue de < na so >+ de carry all of dem go Abuja //= # ehm make dem go meet { presido |c plus { oda |r oda } { important |r important } people } //
+# timestamp = 1590163822.940623
+1	#	_	PUNCT	_	_	14	punct	_	endali=40820|startali=40518
+2	and	_	CCONJ	_	_	14	cc	_	endali=40940|startali=40820
+3	in	_	ADP	_	_	14	mod:periph	_	endali=41040|startali=40940
+4	fact	_	NOUN	_	_	3	fixed	_	endali=41320|startali=41040
+5	<	_	PUNCT	_	_	3	punct	_	endali=41350|startali=41320
+6	yesterday	_	NOUN	_	_	14	mod	_	endali=41825|startali=41350
+7	<	_	PUNCT	_	_	6	punct	_	endali=41855|startali=41825
+8	after	_	ADP	_	_	14	mod:periph	_	endali=42076|startali=41855
+9	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	subj	_	endali=42220|startali=42076
+10	bin	_	AUX	_	Tense=Past	8	comp	_	endali=42375|startali=42220
+11	rescue	_	VERB	_	_	10	comp:aux	_	endali=42700|startali=42375
+12	de	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	comp:obj	_	endali=42993|startali=42700
+13	<	_	PUNCT	_	_	8	punct	_	endali=43023|startali=42993
+14	na	_	PART	_	PartType=Cop	0	root	_	endali=43178|startali=43023
+15	so	_	ADV	_	_	14	comp:pred	_	endali=43250|startali=43178
+16	>+	_	PUNCT	_	_	18	punct	_	endali=43280|startali=43250
+17	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	subj	_	endali=43434|startali=43280
+18	carry	_	VERB	_	_	14	comp:cleft	_	endali=43680|startali=43434
+19	all	_	DET	_	_	18	comp:obj	_	endali=43780|startali=43680
+20	of	_	ADP	_	_	19	dep	_	endali=43870|startali=43780
+21	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	20	comp	_	endali=44085|startali=43870
+22	go	_	VERB	_	_	18	compound:svc	_	endali=44300|startali=44085
+23	Abuja	_	PROPN	_	_	22	comp:obj	_	endali=44949|startali=44300
+24	//=	_	PUNCT	_	_	27	punct	_	endali=45152|startali=44949
+25	#	_	PUNCT	_	_	27	punct	_	endali=45152|startali=44949
+26	ehm	_	INTJ	_	_	27	discourse	_	endali=45312|startali=45152
+27	make	_	AUX	_	Mood=Jus	18	parataxis:obj	_	endali=45432|startali=45312
+28	dem	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	subj	_	endali=45562|startali=45432
+29	go	_	VERB	_	_	27	comp:aux	_	endali=45712|startali=45562
+30	meet	_	VERB	_	_	29	comp:pred	_	endali=45882|startali=45712
+31	{	_	PUNCT	_	_	32	punct	_	endali=45912|startali=45882
+32	presido	_	NOUN	_	_	30	comp:obj	_	endali=46512|startali=45912
+33	|c	_	PUNCT	_	_	45	punct	_	endali=46542|startali=46512
+34	plus	_	CCONJ	_	_	45	cc	_	endali=46732|startali=46542
+35	{	_	PUNCT	_	_	36	punct	_	endali=46762|startali=46732
+36	oda	_	ADJ	_	_	45	dep	_	endali=46952|startali=46762
+37	|r	_	PUNCT	_	_	38	punct	_	endali=46982|startali=46952
+38	oda	_	ADJ	_	_	36	compound:redup	_	endali=47122|startali=46982
+39	}	_	PUNCT	_	_	36	punct	_	endali=47152|startali=47122
+40	{	_	PUNCT	_	_	41	punct	_	endali=47152|startali=47122
+41	important	_	ADJ	_	_	45	dep	_	endali=47542|startali=47152
+42	|r	_	PUNCT	_	_	43	punct	_	endali=47572|startali=47542
+43	important	_	ADJ	_	_	41	compound:redup	_	endali=47922|startali=47572
+44	}	_	PUNCT	_	_	41	punct	_	endali=47952|startali=47922
+45	people	_	NOUN	_	_	32	conj:coord	_	endali=48288|startali=47952
+46	}	_	PUNCT	_	_	32	punct	_	endali=48318|startali=48288
+47	//	_	PUNCT	_	_	14	punct	_	endali=48318|startali=48288
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_8
+# sent_translation = # On this issue now, oga Buhari has said that he is very very very happy  that they have released these girls and in fact  he has made a promise to all the people in the country  that his government is very determined to make sure that the remaining girls whom they have not released,  that they must release them with all other people in the country  that have been apprehended, these rebels that have been apprehended
+# text = # ontop dis one now < Oga Buhari don yarn sey [ im dey { very |r very } happy # sey [ de don release dis girls ] ] //
+# timestamp = 1590163822.940625
+1	#	_	PUNCT	_	_	9	punct	_	endali=48733|startali=48318
+2	ontop	_	ADP	_	_	9	mod:periph	_	endali=49013|startali=48733
+3	dis	_	DET	_	Number=Sing|PronType=Prox	4	det	_	endali=49203|startali=49013
+4	one	_	NOUN	_	_	2	comp	_	endali=49356|startali=49203
+5	now	_	ADV	_	_	4	mod:emph	_	endali=49573|startali=49356
+6	<	_	PUNCT	_	_	2	punct	_	endali=49603|startali=49573
+7	Oga	_	PROPN	_	_	9	subj	_	endali=49815|startali=49603
+8	Buhari	_	PROPN	_	_	7	flat	_	endali=50033|startali=49815
+9	don	_	AUX	_	Aspect=Perf	0	root	_	endali=50177|startali=50033
+10	yarn	_	VERB	_	_	9	comp:aux	_	endali=50363|startali=50177
+11	sey	_	SCONJ	_	_	10	comp:obj	_	endali=50493|startali=50363
+12	[	_	PUNCT	_	_	14	punct	_	endali=50523|startali=50493
+13	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	subj	_	endali=50656|startali=50523
+14	dey	_	VERB	_	PartType=Cop	11	comp	_	endali=50815|startali=50656
+15	{	_	PUNCT	_	_	16	punct	_	endali=50845|startali=50815
+16	very	_	ADV	_	_	20	dep	_	endali=51092|startali=50845
+17	|r	_	PUNCT	_	_	18	punct	_	endali=51122|startali=51092
+18	very	_	ADV	_	_	16	compound:redup	_	endali=51365|startali=51122
+19	}	_	PUNCT	_	_	16	punct	_	endali=51395|startali=51365
+20	happy	_	ADJ	_	_	14	comp:pred	_	endali=51923|startali=51395
+21	#	_	PUNCT	_	_	22	punct	_	endali=52214|startali=51923
+22	sey	_	SCONJ	_	_	20	comp:pred	_	endali=52314|startali=52214
+23	[	_	PUNCT	_	_	25	punct	_	endali=52344|startali=52314
+24	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	subj	_	endali=52453|startali=52344
+25	don	_	AUX	_	Aspect=Perf	22	comp	_	endali=52670|startali=52453
+26	release	_	VERB	_	_	25	comp:aux	_	endali=53004|startali=52670
+27	dis	_	DET	_	Number=Sing|PronType=Prox	28	det	_	endali=53284|startali=53004
+28	girls	girl	NOUN	_	Number=Plur	26	comp:obj	_	endali=53504|startali=53284
+29	]	_	PUNCT	_	_	25	punct	_	endali=53534|startali=53504
+30	]	_	PUNCT	_	_	14	punct	_	endali=53534|startali=53504
+31	//	_	PUNCT	_	_	9	punct	_	endali=53534|startali=53504
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_9
+# text = and in fact < # e don comot promise all we obodo people # sey [ im government dey { very |r very } determine to make sure sey [ di remaining girls wey be sey de never release so < # sey de must to release { dem |c plus all oda of we obodo people # wey be sey { de don kolobi || ehn dis [ I no go gree //] people don kolobi } # put inside deir own stronghold } ] //
+# timestamp = 1590163822.940628
+1	and	_	CCONJ	_	_	7	cc	_	endali=53654|startali=53534
+2	in	_	ADP	_	_	7	mod:periph	_	endali=53764|startali=53654
+3	fact	_	NOUN	_	_	2	fixed	_	endali=54277|startali=53764
+4	<	_	PUNCT	_	_	2	punct	_	endali=54307|startali=54277
+5	#	_	PUNCT	_	_	2	punct	_	endali=54506|startali=54307
+6	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	subj	_	endali=54546|startali=54506
+7	don	_	AUX	_	Aspect=Perf	0	root	_	endali=54675|startali=54546
+8	comot	_	VERB	_	_	7	comp:aux	_	endali=54956|startali=54675
+9	promise	_	VERB	_	_	8	compound:svc	_	endali=55386|startali=54956
+10	all	_	ADV	_	_	11	mod	_	endali=55723|startali=55386
+11	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	dep	_	endali=55866|startali=55723
+12	obodo	_	NOUN	_	_	13	compound	_	endali=56087|startali=55866
+13	people	_	NOUN	_	_	9	comp:obj	_	endali=56401|startali=56087
+14	#	_	PUNCT	_	_	15	punct	_	endali=56707|startali=56401
+15	sey	_	SCONJ	_	_	9	comp:obj	_	endali=57079|startali=56707
+16	[	_	PUNCT	_	_	19	punct	_	endali=57109|startali=57079
+17	im	_	ADJ	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	dep	_	endali=57317|startali=57109
+18	government	_	NOUN	_	_	19	subj	_	endali=57771|startali=57317
+19	dey	_	VERB	_	_	15	comp	_	endali=57890|startali=57771
+20	{	_	PUNCT	_	_	21	punct	_	endali=57920|startali=57890
+21	very	_	ADV	_	_	25	mod	_	endali=58083|startali=57920
+22	|r	_	PUNCT	_	_	23	punct	_	endali=58113|startali=58083
+23	very	_	ADV	_	_	21	compound:redup	_	endali=58299|startali=58113
+24	}	_	PUNCT	_	_	21	punct	_	endali=58329|startali=58299
+25	determine	determine	VERB	_	Tense=Past|VerbForm=Part	19	comp:pred	_	endali=59147|startali=58329
+26	to	_	ADP	_	_	25	comp:pred	_	endali=59249|startali=59147
+27	make	_	VERB	_	_	26	comp	_	endali=59399|startali=59249
+28	sure	_	ADJ	_	_	27	comp:lvc	_	endali=59549|startali=59399
+29	sey	_	SCONJ	_	_	27	comp:obj	_	endali=59659|startali=59549
+30	[	_	PUNCT	_	_	45	punct	_	endali=59689|startali=59659
+31	di	_	DET	_	Definite=Def|PronType=Art	33	det	_	endali=59834|startali=59689
+32	remaining	_	ADJ	_	_	33	dep	_	endali=60239|startali=59834
+33	girls	_	NOUN	_	Number=Plur	45	dislocated	_	endali=60455|startali=60239
+34	wey	_	SCONJ	_	_	33	dep	_	endali=60519|startali=60455
+35	be	_	VERB	_	_	34	comp	_	endali=60609|startali=60519
+36	sey	_	SCONJ	_	_	35	comp:pred	_	endali=60709|startali=60609
+37	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	subj	_	endali=60846|startali=60739
+38	never	_	AUX	_	Aspect=Perf|Polarity=Neg	36	comp	_	endali=61103|startali=60846
+39	release	_	VERB	_	_	38	comp:aux	_	endali=61419|startali=61103
+40	so	_	ADV	_	_	39	mod	_	endali=61623|startali=61419
+41	<	_	PUNCT	_	_	33	punct	_	endali=61653|startali=61623
+42	#	_	PUNCT	_	_	33	punct	_	endali=61936|startali=61653
+43	sey	_	SCONJ	_	_	45	cc	_	endali=62061|startali=61936
+44	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	45	subj	_	endali=62150|startali=62061
+45	must	_	ADV	_	_	29	comp	_	endali=62293|startali=62150
+46	to	_	ADP	_	_	45	comp:pred	_	endali=62397|startali=62293
+47	release	_	VERB	_	_	46	comp	_	endali=62718|startali=62397
+48	{	_	PUNCT	_	_	49	punct	_	endali=62748|startali=62718
+49	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	47	comp:obj	_	endali=62943|startali=62748
+50	|c	_	PUNCT	_	_	53	punct	_	endali=62973|startali=62943
+51	plus	_	VERB	_	_	53	cc	_	endali=63316|startali=62973
+52	all	_	ADV	_	_	53	mod	_	endali=64025|startali=63316
+53	oda	_	ADJ	_	_	49	conj:coord	_	endali=64325|startali=64025
+54	of	_	ADP	_	_	53	dep	_	endali=64435|startali=64325
+55	we	_	ADJ	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	57	dep	_	endali=64479|startali=64435
+56	obodo	_	NOUN	_	_	57	dep	_	endali=64814|startali=64479
+57	people	_	NOUN	_	_	54	comp	_	endali=65130|startali=64814
+58	#	_	PUNCT	_	_	59	punct	_	endali=65393|startali=65130
+59	wey	_	SCONJ	_	_	53	dep	_	endali=65513|startali=65393
+60	be	_	VERB	_	_	59	comp	_	endali=65614|startali=65513
+61	sey	_	SCONJ	_	_	60	comp:pred	_	endali=65753|startali=65614
+62	{	_	PUNCT	_	_	64	punct	_	endali=65877|startali=65753
+63	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	64	subj	_	endali=65877|startali=65753
+64	don	_	AUX	_	Aspect=Perf	61	comp	_	endali=66082|startali=65877
+65	kolobi	_	VERB	_	_	64	comp:aux	_	endali=66553|startali=66082
+66	||	_	PUNCT	_	_	76	punct	_	endali=66583|startali=66553
+67	ehn	_	INTJ	_	_	76	discourse	_	endali=66833|startali=66583
+68	dis	_	DET	_	Number=Sing|PronType=Prox	75	det	_	endali=66983|startali=66833
+69	[	_	PUNCT	_	Number=Sing|PronType=Prox	72	punct	_	endali=66983|startali=66833
+70	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	72	subj	_	endali=67053|startali=66983
+71	no	_	PART	_	Polarity=Neg	72	mod	_	endali=67153|startali=67053
+72	go	_	AUX	_	Tense=Prosp	75	dep	_	endali=67283|startali=67153
+73	gree	_	VERB	_	_	72	comp:aux	_	endali=67433|startali=67283
+74	//]	_	PUNCT	_	_	72	punct	_	endali=67433|startali=67283
+75	people	_	NOUN	_	_	76	subj	_	endali=67633|startali=67433
+76	don	_	AUX	_	Aspect=Perf	64	conj:dicto	_	endali=67783|startali=67633
+77	kolobi	_	VERB	_	_	76	comp:aux	_	endali=68189|startali=67783
+78	}	_	PUNCT	_	_	64	punct	_	endali=68219|startali=68189
+79	#	_	PUNCT	_	_	80	punct	_	endali=68536|startali=68219
+80	put	_	VERB	_	_	77	compound:svc	_	endali=68726|startali=68536
+81	inside	_	ADP	_	_	80	comp:obl	_	endali=69006|startali=68726
+82	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	84	dep	_	endali=69217|startali=69006
+83	own	_	ADJ	_	_	84	dep	_	endali=69366|startali=69217
+84	stronghold	_	NOUN	_	_	81	comp	_	endali=70193|startali=69366
+85	}	_	PUNCT	_	_	49	punct	_	endali=70223|startali=70193
+86	]	_	PUNCT	_	_	45	punct	_	endali=70223|startali=70193
+87	//	_	PUNCT	_	_	7	punct	_	endali=70223|startali=70193
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_10
+# text = # meanwhile < we don hear sey [ di eighty two rescued Chibok girls now o ( yes you don hear //) < sey de don do better //= sey don discuss |c # and de don meet with the { Chief of Staff to we Presido |a Oga Abaki Harry } ] //
+# timestamp = 1590163822.94063
+1	#	_	PUNCT	_	_	5	punct	_	endali=71340|startali=70223
+2	meanwhile	_	ADJ	_	_	5	mod:periph	_	endali=71810|startali=71340
+3	<	_	PUNCT	_	_	2	punct	_	endali=71840|startali=71810
+4	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=71930|startali=71840
+5	don	_	AUX	_	Aspect=Perf	0	root	_	endali=72069|startali=71930
+6	hear	_	VERB	_	_	5	comp:aux	_	endali=72245|startali=72069
+7	sey	_	SCONJ	_	_	6	comp:obj	_	endali=72360|startali=72245
+8	[	_	PUNCT	_	_	14	punct	_	endali=72390|startali=72360
+9	di	_	DET	_	Definite=Def|PronType=Art	14	det	_	endali=72540|startali=72390
+10	eighty	_	NUM	_	_	11	compound	_	endali=72750|startali=72540
+11	two	_	NUM	_	NumType=Card	14	dep	_	endali=72901|startali=72750
+12	rescued	_	VERB	_	_	14	dep	_	endali=73350|startali=72901
+13	Chibok	_	PROPN	_	_	14	compound	_	endali=73755|startali=73350
+14	girls	girl	NOUN	_	Number=Plur	26	dislocated	_	endali=74160|startali=73755
+15	now	_	ADV	_	_	14	mod	_	endali=74463|startali=74160
+16	o	_	PART	_	PartType=Disc	14	mod:emph	_	endali=74536|startali=74463
+17	(	_	PUNCT	_	_	20	punct	_	endali=74566|startali=74536
+18	yes	_	INTJ	_	Polarity=Pos	20	discourse	_	endali=74820|startali=74566
+19	you	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	subj	_	endali=74880|startali=74820
+20	don	_	AUX	_	Aspect=Perf	14	parataxis:parenth	_	endali=75026|startali=74880
+21	hear	_	VERB	_	_	20	comp:aux	_	endali=75160|startali=75026
+22	//)	_	PUNCT	_	_	20	punct	_	endali=75250|startali=75160
+23	<	_	PUNCT	_	_	14	punct	_	endali=75250|startali=75160
+24	sey	_	SCONJ	_	_	26	cc	_	endali=75250|startali=75160
+25	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	subj	_	endali=75412|startali=75280
+26	don	_	AUX	_	Aspect=Perf	7	comp	_	endali=75610|startali=75412
+27	do	_	VERB	_	_	26	comp:aux	_	endali=75820|startali=75610
+28	better	_	ADJ	_	_	27	comp:obj	_	endali=76060|startali=75820
+29	//=	_	PUNCT	_	_	31	punct	_	endali=76090|startali=76060
+30	sey	_	SCONJ	_	_	31	cc	_	endali=76226|startali=76090
+31	don	_	AUX	_	Aspect=Perf	26	conj:coord	_	endali=76400|startali=76226
+32	discuss	_	VERB	_	_	31	comp:aux	_	endali=76911|startali=76400
+33	|c	_	PUNCT	_	_	37	punct	_	endali=76941|startali=76911
+34	#	_	PUNCT	_	_	37	punct	_	endali=77160|startali=76941
+35	and	_	CCONJ	_	_	37	cc	_	endali=77230|startali=77160
+36	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	37	subj	_	endali=77320|startali=77230
+37	don	_	AUX	_	Aspect=Perf	31	conj:coord	_	endali=77510|startali=77320
+38	meet	_	VERB	_	_	37	comp:aux	_	endali=77738|startali=77510
+39	with	_	ADP	_	_	38	comp:obl	_	endali=77830|startali=77738
+40	the	_	NOUN	_	Definite=Def|PronType=Art	39	comp	_	endali=77950|startali=77830
+41	{	_	PUNCT	_	_	42	punct	_	endali=77980|startali=77950
+42	Chief	_	NOUN	_	_	38	comp:obj	_	endali=78220|startali=77980
+43	of	_	ADP	_	_	42	dep	_	endali=78330|startali=78220
+44	Staff	_	NOUN	_	_	43	comp	_	endali=78700|startali=78330
+45	to	_	ADP	_	_	42	dep	_	endali=78790|startali=78700
+46	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	47	dep	_	endali=78902|startali=78790
+47	Presido	_	PROPN	_	_	45	comp	_	endali=79535|startali=78902
+48	|a	_	PUNCT	_	_	49	punct	_	endali=79565|startali=79535
+49	Oga	_	PROPN	_	_	42	conj:appos	_	endali=80100|startali=79565
+50	Abaki	_	PROPN	_	_	49	flat	_	endali=80820|startali=80100
+51	Harry	_	PROPN	_	_	50	flat	_	endali=81270|startali=80820
+52	}	_	PUNCT	_	_	42	punct	_	endali=81300|startali=81270
+53	]	_	PUNCT	_	_	26	punct	_	endali=81300|startali=81270
+54	//	_	PUNCT	_	_	5	punct	_	endali=81300|startali=81270
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_11
+# sent_translation = they have met with the chief of staff to the president, Mr Abaki Harry, apart from that one also, that they have done better better assessment with the medical team er of the department of state services.
+# text = apart from dat < one also say [ de don do { better |r better } assessement with the medical team ehn of di Department of State Services ] //
+# timestamp = 1590163822.940633
+1	apart	_	ADV	_	_	7	mod:periph	_	endali=81660|startali=81300
+2	from	_	ADP	_	_	1	fixed	_	endali=81840|startali=81660
+3	dat	_	PRON	_	Number=Sing|PronType=Dem	1	comp	_	endali=81950|startali=81840
+4	<	_	PUNCT	_	_	1	punct	_	endali=81980|startali=81950
+5	one	_	NUM	_	NumType=Card	7	subj	_	endali=82110|startali=81980
+6	also	_	ADV	_	_	7	mod	_	endali=82552|startali=82110
+7	say	_	VERB	_	_	0	root	_	endali=82770|startali=82552
+8	[	_	PUNCT	_	_	10	punct	_	endali=82880|startali=82770
+9	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	subj	_	endali=82880|startali=82770
+10	don	_	AUX	_	Aspect=Perf	7	parataxis:obj	_	endali=83080|startali=82880
+11	do	_	VERB	_	_	10	comp:aux	_	endali=83150|startali=83080
+12	{	_	PUNCT	_	_	13	punct	_	endali=83180|startali=83150
+13	better	_	ADJ	_	Degree=Comp	17	dep	_	endali=83430|startali=83180
+14	|r	_	PUNCT	_	_	15	punct	_	endali=83460|startali=83430
+15	better	_	ADJ	_	Degree=Comp	13	compound:redup	_	endali=83680|startali=83460
+16	}	_	PUNCT	_	_	13	punct	_	endali=83710|startali=83680
+17	assessement	_	NOUN	_	_	11	comp:obj	_	endali=84450|startali=83710
+18	with	_	ADP	_	_	11	comp:obl	_	endali=84570|startali=84450
+19	the	di	DET	_	Definite=Def|PronType=Art	21	det	_	endali=84649|startali=84570
+20	medical	_	ADJ	_	_	21	dep	_	endali=85140|startali=84649
+21	team	_	NOUN	_	_	18	comp	_	endali=85530|startali=85140
+22	ehn	_	INTJ	_	_	23	discourse	_	endali=85870|startali=85530
+23	of	_	ADP	_	_	21	dep	_	endali=86020|startali=85870
+24	di	_	DET	_	Definite=Def|PronType=Art	25	det	_	endali=86150|startali=86020
+25	Department	_	PROPN	_	_	23	comp	_	endali=86720|startali=86150
+26	of	_	ADP	_	_	25	flat	_	endali=86841|startali=86720
+27	State	_	PROPN	_	_	26	flat	_	endali=87100|startali=86841
+28	Services	Services	PROPN	_	_	27	flat	_	endali=87700|startali=87100
+29	]	_	PUNCT	_	_	10	punct	_	endali=87730|startali=87700
+30	//	_	PUNCT	_	_	7	punct	_	endali=87730|startali=87700
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_12
+# sent_translation = # The person in charge of this issue whom will be given report on this issue is the chief of staff himself oga Abaki Harry, he was explaining that they have asessed all the girls, they have done better assessement with them, they have done correct examination on each and everyone of them.
+# text = # now person wey be sey dey discuss with tori people after dis < de don discuss //
+# timestamp = 1590163822.940636
+1	#	_	PUNCT	_	_	16	punct	_	endali=88120|startali=87730
+2	now	_	ADV	_	_	16	mod	_	endali=88260|startali=88120
+3	person	_	NOUN	_	_	16	dislocated	_	endali=88490|startali=88260
+4	wey	_	SCONJ	_	_	3	dep	_	endali=88560|startali=88490
+5	be	_	VERB	_	PartType=Cop	4	comp	_	endali=88676|startali=88560
+6	sey	_	SCONJ	_	_	5	comp:pred	_	endali=88810|startali=88676
+7	dey	_	AUX	_	Aspect=Imp	6	comp	_	endali=89086|startali=88810
+8	discuss	_	VERB	_	_	7	comp:aux	_	endali=89481|startali=89086
+9	with	_	ADP	_	_	8	comp:obl	_	endali=89570|startali=89481
+10	tori	_	NOUN	_	_	11	compound	_	endali=89790|startali=89570
+11	people	_	NOUN	_	_	9	comp	_	endali=90010|startali=89790
+12	after	_	ADP	_	_	8	mod	_	endali=90300|startali=90010
+13	dis	_	DET	_	Number=Sing|PronType=Prox	12	comp	_	endali=90460|startali=90300
+14	<	_	PUNCT	_	_	3	punct	_	endali=90490|startali=90460
+15	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	subj	_	endali=90540|startali=90490
+16	don	_	AUX	_	Aspect=Perf	0	root	_	endali=90680|startali=90540
+17	discuss	_	VERB	_	_	16	comp:aux	_	endali=91060|startali=90680
+18	//	_	PUNCT	_	_	16	punct	_	endali=91090|startali=91060
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_13
+# sent_translation = The person in charge of this issue whom will be given report on this issue is the chief of staff himself oga Abaki Harry, he was explaining that they have asessed all the girls, they have done better assessement with them, they have done correct examination on each and everyone of them.
+# text = so na di { Chief of Staff Staff himself || Oga Abaki Harry } //
+# timestamp = 1590163822.940638
+1	so	_	ADV	_	_	2	discourse	_	endali=91510|startali=91090
+2	na	_	PART	_	PartType=Cop	0	root	_	endali=91720|startali=91540
+3	di	_	DET	_	Definite=Def|PronType=Art	5	det	_	endali=91800|startali=91720
+4	{	_	PUNCT	_	_	5	punct	_	endali=91830|startali=91800
+5	Chief	_	PROPN	_	_	2	comp:pred	_	endali=92020|startali=91830
+6	of	_	ADP	_	_	5	dep	_	endali=92150|startali=92020
+7	Staff	_	PROPN	_	_	6	comp	_	endali=92480|startali=92150
+8	Staff	_	PROPN	_	_	6	comp	_	endali=92480|startali=92150
+9	himself	imsef	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep	_	endali=93070|startali=92480
+10	||	_	PUNCT	_	_	11	punct	_	endali=93100|startali=93070
+11	Oga	_	PROPN	_	_	5	conj:dicto	_	endali=93384|startali=93100
+12	Abaki	_	PROPN	_	_	11	flat	_	endali=93820|startali=93384
+13	Harry	_	PROPN	_	_	12	flat	_	endali=94340|startali=93820
+14	}	_	PUNCT	_	_	11	punct	_	endali=94370|startali=94340
+15	//	_	PUNCT	_	_	2	punct	_	endali=94370|startali=94340
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_14
+# text = as im < e dey explain sey de don assess all di girls //= de don do better correct examination on top { each |c and every one of dem } //
+# timestamp = 1590163822.940641
+1	as	_	ADP	_	_	9	mod:periph	_	endali=94370|startali=94340
+2	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	dislocated	_	endali=94650|startali=94560
+3	<	_	PUNCT	_	_	2	mod:periph	_	endali=94680|startali=94650
+4	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=94770|startali=94680
+5	dey	_	AUX	_	Aspect=Imp	1	comp	_	endali=94950|startali=94770
+6	explain	_	VERB	_	_	5	comp:aux	_	endali=95359|startali=94950
+7	sey	_	SCONJ	_	_	9	cc	_	endali=95467|startali=95359
+8	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	subj	_	endali=95648|startali=95497
+9	don	_	AUX	_	Aspect=Perf	0	root	_	endali=95830|startali=95648
+10	assess	_	VERB	_	_	9	comp:aux	_	endali=96250|startali=95830
+11	all	_	DET	_	_	13	det	_	endali=96550|startali=96250
+12	di	_	DET	_	Definite=Def|PronType=Art	13	det	_	endali=96748|startali=96550
+13	girls	girl	NOUN	_	Number=Plur	10	comp:obj	_	endali=96980|startali=96748
+14	//=	_	PUNCT	_	_	16	punct	_	endali=97010|startali=96980
+15	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	subj	_	endali=97128|startali=97010
+16	don	_	AUX	_	Aspect=Perf	9	parataxis:conj	_	endali=97270|startali=97128
+17	do	_	VERB	_	_	16	comp:aux	_	endali=97489|startali=97270
+18	better	_	ADJ	_	Degree=Comp	20	dep	_	endali=98090|startali=97489
+19	correct	_	ADJ	_	_	20	dep	_	endali=98600|startali=98090
+20	examination	_	NOUN	_	_	17	comp:obj	_	endali=99330|startali=98600
+21	on	_	ADP	_	_	17	comp:obl	_	endali=99450|startali=99330
+22	top	_	NOUN	_	_	21	fixed	_	endali=99760|startali=99450
+23	{	_	PUNCT	_	_	24	punct	_	endali=99760|startali=99450
+24	each	_	DET	_	_	21	comp	_	endali=100005|startali=99760
+25	|c	_	PUNCT	_	_	28	punct	_	endali=100240|startali=100005
+26	and	_	CCONJ	_	_	28	cc	_	endali=100240|startali=100005
+27	every	_	DET	_	_	28	det	_	endali=100755|startali=100240
+28	one	_	NOUN	_	_	24	conj:coord	_	endali=100980|startali=100755
+29	of	_	ADP	_	_	28	dep	_	endali=101140|startali=100980
+30	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	29	comp	_	endali=101470|startali=101140
+31	}	_	PUNCT	_	_	24	punct	_	endali=101500|startali=101470
+32	//	_	PUNCT	_	_	9	punct	_	endali=101500|startali=101470
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_15
+# sent_translation = # and in fact he said that all of them are in good form right now.
+# text = # and in fact said [ all of dem bin dey inside good form right now ] //
+# timestamp = 1590163822.940643
+1	#	_	PUNCT	_	_	5	punct	_	endali=101840|startali=101500
+2	and	_	CCONJ	_	_	5	cc	_	endali=101950|startali=101840
+3	in	_	ADP	_	_	5	mod:periph	_	endali=102090|startali=101950
+4	fact	_	NOUN	_	_	3	fixed	_	endali=102539|startali=102090
+5	said	say	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	endali=102690|startali=102539
+6	[	_	PUNCT	_	_	10	punct	_	endali=102720|startali=102690
+7	all	_	DET	_	_	10	subj	_	endali=102870|startali=102720
+8	of	_	ADP	_	_	7	dep	_	endali=102960|startali=102870
+9	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	comp	_	endali=103150|startali=102960
+10	bin	bin	AUX	_	Tense=Past	5	parataxis:obj	_	endali=103360|startali=103150
+11	dey	_	VERB	_	PartType=Cop	10	comp:aux	_	endali=103590|startali=103360
+12	inside	_	ADP	_	_	11	comp:pred	_	endali=103910|startali=103590
+13	good	_	ADJ	_	_	14	dep	_	endali=104157|startali=103910
+14	form	_	NOUN	_	_	12	comp	_	endali=104530|startali=104157
+15	right	_	NOUN	_	_	16	mod	_	endali=104800|startali=104530
+16	now	_	ADV	_	_	11	mod	_	endali=105010|startali=104800
+17	]	_	PUNCT	_	_	10	punct	_	endali=105040|startali=105010
+18	//	_	PUNCT	_	_	5	punct	_	endali=105040|startali=105010
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_16
+# sent_translation = # Also, he said that it seems that they are saying they see some kind of injuries on two of these girls and in fact this injury so it does not have any kind of connection with the way they arrested them.
+# text = # also e bin yarn sey [ e be like sey [ de bin see some kind { small |r small } injury on top two of di girls ] ] //
+# timestamp = 1590163822.940646
+1	#	_	PUNCT	_	_	4	punct	_	endali=105460|startali=105040
+2	also	_	ADV	_	_	4	mod:periph	_	endali=105950|startali=105460
+3	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=106070|startali=105950
+4	bin	_	AUX	_	Tense=Past	0	root	_	endali=106190|startali=106070
+5	yarn	_	VERB	_	_	4	comp:aux	_	endali=106390|startali=106190
+6	sey	_	SCONJ	_	_	5	comp:obj	_	endali=106490|startali=106390
+7	[	_	PUNCT	_	_	9	punct	_	endali=106520|startali=106490
+8	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj:expl	_	endali=106550|startali=106520
+9	be	_	VERB	_	PartType=Cop	6	comp	_	endali=106650|startali=106550
+10	like	_	ADP	_	_	9	comp:pred	_	endali=106795|startali=106650
+11	sey	_	SCONJ	_	_	10	comp	_	endali=106892|startali=106795
+12	[	_	PUNCT	_	_	14	punct	_	endali=106922|startali=106892
+13	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	subj	_	endali=107050|startali=106922
+14	bin	_	AUX	_	Tense=Past	11	comp	_	endali=107199|startali=107050
+15	see	_	VERB	_	_	14	comp:aux	_	endali=107351|startali=107199
+16	some	_	DET	_	_	17	det	_	endali=107540|startali=107351
+17	kind	_	ADJ	_	_	23	dep	_	endali=107670|startali=107540
+18	{	_	PUNCT	_	_	19	punct	_	endali=107700|startali=107670
+19	small	_	ADJ	_	_	23	dep	_	endali=107900|startali=107700
+20	|r	_	PUNCT	_	_	21	punct	_	endali=107930|startali=107900
+21	small	_	ADJ	_	_	19	compound:redup	_	endali=108150|startali=107930
+22	}	_	PUNCT	_	_	19	punct	_	endali=108180|startali=108150
+23	injury	_	NOUN	_	_	15	comp:obj	_	endali=108841|startali=108180
+24	on	_	ADP	_	_	15	comp:obl	_	endali=109030|startali=108841
+25	top	_	NOUN	_	_	24	fixed	_	endali=109282|startali=109030
+26	two	_	NUM	_	NumType=Card	24	comp	_	endali=109430|startali=109282
+27	of	_	ADP	_	_	26	dep	_	endali=109630|startali=109430
+28	di	_	DET	_	Definite=Def|PronType=Art	29	det	_	endali=109740|startali=109630
+29	girls	girl	NOUN	_	Number=Plur	27	comp	_	endali=110300|startali=109740
+30	]	_	PUNCT	_	_	14	punct	_	endali=110330|startali=110300
+31	]	_	PUNCT	_	_	9	punct	_	endali=110330|startali=110300
+32	//	_	PUNCT	_	_	4	punct	_	endali=110330|startali=110300
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_17
+# text = # and in fact sey dis injury so < e no get any kind connection wit di way wey we say [ de rescue dem ] //
+# timestamp = 1590163822.940648
+1	#	_	PUNCT	_	_	12	punct	_	endali=110330|startali=110300
+2	and	_	CCONJ	_	_	12	cc	_	endali=110479|startali=110330
+3	in	_	ADP	_	_	12	mod:periph	_	endali=110551|startali=110479
+4	fact	_	NOUN	_	_	3	fixed	_	endali=110720|startali=110551
+5	sey	_	SCONJ	_	_	12	cc	_	endali=110800|startali=110720
+6	dis	_	DET	_	Number=Sing|PronType=Prox	7	det	_	endali=111011|startali=110830
+7	injury	_	NOUN	_	_	12	dislocated	_	endali=111366|startali=111011
+8	so	_	ADV	_	_	7	mod:emph	_	endali=111513|startali=111366
+9	<	_	PUNCT	_	_	7	punct	_	endali=111543|startali=111513
+10	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	subj	_	endali=111664|startali=111543
+11	no	_	PART	_	Polarity=Neg	12	mod	_	endali=111800|startali=111664
+12	get	_	VERB	_	_	0	root	_	endali=111990|startali=111800
+13	any	_	DET	_	_	15	det	_	endali=112230|startali=111990
+14	kind	_	ADJ	_	_	15	dep	_	endali=112440|startali=112230
+15	connection	_	NOUN	_	_	12	comp:obj	_	endali=113210|startali=112440
+16	wit	_	ADP	_	_	15	dep	_	endali=113420|startali=113210
+17	di	_	DET	_	Definite=Def|PronType=Art	18	det	_	endali=113530|startali=113420
+18	way	_	NOUN	_	_	16	comp	_	endali=113653|startali=113530
+19	wey	_	SCONJ	_	_	18	dep	_	endali=113770|startali=113653
+20	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	subj	_	endali=113849|startali=113770
+21	say	_	VERB	_	_	19	comp	_	endali=113930|startali=113849
+22	[	_	PUNCT	_	_	24	punct	_	endali=113960|startali=113930
+23	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	subj	_	endali=114100|startali=113960
+24	rescue	_	VERB	_	_	21	parataxis:obj	_	endali=114687|startali=114100
+25	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	endali=114950|startali=114687
+26	]	_	PUNCT	_	_	24	punct	_	endali=114980|startali=114950
+27	//	_	PUNCT	_	_	12	punct	_	endali=114980|startali=114950
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_18
+# sent_translation = # It is on this one also that he heard sir, the way, in fact the rescue operation that they executed on these girls that the thing is going on very professionally,  that there was no hitches on it
+# text = # now on top dis one also < we bin dey hear sey [ { di way || in fact di rescue operation } wey bin sey [ de do on top dis girls ] < # sey di thing bin go { very |r very } professionally |c # sey no comma dey on top am ] //
+# timestamp = 1590163822.940651
+1	#	_	PUNCT	_	_	10	punct	_	endali=115300|startali=114980
+2	now	_	ADV	_	_	10	mod:periph	_	endali=115390|startali=115300
+3	on	_	ADP	_	_	10	mod:periph	_	endali=115500|startali=115390
+4	top	_	VERB	_	_	3	fixed	_	endali=115670|startali=115500
+5	dis	_	DET	_	Number=Sing|PronType=Prox	6	det	_	endali=115830|startali=115670
+6	one	_	NOUN	_	_	3	comp	_	endali=115960|startali=115830
+7	also	_	ADV	_	_	3	mod	_	endali=116190|startali=115960
+8	<	_	PUNCT	_	_	3	punct	_	endali=116220|startali=116190
+9	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	subj	_	endali=116300|startali=116220
+10	bin	_	AUX	_	Tense=Past	0	root	_	endali=116450|startali=116300
+11	dey	_	AUX	_	Aspect=Imp	10	comp:aux	_	endali=116590|startali=116450
+12	hear	_	VERB	_	_	11	comp:aux	_	endali=116706|startali=116590
+13	sey	_	SCONJ	_	_	12	comp:obj	_	endali=116813|startali=116706
+14	[	_	PUNCT	_	_	41	punct	_	endali=116843|startali=116813
+15	{	_	PUNCT	_	_	17	punct	_	endali=116843|startali=116813
+16	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=116940|startali=116843
+17	way	_	NOUN	_	_	41	dislocated	_	endali=117090|startali=116940
+18	||	_	PUNCT	_	_	23	punct	_	endali=117120|startali=117090
+19	in	_	ADP	_	_	23	discourse	_	endali=117210|startali=117120
+20	fact	_	NOUN	_	_	19	fixed	_	endali=117500|startali=117210
+21	di	_	DET	_	Definite=Def|PronType=Art	23	det	_	endali=117610|startali=117500
+22	rescue	_	VERB	_	_	23	compound	_	endali=117950|startali=117610
+23	operation	_	NOUN	_	_	17	conj:dicto	_	endali=118300|startali=117950
+24	}	_	PUNCT	_	_	17	punct	_	endali=118330|startali=118300
+25	wey	_	SCONJ	_	_	23	dep	_	endali=118404|startali=118330
+26	bin	_	AUX	_	Tense=Past	25	comp	_	endali=118480|startali=118404
+27	sey	_	SCONJ	_	_	26	comp:obj	_	endali=118567|startali=118480
+28	[	_	PUNCT	_	_	30	punct	_	endali=118597|startali=118567
+29	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	subj	_	endali=118781|startali=118597
+30	do	_	VERB	_	_	27	comp	_	endali=118840|startali=118781
+31	on	_	ADP	_	_	30	comp:obl	_	endali=118970|startali=118840
+32	top	_	NOUN	_	_	31	fixed	_	endali=119120|startali=118970
+33	dis	_	DET	_	Number=Sing|PronType=Prox	34	det	_	endali=119300|startali=119120
+34	girls	girl	NOUN	_	Number=Plur	31	comp	_	endali=119619|startali=119300
+35	]	_	PUNCT	_	_	30	punct	_	endali=119649|startali=119619
+36	<	_	PUNCT	_	_	17	punct	_	endali=119649|startali=119619
+37	#	_	PUNCT	_	_	17	punct	_	endali=119916|startali=119649
+38	sey	_	SCONJ	_	_	41	cc	_	endali=120030|startali=119916
+39	di	_	DET	_	Definite=Def|PronType=Art	40	det	_	endali=120132|startali=120030
+40	thing	ting	NOUN	_	_	41	subj	_	endali=120286|startali=120132
+41	bin	_	AUX	_	Tense=Past	13	comp	_	endali=120480|startali=120286
+42	go	_	VERB	_	_	41	comp:aux	_	endali=120650|startali=120480
+43	{	_	PUNCT	_	_	44	punct	_	endali=120680|startali=120650
+44	very	_	ADV	_	_	48	mod	_	endali=120856|startali=120680
+45	|r	_	PUNCT	_	_	46	punct	_	endali=120886|startali=120856
+46	very	_	ADV	_	_	44	compound:redup	_	endali=121060|startali=120886
+47	}	_	PUNCT	_	_	44	punct	_	endali=121090|startali=121060
+48	professionally	_	ADV	_	_	42	mod	_	endali=122066|startali=121090
+49	|c	_	PUNCT	_	_	53	punct	_	endali=122096|startali=122066
+50	#	_	PUNCT	_	_	53	punct	_	endali=122303|startali=122096
+51	sey	_	SCONJ	_	_	53	cc	_	endali=122405|startali=122303
+52	no	_	PART	_	Polarity=Neg	53	mod	_	endali=122545|startali=122405
+53	comma	_	NOUN	_	_	42	conj:coord	_	endali=123156|startali=122545
+54	dey	_	VERB	_	PartType=Cop	53	comp:aux	_	endali=123445|startali=123156
+55	on	_	ADP	_	_	54	comp:pred	_	endali=123605|startali=123445
+56	top	_	VERB	_	_	55	fixed	_	endali=123875|startali=123605
+57	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	55	comp	_	endali=124086|startali=123875
+58	]	_	PUNCT	_	_	41	punct	_	endali=124116|startali=124086
+59	//	_	PUNCT	_	_	10	punct	_	endali=124116|startali=124086
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_19
+# sent_translation = # Now, we have heard that the director of the DSS medicals  and Okarafor also has assured all our fellow Nigerians that thesegirls are in safe hands and in fact, said they will receive the best medical care available, anywhere in the world.
+# text = # now we hear sey [ { di director of di DSS medicals |a # Ann Okorafor sef } don comot promise all we obodo people # sey [ dis girls so < sey de bin dey inside di safe hands ] ] //
+# timestamp = 1590163822.940653
+1	#	_	PUNCT	_	_	4	punct	_	endali=124468|startali=124116
+2	now	_	ADV	_	_	4	mod:periph	_	endali=124738|startali=124468
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=124868|startali=124738
+4	hear	_	VERB	_	_	0	root	_	endali=124968|startali=124868
+5	sey	_	SCONJ	_	_	4	comp:obj	_	endali=125066|startali=124968
+6	[	_	PUNCT	_	_	20	punct	_	endali=125096|startali=125066
+7	{	_	PUNCT	_	_	9	punct	_	endali=125096|startali=125066
+8	di	_	DET	_	Definite=Def|PronType=Art	9	det	_	endali=125242|startali=125096
+9	director	_	NOUN	_	_	20	subj	_	endali=125828|startali=125242
+10	of	_	ADP	_	_	9	dep	_	endali=125968|startali=125828
+11	di	_	DET	_	Definite=Def|PronType=Art	13	det	_	endali=126105|startali=125968
+12	DSS	_	PROPN	_	_	13	compound	_	endali=126758|startali=126105
+13	medicals	medical	NOUN	_	Number=Plur	10	comp	_	endali=127330|startali=126758
+14	|a	_	PUNCT	_	_	16	punct	_	endali=127360|startali=127330
+15	#	_	PUNCT	_	_	16	punct	_	endali=127633|startali=127360
+16	Ann	_	PROPN	_	_	9	conj:appos	_	endali=127933|startali=127633
+17	Okorafor	_	PROPN	_	_	16	flat	_	endali=128792|startali=127933
+18	sef	_	PART	_	PartType=Disc	16	mod:emph	_	endali=129095|startali=128792
+19	}	_	PUNCT	_	_	9	punct	_	endali=129125|startali=129095
+20	don	_	AUX	_	Aspect=Perf	5	comp	_	endali=129283|startali=129125
+21	comot	_	VERB	_	_	20	comp:aux	_	endali=129667|startali=129283
+22	promise	_	VERB	_	_	21	compound:svc	_	endali=130063|startali=129667
+23	all	_	DET	_	_	26	det	_	endali=130333|startali=130063
+24	we	our	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	dep	_	endali=130411|startali=130333
+25	obodo	_	NOUN	_	_	26	compound	_	endali=130722|startali=130411
+26	people	_	NOUN	_	_	22	comp:obj	_	endali=130985|startali=130722
+27	#	_	PUNCT	_	_	28	punct	_	endali=134979|startali=127633
+28	sey	_	SCONJ	_	_	22	comp:obj	_	endali=131293|startali=131200
+29	[	_	PUNCT	_	_	31	punct	_	endali=131323|startali=131293
+30	dis	_	DET	_	Number=Sing|PronType=Prox	31	det	_	endali=131563|startali=131323
+31	girls	girl	NOUN	_	Number=Plur	36	dislocated	_	endali=131843|startali=131563
+32	so	_	ADV	_	_	31	mod	_	endali=132103|startali=131843
+33	<	_	PUNCT	_	_	36	punct	_	endali=132133|startali=132103
+34	sey	_	SCONJ	_	_	36	cc	_	endali=132283|startali=132133
+35	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	subj	_	endali=132463|startali=132283
+36	bin	_	AUX	_	Tense=Past	28	comp	_	endali=132633|startali=132463
+37	dey	_	VERB	_	PartType=Cop	36	comp:aux	_	endali=132933|startali=132633
+38	inside	_	ADP	_	_	37	comp:pred	_	endali=133293|startali=132933
+39	di	_	DET	_	Definite=Def|PronType=Art	41	det	_	endali=133380|startali=133293
+40	safe	_	ADJ	_	_	41	dep	_	endali=133683|startali=133380
+41	hands	hand	NOUN	_	Number=Plur	38	comp	_	endali=134153|startali=133683
+42	]	_	PUNCT	_	_	36	punct	_	endali=134183|startali=134153
+43	]	_	PUNCT	_	_	20	punct	_	endali=134183|startali=134153
+44	//	_	PUNCT	_	_	4	punct	_	endali=134183|startali=134153
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_20
+# text = and in fact # sey de go receive the best medical care available # anywhere inside obodo the world //
+# timestamp = 1590163822.940656
+1	and	_	CCONJ	_	_	7	cc	_	endali=134283|startali=134183
+2	in	_	ADP	_	_	7	mod:periph	_	endali=134393|startali=134283
+3	fact	_	NOUN	_	_	2	fixed	_	endali=134979|startali=134393
+4	#	_	PUNCT	_	_	2	punct	_	endali=135315|startali=134979
+5	sey	_	SCONJ	_	_	7	cc	_	endali=135430|startali=135315
+6	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	subj	_	endali=135530|startali=135430
+7	go	_	AUX	_	Tense=Prosp	0	conj:coord	_	endali=135660|startali=135530
+8	receive	_	VERB	_	_	7	comp:aux	_	endali=135900|startali=135660
+9	the	di	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	endali=136080|startali=135900
+10	best	_	ADJ	_	Degree=Sup	8	compound:svc	_	endali=136560|startali=136080
+11	medical	_	ADJ	_	_	12	dep	_	endali=136990|startali=136560
+12	care	_	NOUN	_	_	10	comp:obj	_	endali=137250|startali=136990
+13	available	_	ADJ	_	_	12	dep	_	endali=138020|startali=137250
+14	#	_	PUNCT	_	_	15	punct	_	endali=138400|startali=138020
+15	anywhere	_	ADV	_	_	13	mod	_	endali=139300|startali=138400
+16	inside	_	ADP	_	_	10	comp:obl	_	endali=139770|startali=139300
+17	obodo	_	NOUN	_	_	16	comp	_	endali=140134|startali=139770
+18	the	_	DET	_	Definite=Def|PronType=Art	19	det	_	endali=140253|startali=140134
+19	world	_	NOUN	_	_	17	dep	_	endali=140680|startali=140253
+20	//	_	PUNCT	_	_	7	punct	_	endali=140710|startali=140680
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_21
+# sent_translation = # Now, we have heard that our president himself, president Buhari supposed, he is getting prepared, he is getting ready, to go to London, to go and do medicals with all his doctors that are there.
+# text = # now we don hear sey [ { we presido imself |a Presido Buhari } suppose e don dey pack im kaya |c e don dey get ready # to go London make im go do follow up medicals with all im doctors wey be sey [ e dey dere ] ] //
+# timestamp = 1590163822.940661
+1	#	_	PUNCT	_	_	4	punct	_	endali=142000|startali=140710
+2	now	_	ADV	_	_	4	mod:periph	_	endali=142184|startali=142000
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=142280|startali=142184
+4	don	_	AUX	_	Aspect=Perf	0	root	_	endali=142431|startali=142280
+5	hear	_	VERB	_	_	4	comp:aux	_	endali=142585|startali=142431
+6	sey	_	SCONJ	_	_	5	comp:obj	_	endali=142750|startali=142585
+7	[	_	PUNCT	_	_	16	punct	_	endali=142780|startali=142750
+8	{	_	PUNCT	_	_	10	punct	_	endali=142780|startali=142750
+9	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	dep	_	endali=142970|startali=142780
+10	presido	_	NOUN	_	_	16	subj	_	endali=143370|startali=142970
+11	imself	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	dep	_	endali=143798|startali=143370
+12	|a	_	PUNCT	_	_	13	punct	_	endali=143828|startali=143798
+13	Presido	_	PROPN	_	_	10	conj:appos	_	endali=144180|startali=143828
+14	Buhari	_	PROPN	_	_	13	flat	_	endali=144480|startali=144180
+15	}	_	PUNCT	_	_	10	punct	_	endali=144510|startali=144480
+16	suppose	_	VERB	_	_	6	comp	_	endali=144940|startali=144510
+17	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	subj	_	endali=145000|startali=144970
+18	don	_	AUX	_	Aspect=Perf	16	comp:obj	_	endali=145180|startali=145000
+19	dey	_	AUX	_	Aspect=Imp	18	comp:aux	_	endali=145286|startali=145180
+20	pack	_	VERB	_	_	19	comp:aux	_	endali=145490|startali=145286
+21	im	_	ADJ	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	dep	_	endali=145620|startali=145490
+22	kaya	_	NOUN	_	_	20	comp:obj	_	endali=145960|startali=145620
+23	|c	_	PUNCT	_	_	25	punct	_	endali=145990|startali=145960
+24	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	subj	_	endali=146070|startali=145990
+25	don	_	AUX	_	Aspect=Perf	18	conj:coord	_	endali=146190|startali=146070
+26	dey	_	AUX	_	Aspect=Imp	25	comp:aux	_	endali=146290|startali=146190
+27	get	_	VERB	_	_	26	comp:aux	_	endali=146510|startali=146290
+28	ready	_	ADJ	_	_	27	mod	_	endali=146960|startali=146510
+29	#	_	PUNCT	_	_	30	punct	_	endali=147280|startali=146960
+30	to	_	ADP	_	_	28	comp:pred	_	endali=147410|startali=147280
+31	go	_	AUX	_	Tense=Prosp	30	comp	_	endali=147582|startali=147410
+32	London	_	PROPN	_	_	31	comp:obj	_	endali=148351|startali=147582
+33	make	_	AUX	_	Mood=Jus	31	mod	_	endali=148500|startali=148351
+34	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	subj	_	endali=148630|startali=148500
+35	go	_	AUX	_	Tense=Prosp	33	comp:pred	_	endali=148760|startali=148630
+36	do	_	VERB	_	_	35	comp:pred	_	endali=148880|startali=148760
+37	follow	_	VERB	_	_	39	compound	_	endali=149319|startali=148880
+38	up	_	ADP	_	_	37	compound:prt	_	endali=149541|startali=149319
+39	medicals	medical	NOUN	_	Number=Plur	36	comp:obj	_	endali=150210|startali=149541
+40	with	_	ADP	_	_	36	punct	_	endali=150340|startali=150210
+41	all	_	DET	_	_	43	det	_	endali=150465|startali=150340
+42	im	_	ADJ	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	43	dep	_	endali=150590|startali=150465
+43	doctors	doctor	NOUN	_	Number=Plur	40	comp	_	endali=150920|startali=150590
+44	wey	_	SCONJ	_	_	43	dep	_	endali=151027|startali=150920
+45	be	_	VERB	_	PartType=Cop	44	comp	_	endali=151094|startali=151027
+46	sey	_	SCONJ	_	_	45	comp:pred	_	endali=151300|startali=151094
+47	[	_	PUNCT	_	_	49	punct	_	endali=151330|startali=151300
+48	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	49	subj	_	endali=151418|startali=151330
+49	dey	_	VERB	_	PartType=Cop	46	comp	_	endali=151600|startali=151418
+50	dere	_	ADV	_	PronType=Dem	49	comp:pred	_	endali=151890|startali=151600
+51	]	_	PUNCT	_	_	49	punct	_	endali=151920|startali=151890
+52	]	_	PUNCT	_	_	16	punct	_	endali=151920|startali=151890
+53	//	_	PUNCT	_	_	4	punct	_	endali=151920|startali=151890
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_22
+# sent_translation = # now we heard that this one that  this information indeed, it was Mr presidemt's special adviser on media and publicity Mr Femi Adeshina was the one who said this yesterday inside Abuja,
+# text = # now we hear sey [ { dis one wey be sey || ehm # dis ehn informate so } sey na { Oga Presido { spe- || special } adviser on top { media |c and publicity } |a Mr Femi Adesina } >+ na im yarn dis one yesterday for inside Abuja ] //
+# timestamp = 1590163822.940664
+1	#	_	PUNCT	_	_	4	punct	_	endali=152380|startali=151920
+2	now	_	ADV	_	_	4	mod:periph	_	endali=152690|startali=152380
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=152840|startali=152690
+4	hear	_	VERB	_	_	0	root	_	endali=152966|startali=152840
+5	sey	_	SCONJ	_	_	4	comp:obj	_	endali=153088|startali=152966
+6	[	_	PUNCT	_	_	22	punct	_	endali=153118|startali=153088
+7	{	_	PUNCT	_	_	9	punct	_	endali=153118|startali=153088
+8	dis	_	DET	_	Number=Sing|PronType=Prox	9	det	_	endali=153360|startali=153118
+9	one	_	NOUN	_	_	22	dislocated	_	endali=153510|startali=153360
+10	wey	_	SCONJ	_	_	9	dep	_	endali=153610|startali=153510
+11	be	_	VERB	_	PartType=Cop	10	comp	_	endali=153721|startali=153610
+12	sey	_	SCONJ	_	_	11	comp:pred	_	endali=154038|startali=153721
+13	||	_	PUNCT	_	_	18	punct	_	endali=154068|startali=154038
+14	ehm	_	INTJ	_	_	18	discourse	_	endali=154660|startali=154068
+15	#	_	PUNCT	_	_	18	punct	_	endali=155375|startali=154660
+16	dis	_	DET	_	Number=Sing|PronType=Prox	18	det	_	endali=155616|startali=155375
+17	ehn	_	INTJ	_	_	18	discourse	_	endali=155736|startali=155616
+18	informate	_	NOUN	_	_	9	conj:dicto	_	endali=156196|startali=155736
+19	so	_	ADV	_	_	18	mod:emph	_	endali=156675|startali=156196
+20	}	_	PUNCT	_	_	9	punct	_	endali=156705|startali=156675
+21	sey	_	SCONJ	_	_	22	cc	_	endali=156864|startali=156705
+22	na	_	PART	_	PartType=Cop	5	comp	_	endali=157036|startali=156894
+23	{	_	PUNCT	_	_	31	punct	_	endali=157066|startali=157036
+24	Oga	_	PROPN	_	_	31	mod	_	endali=157246|startali=157066
+25	Presido	_	PROPN	_	_	24	flat	_	endali=157975|startali=157246
+26	{	_	PUNCT	_	_	27	punct	_	endali=158005|startali=157975
+27	spe-	_	X	_	_	31	dep	_	endali=158173|startali=158005
+28	||	_	PUNCT	_	_	29	punct	_	endali=158203|startali=158173
+29	special	_	ADJ	_	_	27	conj:dicto	_	endali=158446|startali=158203
+30	}	_	PUNCT	_	_	27	punct	_	endali=158476|startali=158446
+31	adviser	_	NOUN	_	_	22	comp:pred	_	endali=159056|startali=158476
+32	on	_	ADP	_	_	31	dep	_	endali=159156|startali=159056
+33	top	_	NOUN	_	_	32	fixed	_	endali=159415|startali=159156
+34	{	_	PUNCT	_	_	35	punct	_	endali=159445|startali=159415
+35	media	_	NOUN	_	_	32	comp	_	endali=159726|startali=159445
+36	|c	_	PUNCT	_	_	38	punct	_	endali=159756|startali=159726
+37	and	_	CCONJ	_	_	38	cc	_	endali=159966|startali=159756
+38	publicity	_	NOUN	_	_	35	conj:coord	_	endali=161003|startali=159966
+39	}	_	PUNCT	_	_	35	punct	_	endali=161033|startali=161003
+40	|a	_	PUNCT	_	_	41	punct	_	endali=161033|startali=161003
+41	Mr	_	PROPN	_	_	31	conj:appos	_	endali=161336|startali=161033
+42	Femi	_	PROPN	_	_	41	flat	_	endali=161596|startali=161336
+43	Adesina	_	PROPN	_	_	42	flat	_	endali=162106|startali=161596
+44	}	_	PUNCT	_	_	31	punct	_	endali=162136|startali=162106
+45	>+	_	PUNCT	_	_	46	punct	_	endali=162136|startali=162106
+46	na	_	PART	_	PartType=Cop	22	comp:cleft	_	endali=162216|startali=162136
+47	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	46	comp:pred	_	endali=162378|startali=162216
+48	yarn	_	VERB	_	_	46	dep	_	endali=162660|startali=162378
+49	dis	_	DET	_	Number=Sing|PronType=Prox	50	det	_	endali=162856|startali=162660
+50	one	_	NOUN	_	_	48	comp:obj	_	endali=163179|startali=162856
+51	yesterday	_	NOUN	_	_	48	mod	_	endali=163816|startali=163179
+52	for	_	ADP	_	_	48	comp:obl	_	endali=163986|startali=163816
+53	inside	_	ADP	_	_	52	fixed	_	endali=164256|startali=163986
+54	Abuja	_	PROPN	_	_	52	comp	_	endali=164730|startali=164256
+55	]	_	PUNCT	_	_	22	punct	_	endali=164760|startali=164730
+56	//	_	PUNCT	_	_	4	punct	_	endali=164760|startali=164730
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_23
+# sent_translation = # Now, according to oga Femi also, he was explaining that the duration,the length of stay which the boss Buhari will stay in London, it is only the doctor that can talk about that one right now. But said ' this one will not impede on the smooth running of the administration of our country,  because government will continue to run normally under the able leadership of our vice president.
+# text = # now according by Oga Femi also < e be dey explain sey [ { di duration || di length } of stay wey be sey Oga Buhari { won't || go } stay inside London < sey na only im doctor >+ na im fit talk that one right now |c # but sey dis one no go stop any kain waka wey be sey [ dey sele inside we obodo ] # because of sey [ government go dey continue normally under di able leadership of we Vice Presido ] ] //
+# timestamp = 1590163822.940667
+1	#	_	PUNCT	_	_	10	punct	_	endali=165120|startali=164760
+2	now	_	ADV	_	_	10	mod:periph	_	endali=165320|startali=165120
+3	according	_	VERB	_	Tense=Pres|VerbForm=Part	10	dislocated	_	endali=165670|startali=165320
+4	by	_	ADP	_	_	3	comp	_	endali=165820|startali=165670
+5	Oga	_	PROPN	_	_	4	comp	_	endali=166040|startali=165820
+6	Femi	_	PROPN	_	_	5	flat	_	endali=166370|startali=166040
+7	also	_	ADV	_	_	4	mod	_	endali=166710|startali=166370
+8	<	_	PUNCT	_	_	3	punct	_	endali=166740|startali=166710
+9	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=166876|startali=166740
+10	be	bin	AUX	_	Tense=Past	0	root	_	endali=166990|startali=166876
+11	dey	_	AUX	_	Aspect=Imp	10	comp:aux	_	endali=167070|startali=166990
+12	explain	_	VERB	_	_	11	comp:pred	_	endali=167370|startali=167070
+13	sey	_	SCONJ	_	_	12	comp:obj	_	endali=167494|startali=167370
+14	[	_	PUNCT	_	_	39	punct	_	endali=167524|startali=167494
+15	{	_	PUNCT	_	_	17	punct	_	endali=167524|startali=167494
+16	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=167720|startali=167524
+17	duration	_	NOUN	_	_	39	dislocated	_	endali=168250|startali=167720
+18	||	_	PUNCT	_	_	20	punct	_	endali=168280|startali=168250
+19	di	_	DET	_	Definite=Def|PronType=Art	20	det	_	endali=168428|startali=168280
+20	length	_	NOUN	_	_	17	conj:dicto	_	endali=168760|startali=168428
+21	}	_	PUNCT	_	_	17	punct	_	endali=168790|startali=168760
+22	of	_	ADP	_	_	20	dep	_	endali=168850|startali=168790
+23	stay	_	VERB	_	_	22	comp	_	endali=169027|startali=168850
+24	wey	_	SCONJ	_	_	23	dep	_	endali=169150|startali=169027
+25	be	_	VERB	_	PartType=Cop	24	comp	_	endali=169227|startali=169150
+26	sey	_	SCONJ	_	_	25	comp:pred	_	endali=169340|startali=169227
+27	Oga	_	PROPN	_	_	30	subj	_	endali=169550|startali=169340
+28	Buhari	_	PROPN	_	_	27	flat	_	endali=169900|startali=169550
+29	{	_	PUNCT	_	_	30	punct	_	endali=169930|startali=169900
+30	won't	_	AUX	_	_	26	comp	_	endali=170151|startali=169930
+31	||	_	PUNCT	_	_	32	punct	_	endali=170181|startali=170151
+32	go	_	AUX	_	Tense=Prosp	30	conj:dicto	_	endali=170310|startali=170181
+33	}	_	PUNCT	_	_	30	punct	_	endali=170340|startali=170310
+34	stay	_	VERB	_	_	32	comp:aux	_	endali=170530|startali=170340
+35	inside	_	ADP	_	_	34	comp:obl	_	endali=170793|startali=170530
+36	London	_	PROPN	_	_	35	comp	_	endali=171507|startali=170793
+37	<	_	PUNCT	_	_	17	mod:periph	_	endali=171589|startali=171507
+38	sey	_	SCONJ	_	_	39	cc	_	endali=171589|startali=171507
+39	na	_	PART	_	PartType=Cop	13	comp	_	endali=171724|startali=171619
+40	only	_	ADV	_	_	42	mod	_	endali=171900|startali=171724
+41	im	_	ADJ	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	42	dep	_	endali=172073|startali=171900
+42	doctor	_	NOUN	_	_	39	comp:pred	_	endali=172474|startali=172073
+43	>+	_	PUNCT	_	_	44	punct	_	endali=172504|startali=172474
+44	na	_	PART	_	PartType=Cop	39	comp:cleft	_	endali=172594|startali=172504
+45	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	44	comp:pred	_	endali=172710|startali=172594
+46	fit	_	AUX	_	_	45	dep	_	endali=172940|startali=172710
+47	talk	_	VERB	_	_	46	comp:aux	_	endali=173199|startali=172940
+48	that	_	SCONJ	_	_	49	det	_	endali=173380|startali=173199
+49	one	_	NOUN	_	_	47	comp:obj	_	endali=173560|startali=173380
+50	right	_	NOUN	_	_	51	mod	_	endali=173870|startali=173560
+51	now	_	ADV	_	_	47	mod	_	endali=174130|startali=173870
+52	|c	_	PUNCT	_	_	59	punct	_	endali=174160|startali=174130
+53	#	_	PUNCT	_	_	59	punct	_	endali=174594|startali=174160
+54	but	_	CCONJ	_	_	59	cc	_	endali=174890|startali=174594
+55	sey	_	SCONJ	_	_	54	fixed	_	endali=175002|startali=174890
+56	dis	_	DET	_	Number=Sing|PronType=Prox	57	det	_	endali=175130|startali=175002
+57	one	_	NOUN	_	_	59	subj	_	endali=175227|startali=175130
+58	no	_	PART	_	Polarity=Neg	59	mod	_	endali=175330|startali=175227
+59	go	_	AUX	_	Tense=Prosp	46	conj:coord	_	endali=175450|startali=175330
+60	stop	_	VERB	_	_	59	comp:aux	_	endali=175733|startali=175450
+61	any	_	DET	_	_	63	det	_	endali=176080|startali=175733
+62	kain	_	ADJ	_	_	63	dep	_	endali=176302|startali=176080
+63	waka	_	VERB	_	_	60	comp:obj	_	endali=176590|startali=176302
+64	wey	_	SCONJ	_	_	63	dep	_	endali=176690|startali=176590
+65	be	_	VERB	_	PartType=Cop	64	comp	_	endali=176781|startali=176690
+66	sey	_	SCONJ	_	_	65	comp:pred	_	endali=176850|startali=176781
+67	[	_	PUNCT	_	_	68	punct	_	endali=176880|startali=176850
+68	dey	_	AUX	_	Aspect=Imp	66	comp	_	endali=176980|startali=176880
+69	sele	_	VERB	_	_	68	comp:aux	_	endali=177200|startali=176980
+70	inside	_	ADP	_	_	69	comp:obl	_	endali=177444|startali=177200
+71	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	72	dep	_	endali=177520|startali=177444
+72	obodo	_	NOUN	_	_	70	comp	_	endali=177810|startali=177520
+73	]	_	PUNCT	_	_	68	punct	_	endali=177840|startali=177810
+74	#	_	PUNCT	_	_	75	punct	_	endali=178166|startali=177840
+75	because	_	SCONJ	_	_	60	mod	_	endali=178400|startali=178166
+76	of	_	ADP	_	_	75	fixed	_	endali=178490|startali=178400
+77	sey	_	SCONJ	_	_	76	fixed	_	endali=178630|startali=178490
+78	[	_	PUNCT	_	_	80	punct	_	endali=178660|startali=178630
+79	government	_	NOUN	_	_	80	subj	_	endali=179140|startali=178660
+80	go	_	AUX	_	Tense=Prosp	75	comp	_	endali=179269|startali=179140
+81	dey	_	AUX	_	Aspect=Imp	80	comp:aux	_	endali=179370|startali=179269
+82	continue	_	VERB	_	_	81	comp:aux	_	endali=179820|startali=179370
+83	normally	_	ADV	_	_	82	mod	_	endali=180736|startali=179820
+84	under	_	ADP	_	_	82	mod	_	endali=181380|startali=180736
+85	di	_	DET	_	Definite=Def|PronType=Art	87	det	_	endali=181570|startali=181380
+86	able	_	ADJ	_	_	87	dep	_	endali=181797|startali=181570
+87	leadership	_	NOUN	_	_	84	comp	_	endali=182456|startali=181797
+88	of	_	ADP	_	_	87	dep	_	endali=182790|startali=182456
+89	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	91	dep	_	endali=182910|startali=182790
+90	Vice	_	PROPN	_	_	91	dep	_	endali=183300|startali=182910
+91	Presido	_	PROPN	_	_	88	comp	_	endali=183866|startali=183300
+92	]	_	PUNCT	_	_	80	punct	_	endali=183896|startali=183866
+93	]	_	PUNCT	_	_	39	punct	_	endali=183896|startali=183866
+94	//	_	PUNCT	_	_	10	punct	_	endali=183896|startali=183866
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_24
+# sent_translation = # still on this one also, the boss Femii Adeshina still said that the boss, Buhari was very very grateful. to all the people that have been praying for him with all the good wishes that people desire and that people are expressing on him and in fact he said he is hopeful with the way they pray for him is how they should pray for the peace and unity of our land.
+# text = # still on top dis one also < Oga Femi Adeshina bin yarn sey [ Oga Buhari bin dey { very || very } grateful # to { all di people wey be sey bin dey pray for am |c plus all di good wishes wey bin sey [ people bin get |c and people dey express # for am ] } ] //
+# timestamp = 1590163822.940669
+1	#	_	PUNCT	_	_	12	punct	_	endali=184438|startali=183896
+2	still	_	ADV	_	_	3	mod	_	endali=184590|startali=184438
+3	on	_	ADP	_	_	12	mod:periph	_	endali=184730|startali=184590
+4	top	_	NOUN	_	_	3	fixed	_	endali=184890|startali=184730
+5	dis	_	DET	_	Number=Sing|PronType=Prox	6	det	_	endali=185050|startali=184890
+6	one	_	NOUN	_	_	3	comp	_	endali=185190|startali=185050
+7	also	_	ADV	_	_	6	mod	_	endali=185619|startali=185190
+8	<	_	PUNCT	_	_	3	punct	_	endali=185649|startali=185619
+9	Oga	_	PROPN	_	_	12	subj	_	endali=185950|startali=185649
+10	Femi	_	PROPN	_	_	9	flat	_	endali=186130|startali=185950
+11	Adeshina	_	PROPN	_	_	10	flat	_	endali=186604|startali=186130
+12	bin	_	AUX	_	Tense=Past	0	root	_	endali=186760|startali=186604
+13	yarn	_	VERB	_	_	12	comp:pred	_	endali=186960|startali=186760
+14	sey	_	SCONJ	_	_	13	comp:obj	_	endali=187090|startali=186960
+15	[	_	PUNCT	_	_	18	punct	_	endali=187120|startali=187090
+16	Oga	_	PROPN	_	_	18	subj	_	endali=187380|startali=187120
+17	Buhari	_	PROPN	_	_	16	flat	_	endali=187690|startali=187380
+18	bin	_	AUX	_	Tense=Past	14	comp	_	endali=187850|startali=187690
+19	dey	_	VERB	_	PartType=Cop	18	comp:aux	_	endali=187970|startali=187850
+20	{	_	PUNCT	_	_	21	punct	_	endali=188000|startali=187970
+21	very	_	ADV	_	_	25	mod	_	endali=188206|startali=188000
+22	||	_	PUNCT	_	_	23	punct	_	endali=188236|startali=188206
+23	very	_	ADV	_	_	21	compound:redup	_	endali=188460|startali=188236
+24	}	_	PUNCT	_	_	21	punct	_	endali=188490|startali=188460
+25	grateful	_	ADJ	_	_	19	comp:pred	_	endali=189300|startali=188490
+26	#	_	PUNCT	_	_	27	punct	_	endali=189640|startali=189300
+27	to	_	ADP	_	_	25	comp:obl	_	endali=189707|startali=189640
+28	{	_	PUNCT	_	_	31	punct	_	endali=189737|startali=189707
+29	all	_	DET	_	_	31	det	_	endali=190110|startali=189737
+30	di	_	DET	_	Definite=Def|PronType=Art	31	det	_	endali=190260|startali=190110
+31	people	_	NOUN	_	_	27	comp	_	endali=190480|startali=190260
+32	wey	_	SCONJ	_	_	31	dep	_	endali=190602|startali=190480
+33	be	_	VERB	_	PartType=Cop	32	comp	_	endali=190670|startali=190602
+34	sey	_	SCONJ	_	_	33	comp:pred	_	endali=190824|startali=190670
+35	bin	_	AUX	_	Tense=Past	34	comp	_	endali=190989|startali=190824
+36	dey	_	AUX	_	Aspect=Imp	35	comp:aux	_	endali=191160|startali=190989
+37	pray	_	VERB	_	_	36	comp:aux	_	endali=191340|startali=191160
+38	for	_	ADP	_	_	37	comp:obl	_	endali=191566|startali=191340
+39	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	38	comp	_	endali=191680|startali=191566
+40	|c	_	PUNCT	_	_	45	punct	_	endali=191710|startali=191680
+41	plus	_	CCONJ	_	_	45	cc	_	endali=192143|startali=191710
+42	all	_	ADV	_	_	43	mod	_	endali=192270|startali=192143
+43	di	_	DET	_	Definite=Def|PronType=Art	45	det	_	endali=192380|startali=192270
+44	good	_	ADJ	_	_	45	dep	_	endali=192615|startali=192380
+45	wishes	_	NOUN	_	Number=Plur	31	conj:coord	_	endali=192900|startali=192615
+46	wey	_	SCONJ	_	_	45	dep	_	endali=192995|startali=192900
+47	bin	_	AUX	_	Tense=Past	46	fixed	_	endali=193074|startali=192995
+48	sey	_	SCONJ	_	_	47	fixed	_	endali=193170|startali=193074
+49	[	_	PUNCT	_	_	51	punct	_	endali=193200|startali=193170
+50	people	_	NOUN	_	_	51	subj	_	endali=193455|startali=193200
+51	bin	_	AUX	_	Tense=Past	46	comp	_	endali=193679|startali=193455
+52	get	_	VERB	_	_	51	comp:aux	_	endali=194199|startali=193679
+53	|c	_	PUNCT	_	_	56	punct	_	endali=194229|startali=194199
+54	and	_	CCONJ	_	_	56	cc	_	endali=194510|startali=194229
+55	people	_	NOUN	_	_	56	subj	_	endali=194748|startali=194510
+56	dey	_	AUX	_	Aspect=Imp	51	conj:coord	_	endali=194877|startali=194748
+57	express	_	VERB	_	_	56	comp:aux	_	endali=195532|startali=194877
+58	#	_	PUNCT	_	_	59	punct	_	endali=195729|startali=195532
+59	for	_	ADP	_	_	57	comp:obl	_	endali=195911|startali=195729
+60	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	59	comp	_	endali=196100|startali=195911
+61	]	_	PUNCT	_	_	25	punct	_	endali=196130|startali=196100
+62	}	_	PUNCT	_	_	31	punct	_	endali=196130|startali=196100
+63	]	_	PUNCT	_	_	18	punct	_	endali=196130|startali=196100
+64	//	_	PUNCT	_	_	12	punct	_	endali=196130|startali=196100
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_25
+# sent_translation = on him and in fact he said he is hopeful with the way they pray for him is how they should pray for the peace and unity of our land.
+# text = and in fact im bin yarn sey [ e dey hopeful sey [ as di way wey we say [ de dey pray for am ] < na so >+ de go dey pray for di peace and unity of we obodo ] ] //
+# timestamp = 1590163822.940672
+1	and	_	CCONJ	_	_	5	cc	_	endali=196278|startali=196130
+2	in	_	ADP	_	_	5	mod:periph	_	endali=196380|startali=196278
+3	fact	_	NOUN	_	_	2	fixed	_	endali=196870|startali=196380
+4	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	subj	_	endali=196980|startali=196870
+5	bin	_	AUX	_	Tense=Past	0	root	_	endali=197145|startali=196980
+6	yarn	_	VERB	_	_	5	comp:aux	_	endali=197360|startali=197145
+7	sey	_	SCONJ	_	_	6	comp:obj	_	endali=197543|startali=197360
+8	[	_	PUNCT	_	_	10	punct	_	endali=197573|startali=197543
+9	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=197687|startali=197573
+10	dey	_	VERB	_	VerbType=Cop	7	comp	_	endali=197893|startali=197687
+11	hopeful	_	ADJ	_	_	10	comp:pred	_	endali=198631|startali=197893
+12	sey	_	SCONJ	_	_	11	comp:obj	_	endali=198720|startali=198631
+13	[	_	PUNCT	_	_	28	punct	_	endali=198750|startali=198720
+14	as	_	ADP	_	_	28	mod:periph	_	endali=198922|startali=198750
+15	di	_	DET	_	Definite=Def|PronType=Art	16	det	_	endali=199023|startali=198922
+16	way	_	NOUN	_	_	14	comp	_	endali=199143|startali=199023
+17	wey	_	SCONJ	_	_	16	dep	_	endali=199269|startali=199143
+18	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	subj	_	endali=199341|startali=199269
+19	say	_	VERB	_	_	17	comp	_	endali=199430|startali=199341
+20	[	_	PUNCT	_	_	22	punct	_	endali=199460|startali=199430
+21	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	subj	_	endali=199602|startali=199460
+22	dey	_	AUX	_	Aspect=Imp	19	parataxis:obj	_	endali=199750|startali=199602
+23	pray	_	VERB	_	_	22	comp:aux	_	endali=199900|startali=199750
+24	for	_	ADP	_	_	23	comp:obl	_	endali=200154|startali=199900
+25	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	24	comp	_	endali=200445|startali=200154
+26	]	_	PUNCT	_	_	22	punct	_	endali=200475|startali=200445
+27	<	_	PUNCT	_	_	14	punct	_	endali=200475|startali=200445
+28	na	_	PART	_	PartType=Cop	12	comp	_	endali=200600|startali=200475
+29	so	_	ADV	_	_	28	comp:pred	_	endali=200701|startali=200600
+30	>+	_	PUNCT	_	_	32	punct	_	endali=200731|startali=200701
+31	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	subj	_	endali=200855|startali=200731
+32	go	_	AUX	_	Tense=Prosp	28	comp:cleft	_	endali=200949|startali=200855
+33	dey	_	AUX	_	Aspect=Imp	32	comp:aux	_	endali=201140|startali=200949
+34	pray	_	VERB	_	_	33	comp:aux	_	endali=201666|startali=201140
+35	for	_	ADP	_	_	34	comp:obl	_	endali=201828|startali=201666
+36	di	_	DET	_	Definite=Def|PronType=Art	37	det	_	endali=201990|startali=201828
+37	peace	_	NOUN	_	_	35	comp	_	endali=202310|startali=201990
+38	and	_	CCONJ	_	_	39	cc	_	endali=202446|startali=202310
+39	unity	_	NOUN	_	_	37	conj:coord	_	endali=203190|startali=202446
+40	of	_	ADP	_	_	39	dep	_	endali=203490|startali=203190
+41	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	42	dep	_	endali=203660|startali=203490
+42	obodo	_	NOUN	_	_	40	comp	_	endali=204070|startali=203660
+43	]	_	PUNCT	_	_	28	punct	_	endali=204100|startali=204070
+44	]	_	PUNCT	_	_	10	punct	_	endali=204100|startali=204070
+45	//	_	PUNCT	_	_	5	punct	_	endali=204100|startali=204070
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_26
+# sent_translation = # and we heard that in January Pesident Buhari travelled to London for a very similar check up and he came back , returned in March ten after fifty one days in London
+# text = # and we hear sey [ for January so < Oga Buhari bin travel go London for a { very |r very } similar check up |c and im bin come back |c and im bin return for March ten after fifty one days in London ] //
+# timestamp = 1590163822.940674
+1	#	_	PUNCT	_	_	4	punct	_	endali=204560|startali=204100
+2	and	_	CCONJ	_	_	4	cc	_	endali=204650|startali=204560
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=204740|startali=204650
+4	hear	_	VERB	_	_	0	root	_	endali=204870|startali=204740
+5	sey	_	SCONJ	_	_	4	comp:obj	_	endali=204967|startali=204870
+6	[	_	PUNCT	_	_	13	punct	_	endali=204997|startali=204967
+7	for	_	ADP	_	_	13	mod:periph	_	endali=205190|startali=204997
+8	January	_	PROPN	_	_	7	comp	_	endali=205700|startali=205190
+9	so	_	ADV	_	_	7	mod	_	endali=206061|startali=205700
+10	<	_	PUNCT	_	_	7	punct	_	endali=206091|startali=206061
+11	Oga	_	PROPN	_	_	13	subj	_	endali=206340|startali=206091
+12	Buhari	_	PROPN	_	_	11	flat	_	endali=206540|startali=206340
+13	bin	_	AUX	_	Tense=Past	5	comp	_	endali=206710|startali=206570
+14	travel	_	VERB	_	_	13	comp:aux	_	endali=206980|startali=206710
+15	go	_	VERB	_	_	14	compound:svc	_	endali=207150|startali=206980
+16	London	_	PROPN	_	_	15	comp:obj	_	endali=207909|startali=207150
+17	for	_	ADP	_	_	15	comp:obl	_	endali=208070|startali=207909
+18	a	_	DET	_	Def=Ind|PronType=Art 	25	det	_	endali=208100|startali=208070
+19	{	_	PUNCT	_	_	20	punct	_	endali=208130|startali=208100
+20	very	_	ADV	_	_	24	mod	_	endali=208420|startali=208130
+21	|r	_	PUNCT	_	_	22	punct	_	endali=208450|startali=208420
+22	very	_	ADV	_	_	20	compound:redup	_	endali=208650|startali=208450
+23	}	_	PUNCT	_	_	20	punct	_	endali=208680|startali=208650
+24	similar	_	ADJ	_	_	25	dep	_	endali=209170|startali=208680
+25	check	_	NOUN	_	_	17	comp	_	endali=209426|startali=209170
+26	up	_	ADP	_	_	25	compound:prt	_	endali=209830|startali=209426
+27	|c	_	PUNCT	_	_	30	punct	_	endali=209860|startali=209830
+28	and	_	CCONJ	_	_	30	cc	_	endali=209970|startali=209860
+29	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	subj	_	endali=210080|startali=209970
+30	bin	_	AUX	_	Tense=Past	13	conj:coord	_	endali=210250|startali=210080
+31	come	_	VERB	_	_	30	comp:aux	_	endali=210500|startali=210250
+32	back	_	ADV	_	_	31	mod	_	endali=210950|startali=210500
+33	|c	_	PUNCT	_	_	36	punct	_	endali=210980|startali=210950
+34	and	_	CCONJ	_	_	36	cc	_	endali=211050|startali=210980
+35	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	36	subj	_	endali=211130|startali=211050
+36	bin	_	AUX	_	Tense=Past	30	conj:coord	_	endali=211320|startali=211130
+37	return	_	VERB	_	_	36	comp:aux	_	endali=211700|startali=211320
+38	for	_	ADP	_	_	37	comp:obl	_	endali=211880|startali=211700
+39	March	_	PROPN	_	_	38	comp	_	endali=212276|startali=211880
+40	ten	_	NUM	_	NumType=Card	39	flat	_	endali=212870|startali=212276
+41	after	_	ADP	_	_	37	mod	_	endali=213191|startali=212870
+42	fifty	_	NUM	_	NumType=Card	43	compound	_	endali=213500|startali=213191
+43	one	_	NUM	_	NumType=Card	44	dep	_	endali=213730|startali=213500
+44	days	day	NOUN	_	Number=Plur	41	comp	_	endali=214258|startali=213730
+45	in	_	ADP	_	_	44	dep	_	endali=214460|startali=214258
+46	London	_	PROPN	_	_	45	comp	_	endali=214966|startali=214460
+47	]	_	PUNCT	_	_	13	punct	_	endali=214996|startali=214966
+48	//	_	PUNCT	_	_	4	punct	_	endali=214996|startali=214966
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_27
+# sent_translation = # Now ah, we have heard that the committee which handle things on aeroplane matter inside our country who call themselves Nigeria civil aviation authority now, they are out to caution,  they warned all these passengers who incite, any little thing, they will just flair off, they will just flair off,
+# text = # now ah we don hear sey [ di joinbody wey be sey dey handle things on top aeroplane matter inside we obodo ( eh de dey call demself the Nigerian Civil Aviation Authority now //) < de don comot { dey drag ear || # dey warn } all dis passengers wey be sey [ dey ginger any small thing |c dey just dey vex |c dey just dey vex ] ] //
+# timestamp = 1590163822.940677
+1	#	_	PUNCT	_	_	5	punct	_	endali=216560|startali=214996
+2	now	_	ADV	_	_	5	mod:periph	_	endali=216960|startali=216560
+3	ah	_	INTJ	_	_	5	discourse	_	endali=217250|startali=216960
+4	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	subj	_	endali=217360|startali=217250
+5	don	_	AUX	_	Aspect=Perf	0	root	_	endali=217558|startali=217360
+6	hear	_	VERB	_	_	5	comp:aux	_	endali=217750|startali=217558
+7	sey	_	SCONJ	_	_	6	comp:obj	_	endali=217922|startali=217750
+8	[	_	PUNCT	_	_	39	punct	_	endali=217952|startali=217922
+9	di	_	DET	_	Definite=Def|PronType=Art	10	det	_	endali=218177|startali=217952
+10	joinbody	_	NOUN	_	_	39	dislocated	_	endali=218610|startali=218177
+11	wey	_	SCONJ	_	_	10	dep	_	endali=218730|startali=218610
+12	be	_	VERB	_	PartType=Cop	11	comp	_	endali=218815|startali=218730
+13	sey	_	SCONJ	_	_	12	comp:pred	_	endali=218945|startali=218815
+14	dey	_	AUX	_	Aspect=Imp	13	comp	_	endali=219060|startali=218945
+15	handle	_	VERB	_	_	14	comp:aux	_	endali=219490|startali=219060
+16	things	ting	NOUN	_	Number=Plur	15	comp:obj	_	endali=219770|startali=219490
+17	on	_	ADP	_	_	15	comp:obl	_	endali=219880|startali=219770
+18	top	_	NOUN	_	_	17	fixed	_	endali=220050|startali=219880
+19	aeroplane	_	NOUN	_	_	20	compound	_	endali=220500|startali=220050
+20	matter	_	NOUN	_	_	17	comp	_	endali=220870|startali=220500
+21	inside	_	ADP	_	_	20	dep	_	endali=221242|startali=220870
+22	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	dep	_	endali=221370|startali=221242
+23	obodo	_	NOUN	_	_	21	comp	_	endali=221865|startali=221370
+24	(	_	PUNCT	_	_	27	punct	_	endali=221895|startali=221865
+25	eh	_	INTJ	_	_	27	discourse	_	endali=222065|startali=221895
+26	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	subj	_	endali=222230|startali=222065
+27	dey	_	AUX	_	Aspect=Imp	10	parataxis:parenth	_	endali=222360|startali=222230
+28	call	_	VERB	_	_	27	comp:aux	_	endali=222572|startali=222360
+29	demself	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Pers|Reflex=Yes	28	comp:obj	_	endali=223037|startali=222572
+30	the	_	DET	_	Definite=Def|PronType=Art	31	det	_	endali=223170|startali=223037
+31	Nigerian	_	NOUN	_	_	28	comp:pred	_	endali=223640|startali=223170
+32	Civil	_	PROPN	_	_	31	flat	_	endali=224032|startali=223640
+33	Aviation	_	PROPN	_	_	32	flat	_	endali=224470|startali=224032
+34	Authority	_	PROPN	_	_	33	flat	_	endali=224980|startali=224470
+35	now	_	ADV	_	_	28	mod	_	endali=225463|startali=224980
+36	//)	_	PUNCT	_	_	27	punct	_	endali=225493|startali=225463
+37	<	_	PUNCT	_	_	10	punct	_	endali=225493|startali=225463
+38	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	39	subj	_	endali=225602|startali=225493
+39	don	_	AUX	_	Aspect=Perf	7	comp	_	endali=225750|startali=225602
+40	comot	_	VERB	_	_	39	comp:aux	_	endali=226049|startali=225750
+41	{	_	PUNCT	_	_	42	punct	_	endali=226079|startali=226049
+42	dey	_	AUX	_	Aspect=Imp	40	comp:pred	_	endali=226220|startali=226079
+43	drag	_	VERB	_	_	42	comp:aux	_	endali=226590|startali=226220
+44	ear	_	NOUN	_	_	43	comp:obj	_	endali=226794|startali=226590
+45	||	_	PUNCT	_	_	47	punct	_	endali=226824|startali=226794
+46	#	_	PUNCT	_	_	47	punct	_	endali=227085|startali=226824
+47	dey	_	AUX	_	Aspect=Imp	42	conj:dicto	_	endali=227267|startali=227085
+48	warn	_	VERB	_	_	47	comp:aux	_	endali=227515|startali=227267
+49	}	_	PUNCT	_	_	47	punct	_	endali=227545|startali=227515
+50	all	_	DET	_	_	52	det	_	endali=227765|startali=227545
+51	dis	_	DET	_	Number=Sing|PronType=Prox	52	det	_	endali=228006|startali=227765
+52	passengers	passenger	NOUN	_	Number=Plur	47	conj:dicto	_	endali=228465|startali=228006
+53	wey	_	SCONJ	_	_	52	dep	_	endali=228535|startali=228465
+54	be	_	VERB	_	PartType=Cop	53	comp	_	endali=228615|startali=228535
+55	sey	_	SCONJ	_	_	54	comp:pred	_	endali=228695|startali=228615
+56	[	_	PUNCT	_	_	57	punct	_	endali=228725|startali=228695
+57	dey	_	AUX	_	Aspect=Imp	55	comp	_	endali=228945|startali=228725
+58	ginger	_	VERB	_	_	57	comp:aux	_	endali=229315|startali=228945
+59	any	_	DET	_	_	61	det	_	endali=229565|startali=229315
+60	small	_	ADJ	_	_	61	dep	_	endali=229835|startali=229565
+61	thing	_	NOUN	_	_	58	comp:obj	_	endali=229935|startali=229835
+62	|c	_	PUNCT	_	_	63	punct	_	endali=229965|startali=229935
+63	dey	_	AUX	_	Aspect=Imp	57	conj:coord	_	endali=230065|startali=229965
+64	just	_	ADV	_	_	65	mod	_	endali=230279|startali=230065
+65	dey	_	AUX	_	Aspect=Imp	63	comp:aux	_	endali=230405|startali=230279
+66	vex	_	VERB	_	_	65	comp:aux	_	endali=230707|startali=230405
+67	|c	_	PUNCT	_	_	68	punct	_	endali=230737|startali=230707
+68	dey	_	AUX	_	Aspect=Imp	63	conj:coord	_	endali=230834|startali=230737
+69	just	_	ADV	_	_	70	mod	_	endali=230975|startali=230834
+70	dey	_	AUX	_	Aspect=Imp	68	comp:aux	_	endali=231125|startali=230975
+71	vex	_	VERB	_	_	70	comp:aux	_	endali=231493|startali=231125
+72	]	_	PUNCT	_	_	57	punct	_	endali=231523|startali=231493
+73	]	_	PUNCT	_	_	39	punct	_	endali=231523|startali=231493
+74	//	_	PUNCT	_	_	5	punct	_	endali=231523|startali=231493
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_28
+# sent_translation = # and as they get angry so, the same way they beat the people who work inside aeroplane, en maybe the crew member, and they make trouble with all the people who work behind the desk, all these people who do these kind of bad thing
+# text = # and as de dey vex so < na so >+ de dey beat { di people wey be sey de bin dey work inside aeroplane o |c ehn maybe di { cr- || crew } member } o //
+# timestamp = 1590163822.940679
+1	#	_	PUNCT	_	_	9	punct	_	endali=231760|startali=231523
+2	and	_	CCONJ	_	_	9	cc	_	endali=231850|startali=231760
+3	as	_	ADP	_	_	9	mod:periph	_	endali=231991|startali=231850
+4	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	subj	_	endali=232119|startali=231991
+5	dey	_	AUX	_	Aspect=Imp	3	comp	_	endali=232263|startali=232119
+6	vex	_	VERB	_	_	5	comp:aux	_	endali=232540|startali=232263
+7	so	_	ADV	_	_	6	mod	_	endali=232743|startali=232540
+8	<	_	PUNCT	_	_	3	punct	_	endali=232773|startali=232743
+9	na	_	PART	_	PartType=Cop	0	root	_	endali=232890|startali=232773
+10	so	_	ADV	_	_	9	comp:pred	_	endali=232960|startali=232890
+11	>+	_	PUNCT	_	_	13	punct	_	endali=232990|startali=232960
+12	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	subj	_	endali=233148|startali=232990
+13	dey	_	AUX	_	Aspect=Imp	9	comp:cleft	_	endali=233280|startali=233148
+14	beat	_	VERB	_	_	13	comp:aux	_	endali=233777|startali=233280
+15	{	_	PUNCT	_	_	17	punct	_	endali=233807|startali=233777
+16	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=234040|startali=233807
+17	people	_	NOUN	_	_	14	mod	_	endali=234280|startali=234040
+18	wey	_	SCONJ	_	_	17	dep	_	endali=234370|startali=234280
+19	be	_	VERB	_	PartType=Cop	18	comp	_	endali=234450|startali=234370
+20	sey	_	SCONJ	_	_	19	comp:pred	_	endali=234560|startali=234450
+21	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	subj	_	endali=234680|startali=234560
+22	bin	_	AUX	_	Tense=Past	20	comp	_	endali=234770|startali=234680
+23	dey	_	AUX	_	Aspect=Imp	22	comp:aux	_	endali=234876|startali=234770
+24	work	_	VERB	_	_	23	comp:aux	_	endali=235060|startali=234876
+25	inside	_	ADP	_	_	24	comp:obl	_	endali=235310|startali=235060
+26	aeroplane	_	NOUN	_	_	25	comp	_	endali=235830|startali=235310
+27	o	_	PART	_	PartType=Disc	26	mod:emph	_	endali=236230|startali=235830
+28	|c	_	PUNCT	_	_	33	punct	_	endali=236260|startali=236230
+29	ehn	_	INTJ	_	_	33	discourse	_	endali=236384|startali=236260
+30	maybe	_	ADV	_	_	33	mod	_	endali=236610|startali=236384
+31	di	_	DET	_	Definite=Def|PronType=Art	33	det	_	endali=236780|startali=236610
+32	{	_	PUNCT	_	_	33	punct	_	endali=236810|startali=236780
+33	cr-	_	NOUN	_	_	17	conj:appos	_	endali=237261|startali=236810
+34	||	_	PUNCT	_	_	35	punct	_	endali=237291|startali=237261
+35	crew	_	NOUN	_	_	33	conj:dicto	_	endali=237503|startali=237291
+36	}	_	PUNCT	_	_	33	punct	_	endali=237533|startali=237503
+37	member	_	NOUN	_	_	35	flat	_	endali=237921|startali=237533
+38	}	_	PUNCT	_	_	17	punct	_	endali=237951|startali=237921
+39	o	_	PART	_	PartType=Disc	37	mod:emph	_	endali=238219|startali=237951
+40	//	_	PUNCT	_	_	9	conj:coord	_	endali=238249|startali=238219
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_29
+# sent_translation = and as they get angry so, the same way they beat the people who work inside aeroplane, en maybe the crew member, and they make trouble with all the people who work behind the desk, all these people who do these kind of bad thing
+# text = abi de { go find small wahala |c bin beat people wey be sey [ { dey || eh dey } work behind di desk } ] //
+# timestamp = 1590163822.940682
+1	abi	_	CCONJ	_	_	4	cc	_	endali=238420|startali=238249
+2	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	subj	_	endali=238517|startali=238420
+3	{	_	PUNCT	_	_	4	punct	_	endali=238547|startali=238517
+4	go	_	AUX	_	Tense=Prosp	0	root	_	endali=238670|startali=238547
+5	find	_	VERB	_	_	4	comp:aux	_	endali=238970|startali=238670
+6	small	_	ADJ	_	_	7	dep	_	endali=239266|startali=238970
+7	wahala	_	NOUN	_	_	5	comp:obj	_	endali=239540|startali=239266
+8	|c	_	PUNCT	_	_	9	punct	_	endali=239570|startali=239540
+9	bin	_	AUX	_	Tense=Past	4	conj:coord	_	endali=239750|startali=239570
+10	beat	_	VERB	_	_	9	comp:aux	_	endali=239930|startali=239750
+11	people	_	NOUN	_	_	10	comp:obj	_	endali=240090|startali=239930
+12	wey	_	SCONJ	_	_	11	dep	_	endali=240160|startali=240090
+13	be	_	VERB	_	PartType=Cop	12	comp	_	endali=240270|startali=240160
+14	sey	_	SCONJ	_	_	13	comp:pred	_	endali=240410|startali=240270
+15	[	_	PUNCT	_	_	17	punct	_	endali=240440|startali=240410
+16	{	_	PUNCT	_	_	17	punct	_	endali=240440|startali=240410
+17	dey	_	AUX	_	Aspect=Imp	14	comp	_	endali=240906|startali=240440
+18	||	_	PUNCT	_	_	20	punct	_	endali=240936|startali=240906
+19	eh	_	INTJ	_	_	20	discourse	_	endali=241089|startali=240936
+20	dey	_	AUX	_	Aspect=Imp	17	conj:dicto	_	endali=241180|startali=241089
+21	}	_	PUNCT	_	_	17	punct	_	endali=241210|startali=241180
+22	work	_	VERB	_	_	20	comp:aux	_	endali=241440|startali=241210
+23	behind	_	ADP	_	_	22	comp:obl	_	endali=241760|startali=241440
+24	di	_	DET	_	Definite=Def|PronType=Art	25	det	_	endali=241870|startali=241760
+25	desk	_	NOUN	_	_	23	comp	_	endali=242070|startali=241870
+26	}	_	PUNCT	_	_	17	punct	_	endali=242100|startali=242070
+27	]	_	PUNCT	_	_	17	punct	_	endali=242100|startali=242070
+28	//	_	PUNCT	_	_	4	punct	_	endali=242100|startali=242070
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_30
+# sent_translation = and as they get angry so, the same way they beat the people who work inside aeroplane, en maybe the crew member, and they make trouble with all the people who work behind the desk, all these people who do these kind of bad thing # so they should stop it now now, if not, that they will take all of them to court.
+# text = sey all dis people wey be sey de dey do dis kind badness < # sey meh de stop am { now |r now |r now } //
+# timestamp = 1590163822.940684
+1	sey	_	SCONJ	_	_	17	cc	_	endali=242240|startali=242100
+2	all	_	DET	_	_	4	det	_	endali=242500|startali=242240
+3	dis	_	DET	_	Number=Sing|PronType=Dem	4	det	_	endali=242650|startali=242500
+4	people	_	NOUN	_	_	17	dislocated	_	endali=242840|startali=242650
+5	wey	_	SCONJ	_	_	4	dep	_	endali=242920|startali=242840
+6	be	_	VERB	_	PartType=Cop	5	comp	_	endali=243010|startali=242920
+7	sey	_	SCONJ	_	_	6	comp:pred	_	endali=243143|startali=243010
+8	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	subj	_	endali=243280|startali=243143
+9	dey	_	AUX	_	Aspect=Imp	7	comp	_	endali=243383|startali=243280
+10	do	_	VERB	_	_	9	comp:aux	_	endali=243484|startali=243383
+11	dis	_	DET	_	Number=Sing|PronType=Prox	13	det	_	endali=243650|startali=243484
+12	kind	_	ADJ	_	_	13	dep	_	endali=243830|startali=243650
+13	badness	_	NOUN	_	_	10	comp:obj	_	endali=244210|startali=243830
+14	<	_	PUNCT	_	_	4	punct	_	endali=244240|startali=244210
+15	#	_	PUNCT	_	_	4	punct	_	endali=244518|startali=244240
+16	sey	_	SCONJ	_	_	17	cc	_	endali=244630|startali=244518
+17	meh	_	AUX	_	Mood=Jus	0	root	_	endali=244730|startali=244630
+18	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	subj	_	endali=244890|startali=244730
+19	stop	_	VERB	_	_	17	comp:aux	_	endali=245140|startali=244890
+20	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	19	comp:obj	_	endali=245260|startali=245140
+21	{	_	PUNCT	_	_	22	punct	_	endali=245290|startali=245260
+22	now	_	ADV	_	_	19	mod	_	endali=245570|startali=245290
+23	|r	_	PUNCT	_	_	24	punct	_	endali=245600|startali=245570
+24	now	_	ADV	_	_	22	compound:redup	_	endali=245850|startali=245600
+25	|r	_	PUNCT	_	_	26	punct	_	endali=245880|startali=245850
+26	now	_	ADV	_	_	24	compound:redup	_	endali=246120|startali=245880
+27	}	_	PUNCT	_	_	22	punct	_	endali=246150|startali=246120
+28	//	_	PUNCT	_	_	17	punct	_	endali=246150|startali=246120
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_31
+# sent_translation = so they should stop it now now, if not, that they will take all of them to court.
+# text = if not < sey de go carry all of dem go court //
+# timestamp = 1590163822.940688
+1	if	_	SCONJ	_	_	6	mod:periph	_	endali=246390|startali=246150
+2	not	_	PART	_	Polarity=Neg	1	comp	_	endali=247046|startali=246390
+3	<	_	PUNCT	_	_	1	punct	_	endali=247076|startali=247046
+4	sey	_	SCONJ	_	_	6	cc	_	endali=247210|startali=247076
+5	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	subj	_	endali=247310|startali=247210
+6	go	_	AUX	_	Tense=Prosp	0	root	_	endali=247420|startali=247310
+7	carry	_	VERB	_	_	6	comp:aux	_	endali=247710|startali=247420
+8	all	_	DET	_	_	7	comp:obj	_	endali=247810|startali=247710
+9	of	_	ADP	_	_	8	dep	_	endali=247900|startali=247810
+10	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	comp	_	endali=248090|startali=247900
+11	go	_	AUX	_	Tense=Prosp	7	compound:svc	_	endali=248300|startali=248090
+12	court	_	NOUN	_	_	11	comp:aux	_	endali=248737|startali=248300
+13	//	_	PUNCT	_	_	6	punct	_	endali=248767|startali=248737
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_32
+# sent_translation = # It is this dragging of girls which they give to them , it is as a result of this that the general manager of the body en di on top the media session public relation em mr Sam Adurogboye talks about
+# text = # now dis dragging of ear wey be sey [ de dey drag ear give dem so ] < # na inside dis statement on top >+ be sey { di General Manager of di joinbody ( ehn di on top di media section public relation ) |a ehn Mr Sam Adurogboye } dey yarn so //
+# timestamp = 1590163822.940691
+1	#	_	PUNCT	_	_	21	punct	_	endali=249092|startali=248767
+2	now	_	ADV	_	_	3	mod	_	endali=249222|startali=249092
+3	dis	_	DET	_	Number=Sing|PronType=Prox	4	det	_	endali=249487|startali=249222
+4	dragging	drag	VERB	_	Tense=Pres|VerbForm=Part	21	dislocated	_	endali=249862|startali=249487
+5	of	_	ADP	_	_	4	dep	_	endali=250049|startali=249862
+6	ear	_	NOUN	_	_	5	comp	_	endali=250168|startali=250049
+7	wey	_	SCONJ	_	_	4	dep	_	endali=250275|startali=250168
+8	be	_	VERB	_	PartType=Cop	7	comp	_	endali=250343|startali=250275
+9	sey	_	SCONJ	_	_	8	comp:pred	_	endali=250429|startali=250343
+10	[	_	PUNCT	_	_	12	punct	_	endali=250459|startali=250429
+11	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	subj	_	endali=250587|startali=250459
+12	dey	_	AUX	_	Aspect=Imp	9	comp	_	endali=250702|startali=250587
+13	drag	_	VERB	_	_	12	comp:aux	_	endali=251042|startali=250702
+14	ear	_	NOUN	_	_	13	comp:obj	_	endali=251216|startali=251042
+15	give	_	VERB	_	_	13	compound:svc	_	endali=251422|startali=251216
+16	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	comp:obj	_	endali=251602|startali=251422
+17	so	_	ADV	_	_	15	mod	_	endali=251887|startali=251602
+18	]	_	PUNCT	_	_	12	punct	_	endali=251917|startali=251887
+19	<	_	PUNCT	_	_	4	punct	_	endali=251917|startali=251887
+20	#	_	PUNCT	_	_	4	punct	_	endali=252206|startali=251917
+21	na	_	PART	_	PartType=Cop	0	root	_	endali=252330|startali=252206
+22	inside	_	ADP	_	_	21	comp:pred	_	endali=252636|startali=252330
+23	dis	_	DET	_	Number=Sing|PronType=Prox	24	det	_	endali=252736|startali=252636
+24	statement	_	NOUN	_	_	22	comp	_	endali=253038|startali=252736
+25	on	_	ADP	_	_	24	dep	_	endali=253146|startali=253038
+26	top	_	NOUN	_	_	25	fixed	_	endali=253205|startali=253146
+27	>+	_	PUNCT	_	_	28	punct	_	endali=253235|startali=253205
+28	be	_	VERB	_	PartType=Cop	21	comp:cleft	_	endali=253326|startali=253235
+29	sey	_	SCONJ	_	_	28	comp:pred	_	endali=253455|startali=253326
+30	{	_	PUNCT	_	_	33	punct	_	endali=253485|startali=253455
+31	di	_	DET	_	Definite=Def|PronType=Art	33	det	_	endali=253627|startali=253485
+32	General	_	PROPN	_	_	33	dep	_	endali=254066|startali=253627
+33	Manager	_	PROPN	_	_	54	subj	_	endali=254756|startali=254066
+34	of	_	ADP	_	_	33	dep	_	endali=254936|startali=254756
+35	di	_	DET	_	Definite=Def|PronType=Art	36	det	_	endali=255060|startali=254936
+36	joinbody	_	VERB	_	_	34	comp	_	endali=255596|startali=255060
+37	(	_	PUNCT	_	_	44	punct	_	endali=255626|startali=255596
+38	ehn	_	INTJ	_	_	44	discourse	_	endali=256133|startali=255626
+39	di	_	DET	_	Definite=Def|PronType=Art	40	det	_	endali=256366|startali=256133
+40	on	_	ADP	_	_	44	dep	_	endali=256516|startali=256366
+41	top	_	NOUN	_	_	40	fixed	_	endali=256732|startali=256516
+42	di	_	DET	_	Definite=Def|PronType=Art	43	det	_	endali=256866|startali=256732
+43	media	_	NOUN	_	_	40	comp	_	endali=257266|startali=256866
+44	section	_	NOUN	_	_	36	parataxis:parenth	_	endali=257686|startali=257266
+45	public	_	ADJ	_	_	46	compound	_	endali=258016|startali=257686
+46	relation	_	NOUN	_	_	44	dep	_	endali=258517|startali=258016
+47	)	_	PUNCT	_	_	44	punct	_	endali=258775|startali=258517
+48	|a	_	PUNCT	_	_	50	punct	_	endali=258775|startali=258517
+49	ehn	_	INTJ	_	_	50	discourse	_	endali=258775|startali=258517
+50	Mr	_	PROPN	_	_	33	conj:appos	_	endali=259116|startali=258805
+51	Sam	_	PROPN	_	_	50	flat	_	endali=259436|startali=259116
+52	Adurogboye	_	PROPN	_	_	51	flat	_	endali=260181|startali=259436
+53	}	_	PUNCT	_	_	33	punct	_	endali=260211|startali=260181
+54	dey	_	AUX	_	Aspect=Imp	29	comp	_	endali=260360|startali=260211
+55	yarn	_	VERB	_	_	54	comp:aux	_	endali=260676|startali=260360
+56	so	_	ADV	_	_	55	mod	_	endali=260950|startali=260676
+57	//	_	PUNCT	_	_	21	punct	_	endali=260980|startali=260950
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_33
+# sent_translation = # According to Mr Sam also, he said that this one that they dragg girls to warn this people, that it is because of the report they get, that this aviation crew report to them that some people, some people get angry at them on issues that they do not have influence on.
+# text = # now according by Mr Sam also < im be yarn sey [ dis one wey be sey de don { dey drag ear |c dey warn dis people } < na because of di report wey be sey de dey get # sey dis ehn aeroplane people dey report sey [ { some people || some people } go just dey vex with dem on top things wey be sey de no get power over ] ] //
+# timestamp = 1590163822.940697
+1	#	_	PUNCT	_	_	10	punct	_	endali=261360|startali=260980
+2	now	_	ADV	_	_	10	discourse	_	endali=261430|startali=261360
+3	according	_	VERB	_	Tense=Pres|VerbForm=Part	10	mod:periph	_	endali=261760|startali=261430
+4	by	_	ADP	_	_	3	fixed	_	endali=261910|startali=261760
+5	Mr	_	PROPN	_	_	3	comp	_	endali=262230|startali=261910
+6	Sam	_	PROPN	_	_	5	flat	_	endali=262519|startali=262230
+7	also	_	ADV	_	_	6	mod	_	endali=263118|startali=262519
+8	<	_	PUNCT	_	_	3	punct	_	endali=263148|startali=263118
+9	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=263310|startali=263148
+10	be	bin	AUX	_	Tense=Past	0	root	_	endali=263480|startali=263310
+11	yarn	_	VERB	_	_	10	comp:aux	_	endali=263611|startali=263480
+12	sey	_	SCONJ	_	_	11	comp:obj	_	endali=263734|startali=263611
+13	[	_	PUNCT	_	_	32	punct	_	endali=263764|startali=263734
+14	dis	_	DET	_	Number=Sing|PronType=Prox	15	det	_	endali=263937|startali=263764
+15	one	_	NOUN	_	_	32	dislocated	_	endali=264058|startali=263937
+16	wey	_	SCONJ	_	_	15	dep	_	endali=264150|startali=264058
+17	be	_	VERB	_	PartType=Cop	16	comp	_	endali=264195|startali=264150
+18	sey	_	SCONJ	_	_	17	comp:pred	_	endali=264316|startali=264195
+19	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	subj	_	endali=264410|startali=264316
+20	don	_	AUX	_	Aspect=Perf	18	comp	_	endali=264520|startali=264410
+21	{	_	PUNCT	_	_	22	punct	_	endali=264550|startali=264520
+22	dey	_	AUX	_	Aspect=Imp	20	comp:aux	_	endali=264670|startali=264550
+23	drag	_	VERB	_	_	22	comp:aux	_	endali=264940|startali=264670
+24	ear	_	NOUN	_	_	23	comp:obj	_	endali=265048|startali=264940
+25	|c	_	PUNCT	_	_	26	punct	_	endali=265078|startali=265048
+26	dey	_	AUX	_	Aspect=Imp	22	conj:coord	_	endali=265206|startali=265078
+27	warn	_	VERB	_	_	26	comp:aux	_	endali=265410|startali=265206
+28	dis	_	DET	_	Number=Sing|PronType=Prox	29	det	_	endali=265601|startali=265410
+29	people	_	NOUN	_	_	27	comp:obj	_	endali=266039|startali=265601
+30	}	_	PUNCT	_	_	22	punct	_	endali=266069|startali=266039
+31	<	_	PUNCT	_	_	15	punct	_	endali=266069|startali=266039
+32	na	_	PART	_	PartType=Cop	12	comp	_	endali=266263|startali=266069
+33	because	_	SCONJ	_	_	32	comp:pred	_	endali=266530|startali=266263
+34	of	_	ADP	_	_	33	fixed	_	endali=266640|startali=266530
+35	di	_	DET	_	Definite=Def|PronType=Art	36	det	_	endali=266774|startali=266640
+36	report	_	NOUN	_	_	34	comp	_	endali=267340|startali=266774
+37	wey	_	SCONJ	_	_	36	dep	_	endali=267421|startali=267340
+38	be	_	VERB	_	PartType=Cop	37	comp	_	endali=267514|startali=267421
+39	sey	_	SCONJ	_	_	38	comp:pred	_	endali=267627|startali=267514
+40	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	41	subj	_	endali=267810|startali=267657
+41	dey	_	AUX	_	Aspect=Imp	39	comp	_	endali=267985|startali=267810
+42	get	_	VERB	_	_	41	comp:aux	_	endali=268270|startali=267985
+43	#	_	PUNCT	_	_	44	punct	_	endali=268604|startali=268300
+44	sey	_	SCONJ	_	_	36	dep	_	endali=268736|startali=268604
+45	dis	_	DET	_	Number=Sing|PronType=Prox	48	det	_	endali=268950|startali=268736
+46	ehn	_	INTJ	_	_	48	discourse	_	endali=269230|startali=268950
+47	aeroplane	_	NOUN	_	_	48	compound	_	endali=269590|startali=269230
+48	people	_	NOUN	_	_	49	subj	_	endali=269819|startali=269590
+49	dey	_	AUX	_	Aspect=Imp	44	comp	_	endali=269987|startali=269819
+50	report	_	VERB	_	_	49	comp:aux	_	endali=270281|startali=269987
+51	sey	_	SCONJ	_	_	50	comp:obj	_	endali=270380|startali=270311
+52	[	_	PUNCT	_	_	60	punct	_	endali=270410|startali=270380
+53	{	_	PUNCT	_	_	55	punct	_	endali=270410|startali=270380
+54	some	_	DET	_	_	55	det	_	endali=270650|startali=270410
+55	people	_	NOUN	_	_	60	subj	_	endali=271183|startali=270650
+56	||	_	PUNCT	_	_	58	punct	_	endali=271213|startali=271183
+57	some	_	DET	_	_	58	det	_	endali=271500|startali=271213
+58	people	_	NOUN	_	_	55	conj:dicto	_	endali=271700|startali=271500
+59	}	_	PUNCT	_	_	55	punct	_	endali=271730|startali=271700
+60	go	_	AUX	_	Tense=Prosp	51	comp	_	endali=271861|startali=271730
+61	just	_	ADV	_	_	62	mod	_	endali=272082|startali=271861
+62	dey	_	AUX	_	Aspect=Imp	60	comp:aux	_	endali=272190|startali=272082
+63	vex	_	VERB	_	_	62	comp:aux	_	endali=272530|startali=272190
+64	with	_	ADP	_	_	63	comp:obl	_	endali=272620|startali=272530
+65	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	64	comp	_	endali=272790|startali=272620
+66	on	_	ADP	_	_	63	comp:obl	_	endali=272955|startali=272790
+67	top	_	NOUN	_	_	66	fixed	_	endali=273111|startali=272955
+68	things	ting	NOUN	_	Number=Plur	66	comp	_	endali=273304|startali=273111
+69	wey	_	SCONJ	_	_	68	dep	_	endali=273414|startali=273304
+70	be	_	VERB	_	PartType=Cop	69	comp	_	endali=273481|startali=273414
+71	sey	_	SCONJ	_	_	70	comp:pred	_	endali=273616|startali=273481
+72	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	74	subj	_	endali=273749|startali=273616
+73	no	_	PART	_	Polarity=Neg	74	mod	_	endali=273880|startali=273749
+74	get	_	VERB	_	_	71	comp	_	endali=274140|startali=273880
+75	power	_	NOUN	_	_	74	comp:obj	_	endali=274470|startali=274140
+76	over	_	ADP	_	_	75	dep	_	endali=274730|startali=274470
+77	]	_	PUNCT	_	_	60	punct	_	endali=274760|startali=274730
+78	]	_	PUNCT	_	_	32	punct	_	endali=274760|startali=274730
+79	//	_	PUNCT	_	_	10	punct	_	endali=274760|startali=274730
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_34
+# sent_translation = # Now, mr Sam said that this one that they are just attacking airline staff, said this one is a very very embarrassing something and in fact
+# text = # now Mr Sam bin yarn sey [ dis one wey be sey [ de just dey attack ehn airline staff ] < # sey dis one na { very || very } embarrassing something ] //
+# timestamp = 1590163822.940701
+1	#	_	PUNCT	_	_	5	punct	_	endali=275200|startali=274760
+2	now	_	ADV	_	_	5	discourse	_	endali=275480|startali=275200
+3	Mr	_	PROPN	_	_	5	subj	_	endali=275780|startali=275480
+4	Sam	_	PROPN	_	_	3	flat	_	endali=276000|startali=275780
+5	bin	_	AUX	_	Tense=Past	0	root	_	endali=276150|startali=276000
+6	yarn	_	VERB	_	_	5	comp:pred	_	endali=276310|startali=276150
+7	sey	_	SCONJ	_	_	6	comp:obj	_	endali=276408|startali=276310
+8	[	_	PUNCT	_	_	28	punct	_	endali=276438|startali=276408
+9	dis	_	DET	_	Number=Sing|PronType=Prox	10	det	_	endali=276640|startali=276438
+10	one	_	NOUN	_	_	28	dislocated	_	endali=276720|startali=276640
+11	wey	_	SCONJ	_	_	10	dep	_	endali=276810|startali=276720
+12	be	_	VERB	_	PartType=Cop	11	comp	_	endali=276883|startali=276810
+13	sey	_	SCONJ	_	_	12	comp:pred	_	endali=277000|startali=276883
+14	[	_	PUNCT	_	_	17	punct	_	endali=277090|startali=277000
+15	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	subj	_	endali=277090|startali=277000
+16	just	_	ADV	_	_	17	mod	_	endali=277231|startali=277090
+17	dey	_	AUX	_	Aspect=Imp	13	comp	_	endali=277350|startali=277231
+18	attack	_	VERB	_	_	17	comp:aux	_	endali=277793|startali=277350
+19	ehn	_	INTJ	_	_	21	discourse	_	endali=278020|startali=277793
+20	airline	_	NOUN	_	_	21	compound	_	endali=278370|startali=278020
+21	staff	_	NOUN	_	_	18	comp:obj	_	endali=278762|startali=278370
+22	]	_	PUNCT	_	_	17	punct	_	endali=278792|startali=278762
+23	<	_	PUNCT	_	_	28	punct	_	endali=278792|startali=278762
+24	#	_	PUNCT	_	_	28	punct	_	endali=279068|startali=278792
+25	sey	_	SCONJ	_	_	28	cc	_	endali=279170|startali=279068
+26	dis	_	DET	_	Number=Sing|PronType=Prox	27	det	_	endali=279310|startali=279170
+27	one	_	NOUN	_	_	28	subj	_	endali=279348|startali=279310
+28	na	_	PART	_	PartType=Cop	7	comp	_	endali=279450|startali=279378
+29	{	_	PUNCT	_	_	30	punct	_	endali=279480|startali=279450
+30	very	_	ADV	_	_	34	mod	_	endali=279634|startali=279480
+31	||	_	PUNCT	_	_	32	punct	_	endali=279664|startali=279634
+32	very	_	ADV	_	_	30	compound:redup	_	endali=279790|startali=279664
+33	}	_	PUNCT	_	_	30	punct	_	endali=279820|startali=279790
+34	embarrassing	embarrass	VERB	_	Tense=Pres|VerbForm=Part	35	dep	_	endali=280511|startali=279820
+35	something	_	PRON	_	_	28	comp:pred	_	endali=280956|startali=280511
+36	]	_	PUNCT	_	_	28	punct	_	endali=280986|startali=280956
+37	//	_	PUNCT	_	_	5	punct	_	endali=280986|startali=280956
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_35
+# sent_translation = said this one is a very very embarrassing something and in fact # that it has no significance, it has no significance at all at all
+# text = and in fact # sey { e no get ehn || e no get } brain { at all |r at all } //
+# timestamp = 1590163822.940705
+1	and	_	CCONJ	_	_	9	cc	_	endali=281120|startali=280986
+2	in	_	ADP	_	_	9	mod:periph	_	endali=281220|startali=281120
+3	fact	_	NOUN	_	_	2	fixed	_	endali=281759|startali=281220
+4	#	_	PUNCT	_	_	9	punct	_	endali=281982|startali=281759
+5	sey	_	SCONJ	_	_	9	cc	_	endali=282160|startali=281982
+6	{	_	PUNCT	_	_	9	punct	_	endali=282190|startali=282160
+7	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj	_	endali=282340|startali=282190
+8	no	_	PART	_	Polarity=Neg	9	mod	_	endali=282580|startali=282340
+9	get	_	VERB	_	_	0	root	_	endali=282910|startali=282580
+10	ehn	_	INTJ	_	_	9	discourse	_	endali=283002|startali=282910
+11	||	_	PUNCT	_	_	14	punct	_	endali=283032|startali=283002
+12	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	subj	_	endali=283140|startali=283032
+13	no	_	PART	_	Polarity=Neg	14	mod	_	endali=283340|startali=283140
+14	get	_	VERB	_	_	9	conj:dicto	_	endali=283540|startali=283340
+15	}	_	PUNCT	_	_	9	punct	_	endali=283570|startali=283540
+16	brain	_	NOUN	_	_	14	comp:obj	_	endali=283818|startali=283570
+17	{	_	PUNCT	_	_	18	punct	_	endali=283848|startali=283818
+18	at	_	ADP	_	_	14	mod	_	endali=283980|startali=283848
+19	all	_	DET	_	_	18	fixed	_	endali=284063|startali=283980
+20	|r	_	PUNCT	_	_	21	punct	_	endali=284093|startali=284063
+21	at	_	ADP	_	_	18	compound:redup	_	endali=284260|startali=284093
+22	all	_	DET	_	_	21	fixed	_	endali=284450|startali=284260
+23	}	_	PUNCT	_	_	18	punct	_	endali=284480|startali=284450
+24	//	_	PUNCT	_	_	9	punct	_	endali=284480|startali=284450
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_36
+# sent_translation = # and in fact that people, the customers should not take laws into their hands especially when things do not favour them and also he advised all the airlines which operate within our country.
+# text = # and in fact sey { make people || make customers } go dey carry di law put on top deir hand especially when things no dey favour dem //
+# timestamp = 1590163822.940708
+1	#	_	PUNCT	_	_	7	punct	_	endali=284800|startali=284480
+2	and	_	CCONJ	_	_	7	cc	_	endali=284900|startali=284800
+3	in	_	ADP	_	_	7	mod:periph	_	endali=285020|startali=284900
+4	fact	_	NOUN	_	_	3	fixed	_	endali=285359|startali=285020
+5	sey	_	SCONJ	_	_	7	cc	_	endali=285472|startali=285359
+6	{	_	PUNCT	_	_	7	punct	_	endali=285502|startali=285472
+7	make	_	AUX	_	Mood=Jus	0	root	_	endali=285780|startali=285502
+8	people	_	NOUN	_	_	7	subj	_	endali=286290|startali=285780
+9	||	_	PUNCT	_	_	10	punct	_	endali=286320|startali=286290
+10	make	_	AUX	_	Mood=Jus	7	conj:dicto	_	endali=286580|startali=286320
+11	customers	customer	NOUN	_	Number=Plur	10	subj	_	endali=287010|startali=286580
+12	}	_	PUNCT	_	_	7	punct	_	endali=287040|startali=287010
+13	go	_	AUX	_	Tense=Prosp	10	comp:aux	_	endali=287140|startali=287040
+14	dey	_	AUX	_	Aspect=Imp	13	comp:aux	_	endali=287340|startali=287140
+15	carry	_	VERB	_	_	14	comp:aux	_	endali=287662|startali=287340
+16	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=287797|startali=287662
+17	law	_	NOUN	_	_	15	comp:obj	_	endali=288260|startali=287797
+18	put	_	VERB	_	_	15	compound:svc	_	endali=288540|startali=288260
+19	on	_	ADP	_	_	18	comp:obl	_	endali=288680|startali=288540
+20	top	_	INTJ	_	_	19	fixed	_	endali=288860|startali=288680
+21	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	dep	_	endali=288980|startali=288860
+22	hand	_	NOUN	_	_	19	comp	_	endali=289150|startali=288980
+23	especially	_	ADV	_	_	18	mod	_	endali=289970|startali=289150
+24	when	_	ADV	_	PronType=Int	23	comp	_	endali=290180|startali=289970
+25	things	ting	NOUN	_	Number=Plur	27	subj	_	endali=290420|startali=290180
+26	no	_	PART	_	Polarity=Neg	27	mod	_	endali=290552|startali=290420
+27	dey	_	AUX	_	Aspect=Imp	24	dep	_	endali=290670|startali=290552
+28	favour	_	VERB	_	_	27	comp:aux	_	endali=291041|startali=290670
+29	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	28	comp:obj	_	endali=291480|startali=291041
+30	//	_	PUNCT	_	_	7	punct	_	endali=291510|startali=291480
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_37
+# sent_translation = and in fact that people, the customers should not take laws into their hands especially when things do not favour them and also he advised all the airlines which operate within our country. # that, that they should uphold, they shoud hold strongly all the commissions that they have got. the sense and condition and contract on all the and in fact they should put it on all the tickets of passengers at all time.
+# text = and also e bin { dey || dey } advise all dis airlines wey be sey dey operate inside we obodo # sey [ { { make || make } de uphold || make de hold strongly } { all di commission wey be sey de bin get |c # di { terms |c and condition |a and contract } } on all di & ] //
+# timestamp = 1590163822.94071
+1	and	_	CCONJ	_	_	4	cc	_	endali=291690|startali=291510
+2	also	_	ADV	_	_	4	mod	_	endali=292130|startali=291690
+3	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	endali=292270|startali=292130
+4	bin	_	AUX	_	Tense=Past	0	root	_	endali=292410|startali=292270
+5	{	_	PUNCT	_	_	6	punct	_	endali=292440|startali=292410
+6	dey	_	AUX	_	Aspect=Imp	4	comp:pred	_	endali=292610|startali=292440
+7	||	_	PUNCT	_	_	8	punct	_	endali=292640|startali=292610
+8	dey	_	AUX	_	Aspect=Imp	6	conj:dicto	_	endali=293061|startali=292640
+9	}	_	PUNCT	_	_	6	punct	_	endali=293091|startali=293061
+10	advise	_	VERB	_	_	8	comp:aux	_	endali=293560|startali=293091
+11	all	_	ADV	_	_	12	mod	_	endali=293720|startali=293560
+12	dis	_	DET	_	Number=Sing|PronType=Prox	13	det	_	endali=294094|startali=293720
+13	airlines	airline	NOUN	_	Number=Plur	10	comp:obj	_	endali=294531|startali=294094
+14	wey	_	SCONJ	_	_	13	dep	_	endali=294615|startali=294531
+15	be	_	VERB	_	PartType=Cop	14	comp	_	endali=294678|startali=294615
+16	sey	_	SCONJ	_	_	15	comp:pred	_	endali=294800|startali=294678
+17	dey	_	AUX	_	Aspect=Imp	16	comp	_	endali=294920|startali=294800
+18	operate	_	VERB	_	_	17	comp:aux	_	endali=295230|startali=294920
+19	inside	_	ADP	_	_	18	comp:obl	_	endali=295510|startali=295230
+20	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	dep	_	endali=295600|startali=295510
+21	obodo	_	NOUN	_	_	19	comp	_	endali=295900|startali=295600
+22	#	_	PUNCT	_	_	27	punct	_	endali=296183|startali=295900
+23	sey	_	SCONJ	_	_	27	cc	_	endali=296260|startali=296183
+24	[	_	PUNCT	_	_	27	punct	_	endali=296290|startali=296260
+25	{	_	PUNCT	_	_	27	punct	_	endali=296290|startali=296260
+26	{	_	PUNCT	_	_	27	punct	_	endali=296290|startali=296260
+27	make	_	AUX	_	Mood=Jus	4	comp:pred	_	endali=296620|startali=296290
+28	||	_	PUNCT	_	_	29	punct	_	endali=296650|startali=296620
+29	make	_	VERB	_	_	27	conj:dicto	_	endali=296770|startali=296650
+30	}	_	PUNCT	_	_	27	punct	_	endali=296800|startali=296770
+31	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	subj	_	endali=297022|startali=296800
+32	uphold	_	VERB	_	_	27	comp:aux	_	endali=297667|startali=297022
+33	||	_	PUNCT	_	_	34	punct	_	endali=297697|startali=297667
+34	make	_	AUX	_	Mood=Jus	27	conj:dicto	_	endali=297835|startali=297697
+35	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	34	subj	_	endali=298050|startali=297835
+36	hold	_	VERB	_	_	34	comp:aux	_	endali=298257|startali=298050
+37	strongly	_	ADV	_	_	36	mod	_	endali=298960|startali=298257
+38	}	_	PUNCT	_	_	27	punct	_	endali=298990|startali=298960
+39	{	_	PUNCT	_	_	42	punct	_	endali=298990|startali=298960
+40	all	_	ADV	_	_	41	mod	_	endali=299185|startali=298990
+41	di	_	DET	_	Definite=Def|PronType=Art	42	det	_	endali=299310|startali=299185
+42	commission	_	NOUN	_	_	36	comp:obj	_	endali=299850|startali=299310
+43	wey	_	SCONJ	_	_	42	dep	_	endali=299931|startali=299850
+44	be	_	VERB	_	PartType=Cop	43	comp	_	endali=300008|startali=299931
+45	sey	_	SCONJ	_	_	44	comp:pred	_	endali=300130|startali=300008
+46	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	47	subj	_	endali=300300|startali=300130
+47	bin	_	AUX	_	AUX  Tense=Past	45	comp	_	endali=300540|startali=300300
+48	get	_	VERB	_	_	47	comp:aux	_	endali=300820|startali=300540
+49	|c	_	PUNCT	_	_	53	punct	_	endali=300850|startali=300820
+50	#	_	PUNCT	_	_	53	punct	_	endali=301123|startali=300850
+51	di	_	DET	_	Definite=Def|PronType=Art	53	det	_	endali=301203|startali=301123
+52	{	_	PUNCT	_	_	53	punct	_	endali=301233|startali=301203
+53	terms	_	NOUN	_	Number=Plur	48	comp:obj	_	endali=301463|startali=301233
+54	|c	_	PUNCT	_	_	56	punct	_	endali=301493|startali=301463
+55	and	_	CCONJ	_	_	56	cc	_	endali=301643|startali=301493
+56	condition	_	NOUN	_	_	53	conj:coord	_	endali=302438|startali=301643
+57	|a	_	PUNCT	_	_	59	punct	_	endali=302468|startali=302438
+58	and	_	CCONJ	_	_	59	cc	_	endali=302705|startali=302468
+59	contract	_	NOUN	_	_	56	conj:coord	_	endali=303253|startali=302705
+60	}	_	PUNCT	_	_	53	punct	_	endali=303283|startali=303253
+61	}	_	PUNCT	_	_	27	punct	_	endali=303283|startali=303253
+62	on	_	ADP	_	_	36	comp:obl	_	endali=303423|startali=303283
+63	all	_	DET	_	_	65	det	_	endali=303641|startali=303423
+64	di	_	DET	_	Definite=Def|PronType=Art	65	det	_	endali=303833|startali=303641
+65	&	_	X	_	_	62	comp	_	endali=303863|startali=303833
+66	]	_	PUNCT	_	_	27	punct	_	endali=303863|startali=303833
+67	//	_	PUNCT	_	_	4	punct	_	endali=303863|startali=303833
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_38
+# sent_translation = the sense and condition and contract on all the and in fact they should put it on all the tickets of passengers at all time. # so that people wil be reading it, will see what they are supposed to do, what they are not supposed to do when they have any kind of issue at all.
+# text = and in fact make de put am on all di tickets of passengers at all time # so that people { go dey read am |c go see { wetin de suppose do |c and wetin de no suppose do } when de bin get any kind issue at all } //
+# timestamp = 1590163822.940713
+1	and	_	CCONJ	_	_	4	cc	_	endali=303973|startali=303863
+2	in	_	ADP	_	_	4	mod:periph	_	endali=304003|startali=303973
+3	fact	_	NOUN	_	_	2	fixed	_	endali=304153|startali=304003
+4	make	_	VERB	_	_	0	root	_	endali=304273|startali=304153
+5	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	subj	_	endali=304423|startali=304273
+6	put	_	VERB	_	_	4	comp:aux	_	endali=304603|startali=304423
+7	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	endali=304733|startali=304603
+8	on	_	ADP	_	_	6	comp:obl	_	endali=304853|startali=304733
+9	all	_	DET	_	_	11	det	_	endali=305008|startali=304853
+10	di	_	DET	_	Definite=Def|PronType=Art	11	det	_	endali=305133|startali=305008
+11	tickets	ticket	NOUN	_	Number=Plur	8	comp	_	endali=305553|startali=305133
+12	of	_	ADP	_	_	11	dep	_	endali=305653|startali=305553
+13	passengers	passenger	NOUN	_	Number=Plur	12	comp	_	endali=306133|startali=305653
+14	at	_	ADP	_	_	6	comp:obl	_	endali=306283|startali=306133
+15	all	_	DET	_	_	16	det	_	endali=306493|startali=306283
+16	time	_	NOUN	_	_	14	comp	_	endali=306840|startali=306493
+17	#	_	PUNCT	_	_	18	punct	_	endali=307127|startali=306840
+18	so	_	ADV	_	_	6	mod	_	endali=307206|startali=307127
+19	that	_	SCONJ	_	_	18	fixed	_	endali=307330|startali=307206
+20	people	_	NOUN	_	_	22	subj	_	endali=307510|startali=307330
+21	{	_	PUNCT	_	_	22	punct	_	endali=307540|startali=307510
+22	go	_	AUX	_	Tense=Prosp	18	comp	_	endali=307640|startali=307540
+23	dey	_	AUX	_	Aspect=Imp	22	comp:aux	_	endali=307803|startali=307640
+24	read	_	VERB	_	_	23	comp:aux	_	endali=307980|startali=307803
+25	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	24	comp:obj	_	endali=308350|startali=307980
+26	|c	_	PUNCT	_	_	27	punct	_	endali=308380|startali=308350
+27	go	_	AUX	_	Tense=Prosp	22	conj:coord	_	endali=308490|startali=308380
+28	see	_	VERB	_	_	27	comp:aux	_	endali=308621|startali=308490
+29	{	_	PUNCT	_	_	30	punct	_	endali=308651|startali=308621
+30	wetin	_	PRON	_	PronType=Int	28	comp:obj	_	endali=308860|startali=308651
+31	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	subj	_	endali=308980|startali=308860
+32	suppose	_	VERB	_	_	30	dep	_	endali=309310|startali=308980
+33	do	_	VERB	_	_	32	comp:pred	_	endali=309770|startali=309310
+34	|c	_	PUNCT	_	_	36	punct	_	endali=309800|startali=309770
+35	and	_	CCONJ	_	_	36	cc	_	endali=309984|startali=309800
+36	wetin	_	PRON	_	PronType=Int	30	conj:coord	_	endali=310210|startali=309984
+37	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	39	subj	_	endali=310301|startali=310210
+38	no	_	PART	_	Polarity=Neg	39	mod	_	endali=310389|startali=310301
+39	suppose	_	VERB	_	_	36	dep	_	endali=310761|startali=310389
+40	do	_	VERB	_	_	39	comp:pred	_	endali=311201|startali=310761
+41	}	_	PUNCT	_	_	22	punct	_	endali=311231|startali=311201
+42	when	_	ADV	_	PronType=Int	39	mod	_	endali=311376|startali=311231
+43	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	44	subj	_	endali=311550|startali=311376
+44	bin	_	AUX	_	Tense=Past	42	comp	_	endali=311670|startali=311550
+45	get	_	VERB	_	_	44	comp:aux	_	endali=311871|startali=311670
+46	any	_	DET	_	_	48	det	_	endali=312060|startali=311871
+47	kind	_	ADJ	_	_	48	dep	_	endali=312302|startali=312060
+48	issue	_	NOUN	_	_	45	comp:obj	_	endali=312562|startali=312302
+49	at	_	ADP	_	_	45	mod	_	endali=312750|startali=312562
+50	all	_	ADV	_	_	49	fixed	_	endali=313002|startali=312750
+51	}	_	PUNCT	_	_	22	punct	_	endali=313032|startali=313002
+52	//	_	PUNCT	_	_	4	punct	_	endali=313032|startali=313002
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_39
+# sent_translation = # Moving on into petty business story now, we have heard that the rice farmer's association inside Kaduna's state now, that they have come out request for loan that they want to borrow money
+# text = # moving on into small business story now < we don hear sey [ di Rice Farmers Association inside Kaduna State now < # { sey de don comot to dey ask for loan || sey de wan borrow money } ] //
+# timestamp = 1590163822.940716
+1	#	_	PUNCT	_	_	11	punct	_	endali=314320|startali=313032
+2	moving	_	VERB	_	Tense=Pres|VerbForm=Part	11	mod:periph	_	endali=314593|startali=314320
+3	on	_	ADP	_	_	2	compound:prt	_	endali=314750|startali=314593
+4	into	_	ADP	_	_	2	comp:obl	_	endali=314898|startali=314750
+5	small	_	ADJ	_	_	6	det	_	endali=315170|startali=314898
+6	business	_	NOUN	_	_	7	compound	_	endali=315551|startali=315170
+7	story	_	NOUN	_	_	4	comp	_	endali=315830|startali=315551
+8	now	_	ADV	_	_	2	mod	_	endali=315920|startali=315830
+9	<	_	PUNCT	_	_	2	punct	_	endali=315950|startali=315920
+10	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	subj	_	endali=316030|startali=315950
+11	don	_	AUX	_	Aspect=Perf	0	root	_	endali=316155|startali=316030
+12	hear	_	VERB	_	_	11	comp:aux	_	endali=316353|startali=316155
+13	sey	_	SCONJ	_	_	12	comp:obj	_	endali=316520|startali=316353
+14	[	_	PUNCT	_	_	28	punct	_	endali=316550|startali=316520
+15	di	_	DET	_	Definite=Def|PronType=Art	16	det	_	endali=316879|startali=316550
+16	Rice	_	PROPN	_	_	28	dislocated	_	endali=317173|startali=316879
+17	Farmers	Farmer	PROPN	_	_	16	flat	_	endali=317470|startali=317173
+18	Association	_	PROPN	_	_	17	flat	_	endali=318360|startali=317470
+19	inside	_	ADP	_	_	16	dep	_	endali=318667|startali=318360
+20	Kaduna	_	PROPN	_	_	19	comp	_	endali=319050|startali=318667
+21	State	_	PROPN	_	_	20	flat	_	endali=319340|startali=319050
+22	now	_	ADV	_	_	21	mod:emph	_	endali=319570|startali=319340
+23	<	_	PUNCT	_	_	16	punct	_	endali=319600|startali=319570
+24	#	_	PUNCT	_	_	16	punct	_	endali=319885|startali=319600
+25	{	_	PUNCT	_	_	28	punct	_	endali=319885|startali=319855
+26	sey	_	SCONJ	_	_	28	cc	_	endali=320010|startali=319885
+27	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	28	subj	_	endali=320108|startali=320010
+28	don	_	AUX	_	Aspect=Perf	13	comp	_	endali=320260|startali=320108
+29	comot	_	VERB	_	_	28	comp:aux	_	endali=320530|startali=320260
+30	to	_	ADP	_	_	29	comp:pred	_	endali=320610|startali=320530
+31	dey	_	AUX	_	Aspect=Imp	30	comp	_	endali=320720|startali=320610
+32	ask	_	VERB	_	_	31	comp:aux	_	endali=320960|startali=320720
+33	for	_	ADP	_	_	32	comp:obl	_	endali=321129|startali=320960
+34	loan	_	NOUN	_	_	33	comp	_	endali=321490|startali=321129
+35	||	_	PUNCT	_	_	38	punct	_	endali=321520|startali=321490
+36	sey	_	SCONJ	_	_	38	cc	_	endali=321710|startali=321520
+37	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	subj	_	endali=321839|startali=321710
+38	wan	_	VERB	_	_	28	conj:dicto	_	endali=322035|startali=321839
+39	borrow	_	VERB	_	_	38	comp:pred	_	endali=322296|startali=322035
+40	money	_	NOUN	_	_	39	comp:obj	_	endali=322604|startali=322296
+41	}	_	PUNCT	_	_	29	punct	_	endali=322634|startali=322604
+42	]	_	PUNCT	_	_	28	punct	_	endali=322634|startali=322604
+43	//	_	PUNCT	_	_	11	punct	_	endali=322634|startali=322604
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_40
+# sent_translation = # this money which they want to borrow so, that they want to use it to enhance the production of rice ehn for people that are inside the committeee for the twenty seventeen farming season.
+# text = # sey dis money wey be sey de wan borrow so < sey de wan use am take enhance di production of rice ehn for people eh wey be sey dey inside deir joinbody for di twenty seventeen # farming season //
+# timestamp = 1590163822.940718
+1	#	_	PUNCT	_	_	15	punct	_	endali=322873|startali=322634
+2	sey	_	SCONJ	_	_	15	cc	_	endali=322963|startali=322873
+3	dis	_	DET	_	Number=Sing|PronType=Prox	4	det	_	endali=323133|startali=322963
+4	money	_	NOUN	_	_	15	dislocated	_	endali=323293|startali=323133
+5	wey	_	SCONJ	_	_	4	dep	_	endali=323413|startali=323293
+6	be	_	VERB	_	PartType=Cop	5	comp	_	endali=323483|startali=323413
+7	sey	_	SCONJ	_	_	6	comp:pred	_	endali=323617|startali=323483
+8	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	subj	_	endali=323717|startali=323617
+9	wan	_	VERB	_	_	7	comp	_	endali=323953|startali=323717
+10	borrow	_	VERB	_	_	9	comp:pred	_	endali=324233|startali=323953
+11	so	_	ADV	_	_	10	mod:emph	_	endali=324789|startali=324233
+12	<	_	PUNCT	_	_	4	punct	_	endali=324819|startali=324789
+13	sey	_	SCONJ	_	_	15	cc	_	endali=324973|startali=324819
+14	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	subj	_	endali=325097|startali=324973
+15	wan	_	VERB	_	_	0	root	_	endali=325239|startali=325097
+16	use	_	VERB	_	_	15	comp:pred	_	endali=325353|startali=325239
+17	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	comp:obj	_	endali=325503|startali=325353
+18	take	_	VERB	_	_	16	compound:svc	_	endali=325793|startali=325503
+19	enhance	_	VERB	_	_	18	compound:svc	_	endali=326648|startali=325793
+20	di	_	DET	_	Definite=Def|PronType=Art	21	det	_	endali=326783|startali=326648
+21	production	_	NOUN	_	_	19	comp:obj	_	endali=327423|startali=326783
+22	of	_	ADP	_	_	21	dep	_	endali=327609|startali=327423
+23	rice	_	NOUN	_	_	22	comp	_	endali=328303|startali=327609
+24	ehn	_	INTJ	_	_	25	discourse	_	endali=328663|startali=328303
+25	for	_	ADP	_	_	19	comp:obl	_	endali=328937|startali=328663
+26	people	_	NOUN	_	_	25	comp	_	endali=329508|startali=328937
+27	eh	_	INTJ	_	_	28	discourse	_	endali=329655|startali=329508
+28	wey	_	SCONJ	_	_	26	dep	_	endali=329783|startali=329655
+29	be	_	VERB	_	PartType=Cop	28	comp	_	endali=329863|startali=329783
+30	sey	_	SCONJ	_	_	29	comp:pred	_	endali=330063|startali=329863
+31	dey	_	VERB	_	PartType=Cop	30	comp	_	endali=330323|startali=330063
+32	inside	_	ADP	_	_	31	comp:pred	_	endali=330703|startali=330323
+33	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	dep	_	endali=330863|startali=330703
+34	joinbody	_	VERB	_	_	32	comp	_	endali=331281|startali=330863
+35	for	_	ADP	_	_	19	comp:obl	_	endali=331423|startali=331281
+36	di	_	DET	_	Definite=Def|PronType=Art	41	det	_	endali=331538|startali=331423
+37	twenty	_	NUM	_	NumType=Card	38	compound	_	endali=331903|startali=331538
+38	seventeen	_	NUM	_	NumType=Card	40	dep	_	endali=332540|startali=331903
+39	#	_	PUNCT	_	_	38	punct	_	endali=332773|startali=332540
+40	farming	farm	VERB	_	Tense=Pres|VerbForm=Part	41	compound	_	endali=333290|startali=332773
+41	season	_	NOUN	_	_	35	comp	_	endali=333810|startali=333290
+42	//	_	PUNCT	_	_	15	punct	_	endali=333840|startali=333810
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_41
+# sent_translation = # It was the secrestesry of the committee Ishai Audu was the one who said this in Kaduna.
+# text = # na di { sece of di joinbody so |a Ishaya Audu } >+ na im yarn dis one yesterday inside Kaduna //
+# timestamp = 1590163822.940721
+1	#	_	PUNCT	_	_	2	punct	_	endali=334160|startali=333840
+2	na	_	PART	_	PartType=Cop	0	root	_	endali=334280|startali=334160
+3	di	_	DET	_	Definite=Def|PronType=Art	5	det	_	endali=334330|startali=334280
+4	{	_	PUNCT	_	_	5	punct	_	endali=334360|startali=334330
+5	sece	_	NOUN	_	_	2	comp:pred	_	endali=334710|startali=334360
+6	of	_	ADP	_	_	5	dep	_	endali=334780|startali=334710
+7	di	_	DET	_	Definite=Def|PronType=Art	8	det	_	endali=334900|startali=334780
+8	joinbody	_	VERB	_	_	6	comp	_	endali=335280|startali=334900
+9	so	_	ADV	_	_	8	mod:emph	_	endali=335477|startali=335280
+10	|a	_	PUNCT	_	_	11	punct	_	endali=335507|startali=335477
+11	Ishaya	_	PROPN	_	_	5	conj:appos	_	endali=335990|startali=335507
+12	Audu	_	PROPN	_	_	11	flat	_	endali=336410|startali=335990
+13	}	_	PUNCT	_	_	5	punct	_	endali=336440|startali=336410
+14	>+	_	PUNCT	_	_	15	punct	_	endali=336440|startali=336410
+15	na	_	PART	_	PartType=Cop	2	comp:cleft	_	endali=336590|startali=336440
+16	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	comp:pred	_	endali=336771|startali=336590
+17	yarn	_	VERB	_	_	16	dep	_	endali=336990|startali=336771
+18	dis	_	DET	_	Number=Sing|PronType=Prox	19	det	_	endali=337197|startali=336990
+19	one	_	NOUN	_	_	17	comp:obj	_	endali=337439|startali=337197
+20	yesterday	_	NOUN	_	_	17	mod	_	endali=337798|startali=337439
+21	inside	_	ADP	_	_	17	comp:obl	_	endali=338135|startali=337798
+22	Kaduna	_	PROPN	_	_	21	comp	_	endali=338550|startali=338135
+23	//	_	PUNCT	_	_	2	punct	_	endali=338580|startali=338550
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_42
+# sent_translation = #  I said I was explaining that all the things which they use inside, to produce rice, that the thing, that some of them, some of them, some of them do not have some of the materials again, in fact, some of these things are getting reduced the way we say they produce rice inside the states.
+# text = # I say [ meh dey explain say all di things wey be sey de dey use inside dem to produce rice ] //
+# timestamp = 1590163822.940723
+1	#	_	PUNCT	_	_	3	punct	_	endali=338900|startali=338580
+2	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	endali=338980|startali=338900
+3	say	_	VERB	_	_	0	root	_	endali=339130|startali=338980
+4	[	_	PUNCT	_	_	5	punct	_	endali=339248|startali=339130
+5	meh	make	AUX	_	Mood=Jus	3	parataxis:obj	_	endali=339248|startali=339130
+6	dey	dey	AUX	_	Aspect=Imp	5	comp:aux	_	endali=339385|startali=339248
+7	explain	_	VERB	_	_	6	comp:aux	_	endali=339850|startali=339385
+8	say	_	VERB	_	_	7	compound:svc	_	endali=340071|startali=339850
+9	all	_	DET	_	_	11	det	_	endali=340470|startali=340101
+10	di	_	DET	_	Definite=Def|PronType=Art	11	det	_	endali=340599|startali=340470
+11	things	ting	NOUN	_	Number=Plur	8	comp:obj	_	endali=340815|startali=340599
+12	wey	_	SCONJ	_	_	11	dep	_	endali=340906|startali=340815
+13	be	_	VERB	_	PartType=Cop	12	comp	_	endali=340988|startali=340906
+14	sey	_	SCONJ	_	_	13	comp:pred	_	endali=341123|startali=340988
+15	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	subj	_	endali=341270|startali=341123
+16	dey	_	AUX	_	Aspect=Imp	14	comp	_	endali=341485|startali=341270
+17	use	_	VERB	_	_	16	comp:aux	_	endali=342050|startali=341485
+18	inside	_	ADP	_	_	17	comp:obl	_	endali=342420|startali=342050
+19	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	comp	_	endali=342551|startali=342420
+20	to	_	ADP	_	_	17	comp:pred	_	endali=342700|startali=342551
+21	produce	_	VERB	_	_	20	comp	_	endali=343106|startali=342700
+22	rice	_	NOUN	_	_	21	comp:obj	_	endali=343370|startali=343106
+23	]	_	PUNCT	_	_	5	punct	_	endali=343400|startali=343370
+24	//	_	PUNCT	_	_	3	punct	_	endali=343400|startali=343370
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_43
+# sent_translation = I said I was explaining that all the things which they use inside, to produce rice, that the thing, that some of them, some of them, some of them do not have some of the materials again, in fact, some of these things are getting reduced the way we say they produce rice inside the states.
+# text = sey di things < some of dem < de no get any of dem //
+# timestamp = 1590163822.940726
+1	sey	_	SCONJ	_	_	11	cc	_	endali=343707|startali=343400
+2	di	_	DET	_	Definite=Def|PronType=Art	3	det	_	endali=343851|startali=343707
+3	things	ting	NOUN	_	Number=Plur	11	dislocated	_	endali=344060|startali=343851
+4	<	_	PUNCT	_	_	3	punct	_	endali=344090|startali=344060
+5	some	_	DET	_	_	11	dislocated	_	endali=344250|startali=344090
+6	of	_	ADP	_	_	5	dep	_	endali=344370|startali=344250
+7	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	comp	_	endali=344483|startali=344370
+8	<	_	PUNCT	_	_	5	punct	_	endali=344513|startali=344483
+9	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	subj	_	endali=344610|startali=344513
+10	no	_	PART	_	Polarity=Neg	11	mod	_	endali=344770|startali=344610
+11	get	_	VERB	_	_	0	root	_	endali=344980|startali=344770
+12	any	_	DET	_	_	11	comp:obj	_	endali=345160|startali=344980
+13	of	_	ADP	_	_	12	dep	_	endali=345290|startali=345160
+14	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	comp	_	endali=345480|startali=345290
+15	//	_	PUNCT	_	_	11	punct	_	endali=345510|startali=345480
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_44
+# sent_translation = I said I was explaining that all the things which they use inside, to produce rice, that the thing, that some of them, some of them, some of them do not have some of the materials again, in fact, some of these things are getting reduced the way we say they produce rice inside the states.
+# text = some of dem < de no get some of di materials again //
+# timestamp = 1590163822.940728
+1	some	_	DET	_	_	7	dislocated	_	endali=345710|startali=345510
+2	of	_	ADP	_	_	1	dep	_	endali=345820|startali=345710
+3	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	comp	_	endali=345880|startali=345820
+4	<	_	PUNCT	_	_	1	punct	_	endali=345910|startali=345880
+5	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	subj	_	endali=345970|startali=345910
+6	no	_	PART	_	Polarity=Neg	7	mod	_	endali=346068|startali=345970
+7	get	_	VERB	_	_	0	root	_	endali=346184|startali=346068
+8	some	_	DET	_	_	7	comp:obj	_	endali=346330|startali=346184
+9	of	_	ADP	_	_	8	dep	_	endali=346400|startali=346330
+10	di	_	DET	_	Definite=Def|PronType=Art	11	det	_	endali=346484|startali=346400
+11	materials	material	NOUN	_	Number=Plur	9	comp	_	endali=347020|startali=346484
+12	again	_	ADV	_	_	7	mod	_	endali=347610|startali=347020
+13	//	_	PUNCT	_	_	7	punct	_	endali=347640|startali=347610
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_45
+# sent_translation = I said I was explaining that all the things which they use inside, to produce rice, that the thing, that some of them, some of them, some of them do not have some of the materials again, in fact, some of these things are getting reduced the way we say they produce rice inside the states.
+# text = and in fact < sey all dese things don dey reduce di way wey be sey [ de dey produce rice inside dat state ] //
+# timestamp = 1590163822.940731
+1	and	_	CCONJ	_	_	9	cc	_	endali=347770|startali=347640
+2	in	_	ADP	_	_	9	mod:periph	_	endali=347890|startali=347770
+3	fact	_	NOUN	_	_	2	fixed	_	endali=348180|startali=347890
+4	<	_	PUNCT	_	_	2	punct	_	endali=348210|startali=348180
+5	sey	_	SCONJ	_	_	9	cc	_	endali=348349|startali=348210
+6	all	_	DET	_	_	8	det	_	endali=348550|startali=348349
+7	dese	_	DET	_	Number=Plur|PronType=Dem	8	det	_	endali=348730|startali=348550
+8	things	ting	NOUN	_	Number=Plur	9	subj	_	endali=348872|startali=348730
+9	don	_	AUX	_	Aspect=Perf	0	root	_	endali=349050|startali=348872
+10	dey	_	AUX	_	Aspect=Imp	9	comp:aux	_	endali=349210|startali=349050
+11	reduce	_	VERB	_	_	10	comp:aux	_	endali=350050|startali=349210
+12	di	_	DET	_	Definite=Def|PronType=Art	13	det	_	endali=350170|startali=350050
+13	way	_	NOUN	_	_	11	comp:obj	_	endali=350330|startali=350170
+14	wey	_	SCONJ	_	_	13	dep	_	endali=350390|startali=350330
+15	be	_	VERB	_	PartType=Cop	14	comp	_	endali=350450|startali=350390
+16	sey	_	SCONJ	_	_	15	comp:pred	_	endali=350550|startali=350450
+17	[	_	PUNCT	_	_	19	punct	_	endali=350580|startali=350550
+18	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	subj	_	endali=350700|startali=350580
+19	dey	_	AUX	_	Aspect=Imp	16	comp	_	endali=350820|startali=350700
+20	produce	_	VERB	_	_	19	comp:aux	_	endali=351473|startali=350820
+21	rice	_	NOUN	_	_	20	comp:obj	_	endali=351980|startali=351473
+22	inside	_	ADP	_	_	20	comp:obl	_	endali=352443|startali=351980
+23	dat	_	DET	_	Number=Sing|PronType=Dem	24	det	_	endali=352785|startali=352443
+24	state	_	NOUN	_	_	22	comp	_	endali=353122|startali=352785
+25	]	_	PUNCT	_	_	19	punct	_	endali=353152|startali=353122
+26	//	_	PUNCT	_	_	9	punct	_	endali=353152|startali=353122
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_46
+# sent_translation = # and in fact he said that the number of bags which they produce,that the thing is reducing because they do not have some of these materials.
+# text = # and in fact < sey { im || em di number of || em di bags } of rice wey be sey [ de dey produce ] < sey di thing don dey reduce because of sey [ de no get some of dis materials ] //
+# timestamp = 1590163822.940733
+1	#	_	PUNCT	_	_	33	punct	_	endali=353400|startali=353152
+2	and	_	CCONJ	_	_	33	cc	_	endali=353540|startali=353400
+3	in	_	ADP	_	_	33	mod:periph	_	endali=353650|startali=353540
+4	fact	_	NOUN	_	_	3	fixed	_	endali=353960|startali=353650
+5	<	_	PUNCT	_	_	3	punct	_	endali=353990|startali=353960
+6	sey	_	SCONJ	_	_	33	cc	_	endali=354070|startali=353990
+7	{	_	PUNCT	_	_	8	punct	_	endali=354100|startali=354070
+8	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	dislocated	_	endali=354270|startali=354100
+9	||	_	PUNCT	_	_	12	punct	_	endali=354300|startali=354270
+10	em	_	INTJ	_	_	12	discourse	_	endali=354563|startali=354300
+11	di	_	DET	_	Definite=Def|PronType=Art	12	det	_	endali=354720|startali=354563
+12	number	_	NOUN	_	_	8	conj:dicto	_	endali=355190|startali=354720
+13	of	_	ADP	_	_	12	dep	_	endali=355280|startali=355190
+14	||	_	PUNCT	_	_	17	punct	_	endali=355310|startali=355280
+15	em	_	INTJ	_	_	17	discourse	_	endali=355493|startali=355310
+16	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=355578|startali=355493
+17	bags	bag	NOUN	_	Number=Plur	12	conj:dicto	_	endali=355800|startali=355578
+18	}	_	PUNCT	_	_	8	punct	_	endali=355830|startali=355800
+19	of	_	ADP	_	_	17	dep	_	endali=355970|startali=355830
+20	rice	_	NOUN	_	_	19	comp	_	endali=356170|startali=355970
+21	wey	_	SCONJ	_	_	20	dep	_	endali=356240|startali=356170
+22	be	_	VERB	_	PartType=Cop	21	comp	_	endali=356322|startali=356240
+23	sey	_	SCONJ	_	_	22	comp:pred	_	endali=356411|startali=356322
+24	[	_	PUNCT	_	_	26	punct	_	endali=356441|startali=356411
+25	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	subj	_	endali=356568|startali=356441
+26	dey	_	AUX	_	Aspect=Imp	23	comp	_	endali=356650|startali=356568
+27	produce	_	VERB	_	_	26	comp:aux	_	endali=357327|startali=356650
+28	]	_	PUNCT	_	_	26	punct	_	endali=357357|startali=357327
+29	<	_	PUNCT	_	_	8	punct	_	endali=357357|startali=357327
+30	sey	_	SCONJ	_	_	33	cc	_	endali=357450|startali=357357
+31	di	_	DET	_	Definite=Def|PronType=Art	32	det	_	endali=357550|startali=357450
+32	thing	ting	NOUN	_	_	33	subj	_	endali=357730|startali=357550
+33	don	_	AUX	_	Aspect=Perf	0	root	_	endali=357910|startali=357730
+34	dey	_	AUX	_	Aspect=Imp	33	comp:aux	_	endali=358100|startali=357910
+35	reduce	_	VERB	_	_	34	comp:aux	_	endali=358830|startali=358100
+36	because	_	SCONJ	_	_	35	mod	_	endali=359130|startali=358830
+37	of	_	ADP	_	_	36	fixed	_	endali=359240|startali=359130
+38	sey	_	SCONJ	_	_	37	comp	_	endali=359333|startali=359240
+39	[	_	PUNCT	_	_	42	punct	_	endali=359363|startali=359333
+40	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	42	subj	_	endali=359479|startali=359363
+41	no	_	PART	_	Polarity=Neg	42	mod	_	endali=359620|startali=359479
+42	get	_	VERB	_	_	38	subj	_	endali=359759|startali=359620
+43	some	_	DET	_	_	42	comp:obj	_	endali=359930|startali=359759
+44	of	_	ADP	_	_	43	dep	_	endali=360020|startali=359930
+45	dis	_	DET	_	Number=Sing|PronType=Prox	46	det	_	endali=360232|startali=360020
+46	materials	material	NOUN	_	Number=Plur	44	comp	_	endali=360949|startali=360232
+47	]	_	PUNCT	_	_	42	punct	_	endali=360979|startali=360949
+48	//	_	PUNCT	_	_	33	punct	_	endali=360979|startali=360949
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_47
+# sent_translation = # Now, according to Mr Audu, he was explaining that most of the farmers now that they are producing at a lost because some of them do not have fertilizer, some of them do not have pesticide which they can use to chase all the animals who ate their produce anf in fact and all these one so, he said please, that they should borrow them money to upgrade all their things which will make all the ice they are cultivating to yield very very well
+# text = # now ehm according by Oga Audu < im bin dey explain sey [ most of di farmers now < sey dem dey produce at a loss because of sey { some of dem no get fertilizer |c some of dem no get ehm ehm pesticide } wey be sey de go dey use take { dey || dey } pursue all dis ehm animals wey be sey dey { chop |r chop } deir food //] //
+# timestamp = 1590163822.940736
+1	#	_	PUNCT	_	_	10	punct	_	endali=361280|startali=360979
+2	now	_	ADV	_	_	10	discourse	_	endali=361580|startali=361280
+3	ehm	_	INTJ	_	_	10	discourse	_	endali=361857|startali=361580
+4	according	_	VERB	_	Tense=Pres|VerbForm=Part	10	mod:periph	_	endali=362239|startali=361857
+5	by	_	ADP	_	_	4	fixed	_	endali=362370|startali=362239
+6	Oga	_	PROPN	_	_	4	comp	_	endali=362730|startali=362370
+7	Audu	_	PROPN	_	_	6	flat	_	endali=363407|startali=362730
+8	<	_	PUNCT	_	_	4	punct	_	endali=363437|startali=363407
+9	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	subj	_	endali=363542|startali=363437
+10	bin	_	AUX	_	Tense=Past	0	root	_	endali=363605|startali=363542
+11	dey	_	AUX	_	Aspect=Imp	10	comp:aux	_	endali=363728|startali=363605
+12	explain	_	VERB	_	_	11	comp:aux	_	endali=364040|startali=363728
+13	sey	_	SCONJ	_	_	12	comp:obj	_	endali=364132|startali=364040
+14	[	_	PUNCT	_	_	23	punct	_	endali=364162|startali=364132
+15	most	_	ADJ	_	_	23	dislocated	_	endali=364350|startali=364162
+16	of	_	ADP	_	_	15	dep	_	endali=364410|startali=364350
+17	di	_	DET	_	Definite=Def|PronType=Art	18	det	_	endali=364500|startali=364410
+18	farmers	farmer	NOUN	_	Number=Plur	16	comp	_	endali=364890|startali=364500
+19	now	_	ADV	_	_	15	mod:emph	_	endali=365312|startali=364890
+20	<	_	PUNCT	_	_	15	punct	_	endali=365342|startali=365312
+21	sey	_	SCONJ	_	_	23	cc	_	endali=365473|startali=365342
+22	dem	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	subj	_	endali=365724|startali=365473
+23	dey	_	AUX	_	Aspect=Imp	13	comp	_	endali=365880|startali=365724
+24	produce	_	VERB	_	_	23	comp:aux	_	endali=366300|startali=365880
+25	at	_	ADP	_	_	24	mod	_	endali=366440|startali=366300
+26	a	_	DET	_	Def=Ind|PronType=Art 	27	det	_	endali=366597|startali=366440
+27	loss	_	NOUN	_	_	25	comp	_	endali=367110|startali=366597
+28	because	_	SCONJ	_	_	24	mod	_	endali=367360|startali=367110
+29	of	_	ADP	_	_	28	fixed	_	endali=367450|startali=367360
+30	sey	_	SCONJ	_	_	29	fixed	_	endali=367573|startali=367450
+31	{	_	PUNCT	_	_	36	punct	_	endali=367603|startali=367573
+32	some	_	PRON	_	_	36	subj	_	endali=367890|startali=367603
+33	of	_	ADP	_	_	32	dep	_	endali=368000|startali=367890
+34	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	33	comp	_	endali=368113|startali=368000
+35	no	_	PART	_	Polarity=Neg	36	mod	_	endali=368270|startali=368113
+36	get	_	VERB	_	_	28	comp	_	endali=368407|startali=368270
+37	fertilizer	_	NOUN	_	_	36	comp:obj	_	endali=369254|startali=368407
+38	|c	_	PUNCT	_	_	43	punct	_	endali=369284|startali=369254
+39	some	_	PRON	_	_	43	subj	_	endali=369630|startali=369284
+40	of	_	ADP	_	_	39	dep	_	endali=369716|startali=369630
+41	dem	_	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	40	comp	_	endali=369781|startali=369716
+42	no	_	PART	_	Polarity=Neg	43	mod	_	endali=369849|startali=369781
+43	get	_	VERB	_	_	36	conj:coord	_	endali=370065|startali=369849
+44	ehm	_	INTJ	_	_	46	discourse	_	endali=370731|startali=370065
+45	ehm	_	INTJ	_	_	46	discourse	_	endali=370920|startali=370731
+46	pesticide	_	NOUN	_	_	43	comp:obj	_	endali=371485|startali=370920
+47	}	_	PUNCT	_	_	36	punct	_	endali=371515|startali=371485
+48	wey	_	SCONJ	_	_	46	dep	_	endali=371670|startali=371515
+49	be	_	VERB	_	PartType=Cop	48	fixed	_	endali=371787|startali=371670
+50	sey	_	SCONJ	_	_	49	fixed	_	endali=371900|startali=371787
+51	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	52	subj	_	endali=372020|startali=371900
+52	go	_	AUX	_	Tense=Prosp	48	comp	_	endali=372134|startali=372020
+53	dey	_	AUX	_	Aspect=Imp	52	comp:aux	_	endali=372220|startali=372134
+54	use	_	VERB	_	_	53	comp:aux	_	endali=372340|startali=372220
+55	take	_	VERB	_	_	54	compound:svc	_	endali=372520|startali=372340
+56	{	_	PUNCT	_	_	57	punct	_	endali=372625|startali=372520
+57	dey	_	AUX	_	Asp=Imp	55	compound:svc	_	endali=372625|startali=372520
+58	||	_	PUNCT	_	_	59	punct	_	endali=372625|startali=372520
+59	dey	_	AUX	_	Asp=Imp	57	conj:dicto	_	endali=372625|startali=372520
+60	}	_	PUNCT	_	_	57	punct	_	endali=372780|startali=372625
+61	pursue	_	VERB	_	_	59	comp:aux	_	endali=373050|startali=372780
+62	all	_	DET	_	_	65	det	_	endali=373192|startali=373050
+63	dis	_	DET	_	Number=Sing|PronType=Prox	65	det	_	endali=373364|startali=373192
+64	ehm	_	INTJ	_	_	65	discourse	_	endali=373780|startali=373364
+65	animals	animal	NOUN	_	Number=Plur	61	comp:obj	_	endali=374095|startali=373780
+66	wey	_	SCONJ	_	_	65	dep	_	endali=374164|startali=374095
+67	be	_	VERB	_	PartType=Cop	66	fixed	_	endali=374227|startali=374164
+68	sey	_	SCONJ	_	_	67	fixed	_	endali=374340|startali=374227
+69	dey	_	AUX	_	Aspect=Imp	66	comp	_	endali=374460|startali=374340
+70	{	_	PUNCT	_	_	71	punct	_	endali=374490|startali=374460
+71	chop	_	VERB	_	_	69	comp:aux	_	endali=374680|startali=374490
+72	|r	_	PUNCT	_	_	73	punct	_	endali=374710|startali=374680
+73	chop	_	VERB	_	_	71	compound:redup	_	endali=374870|startali=374710
+74	}	_	PUNCT	_	_	71	punct	_	endali=374900|startali=374870
+75	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	76	dep	_	endali=375090|startali=374900
+76	food	_	NOUN	_	_	71	comp:obj	_	endali=375578|startali=375090
+77	//]	_	PUNCT	_	_	23	punct	_	endali=375608|startali=375578
+78	//	_	PUNCT	_	_	10	punct	_	endali=375608|startali=375578
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_48
+# sent_translation = Now, according to Mr Audu, he was explaining that most of the farmers now that they are producing at a lost because some of them do not have fertilizer, some of them do not have pesticide which they can use to chase all the animals who ate their produce anf in fact and all these one so, he said please, that they should borrow them money to upgrade all their things which will make all the ice they are cultivating to yield very very well # so that they can be able to produce food. for our country people.
+# text = and infact < and all dis one so < sey biko < sey make de borrow dem money { to use ehm to upgrade their situation |c to use take package all di things wey be sey de go use take eh make sure sey [ dis rice wey be sey de dey farm so < so di thing go dey { { very |r very } well |c { very |r very } good } # so dat de go dey fit to produce food # for we obodo people ] } //
+# timestamp = 1590163822.940738
+1	and	_	CCONJ	_	_	14	cc	_	endali=375751|startali=375608
+2	infact	_	ADV	_	_	14	mod:periph	_	endali=376263|startali=375751
+3	<	_	PUNCT	_	_	2	punct	_	endali=376293|startali=376263
+4	and	_	CCONJ	_	_	14	cc	_	endali=376490|startali=376293
+5	all	_	ADV	_	_	6	mod	_	endali=376713|startali=376490
+6	dis	_	DET	_	Number=Sing|PronType=Prox	7	det	_	endali=376910|startali=376713
+7	one	_	NOUN	_	_	14	dislocated	_	endali=377133|startali=376910
+8	so	_	ADV	_	_	7	mod:emph	_	endali=377678|startali=377133
+9	<	_	PUNCT	_	_	7	punct	_	endali=377708|startali=377678
+10	sey	_	SCONJ	_	_	14	cc	_	endali=377866|startali=377708
+11	biko	_	X	_	_	14	discourse	_	endali=378349|startali=377866
+12	<	_	PUNCT	_	_	14	punct	_	endali=378566|startali=378379
+13	sey	_	SCONJ	_	_	14	cc	_	endali=378566|startali=378379
+14	make	_	AUX	_	Mood=Jus	0	root	_	endali=378663|startali=378566
+15	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	subj	_	endali=378870|startali=378663
+16	borrow	_	VERB	_	_	14	comp:aux	_	endali=379150|startali=378870
+17	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	comp:obj	_	endali=379377|startali=379150
+18	money	_	NOUN	_	_	16	comp:obj	_	endali=379776|startali=379377
+19	{	_	PUNCT	_	_	20	punct	_	endali=379806|startali=379776
+20	to	_	ADP	_	_	18	dep	_	endali=379960|startali=379806
+21	use	_	VERB	_	_	20	comp	_	endali=380170|startali=379960
+22	ehm	_	INTJ	_	_	23	discourse	_	endali=380463|startali=380170
+23	to	_	ADP	_	_	21	comp:pred	_	endali=380830|startali=380463
+24	upgrade	_	VERB	_	_	23	comp	_	endali=381460|startali=380830
+25	their	_	ADJ	_	Number=Plur|Pers=3|Poss=Yes|PronType=Pers	26	dep	_	endali=381687|startali=381460
+26	situation	_	NOUN	_	_	24	comp:obj	_	endali=382569|startali=381687
+27	|c	_	PUNCT	_	_	28	punct	_	endali=382599|startali=382569
+28	to	_	ADP	_	_	20	conj:coord	_	endali=382726|startali=382599
+29	use	_	VERB	_	_	28	comp	_	endali=382856|startali=382726
+30	take	_	VERB	_	_	29	compound:svc	_	endali=383050|startali=382856
+31	package	_	VERB	_	_	30	compound:svc	_	endali=383394|startali=383050
+32	all	_	DET	_	_	34	det	_	endali=383489|startali=383394
+33	di	_	DET	_	Definite=Def|PronType=Art	34	det	_	endali=383571|startali=383489
+34	things	ting	NOUN	_	Number=Plur	31	comp:obj	_	endali=383759|startali=383571
+35	wey	_	SCONJ	_	_	34	dep	_	endali=383829|startali=383759
+36	be	_	VERB	_	PartType=Cop	35	fixed	_	endali=383906|startali=383829
+37	sey	_	SCONJ	_	_	36	fixed	_	endali=384018|startali=383906
+38	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	39	subj	_	endali=384131|startali=384018
+39	go	_	AUX	_	Tense=Prosp	35	comp	_	endali=384247|startali=384131
+40	use	_	VERB	_	_	39	comp:aux	_	endali=384420|startali=384247
+41	take	_	VERB	_	_	40	compound:svc	_	endali=384576|startali=384420
+42	eh	_	INTJ	_	_	43	discourse	_	endali=385189|startali=384576
+43	make	_	VERB	_	_	41	compound:svc	_	endali=385360|startali=385189
+44	sure	_	ADJ	_	_	43	comp:pred	_	endali=385520|startali=385360
+45	sey	_	SCONJ	_	_	44	comp:obj	_	endali=385630|startali=385520
+46	[	_	PUNCT	_	_	60	punct	_	endali=385660|startali=385630
+47	dis	_	DET	_	Number=Sing|PronType=Prox	48	det	_	endali=385863|startali=385660
+48	rice	_	NOUN	_	_	60	dislocated	_	endali=386126|startali=385863
+49	wey	_	SCONJ	_	_	48	dep	_	endali=386190|startali=386126
+50	be	_	VERB	_	PartType=Cop	49	fixed	_	endali=386260|startali=386190
+51	sey	_	SCONJ	_	_	50	fixed	_	endali=386400|startali=386260
+52	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	53	subj	_	endali=386510|startali=386400
+53	dey	_	AUX	_	Aspect=Imp	49	comp	_	endali=386640|startali=386510
+54	farm	_	VERB	_	_	53	comp:aux	_	endali=386950|startali=386640
+55	so	_	ADV	_	_	54	mod:emph	_	endali=387363|startali=386950
+56	<	_	PUNCT	_	_	48	punct	_	endali=387393|startali=387363
+57	so	_	ADV	_	_	60	discourse	_	endali=387523|startali=387393
+58	di	_	DET	_	Definite=Def|PronType=Art	59	det	_	endali=387600|startali=387523
+59	thing	_	NOUN	_	_	60	subj	_	endali=387820|startali=387600
+60	go	_	AUX	_	Tense=Prosp	45	comp	_	endali=387949|startali=387820
+61	dey	_	VERB	_	PartType=Cop	60	comp:aux	_	endali=388098|startali=387949
+62	{	_	PUNCT	_	_	68	punct	_	endali=388128|startali=388098
+63	{	_	PUNCT	_	_	64	punct	_	endali=388128|startali=388098
+64	very	_	ADV	_	_	68	mod	_	endali=388370|startali=388128
+65	|r	_	PUNCT	_	_	66	punct	_	endali=388400|startali=388370
+66	very	_	ADV	_	_	64	compound:redup	_	endali=388640|startali=388400
+67	}	_	PUNCT	_	_	64	punct	_	endali=389079|startali=388670
+68	well	_	ADJ	_	_	61	comp:pred	_	endali=389079|startali=388670
+69	|c	_	PUNCT	_	_	75	punct	_	endali=389109|startali=389079
+70	{	_	PUNCT	_	_	71	punct	_	endali=389109|startali=389079
+71	very	_	ADV	_	_	75	mod	_	endali=389280|startali=389109
+72	|r	_	PUNCT	_	_	73	punct	_	endali=389310|startali=389280
+73	very	_	ADV	_	_	71	compound:redup	_	endali=389594|startali=389310
+74	}	_	PUNCT	_	_	71	punct	_	endali=389624|startali=389594
+75	good	_	ADJ	_	_	68	conj:coord	_	endali=389922|startali=389624
+76	}	_	PUNCT	_	_	68	punct	_	endali=390150|startali=389922
+77	#	_	PUNCT	_	_	78	punct	_	endali=390150|startali=389922
+78	so	_	SCONJ	_	_	61	mod	_	endali=390270|startali=390150
+79	dat	_	PRON	_	Number=Sing|PronType=Dem	78	fixed	_	endali=390386|startali=390270
+80	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	81	subj	_	endali=390448|startali=390386
+81	go	_	AUX	_	Tense=Prosp	78	comp	_	endali=390549|startali=390448
+82	dey	_	VERB	_	Aspect=Imp	81	comp:aux	_	endali=390642|startali=390549
+83	fit	_	ADJ	_	_	82	comp:pred	_	endali=390790|startali=390642
+84	to	_	ADP	_	_	83	comp:obl	_	endali=390930|startali=390790
+85	produce	_	VERB	_	_	84	comp	_	endali=391350|startali=390930
+86	food	_	NOUN	_	_	85	comp:obj	_	endali=391687|startali=391350
+87	#	_	PUNCT	_	_	88	punct	_	endali=391886|startali=391687
+88	for	_	ADP	_	_	85	comp:obl	_	endali=392130|startali=391886
+89	we	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	91	dep	_	endali=392280|startali=392130
+90	obodo	_	NOUN	_	_	91	compound	_	endali=392570|startali=392280
+91	people	_	NOUN	_	_	88	comp	_	endali=392989|startali=392570
+92	]	_	PUNCT	_	_	60	punct	_	endali=393019|startali=392989
+93	}	_	PUNCT	_	_	20	punct	_	endali=393019|startali=392989
+94	//	_	PUNCT	_	_	14	punct	_	endali=393019|startali=392989
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_49
+# sent_translation = # and moving on into my last story now, we have heard that inside France yes, the pro-Europen candidate Emmanuel Macron, yes, we have heard that it is great jubilation that permeates France now as he has won the French Presidential election, with like sixty five to sixty six percent of the votes
+# text = # and moving on in to my last story now for We Don Hear Say < for inside France < yes # the { pro European candidate |a Emmanuel Macron } < yes we don hear sey [ na better jubilation >+ dey inside France now as im don win di French presidential election ehm sey by between sixty five to sixty six percent # of the vote ] //
+# timestamp = 1590163822.940741
+1	#	_	PUNCT	_	_	35	punct	_	endali=394200|startali=393019
+2	and	_	CCONJ	_	_	35	cc	_	endali=394587|startali=394200
+3	moving	move	VERB	_	Tense=Pres|VerbForm=Part	35	mod:periph	_	endali=394860|startali=394587
+4	on	_	ADP	_	_	3	compound:prt	_	endali=394980|startali=394860
+5	in	_	ADP	_	_	3	comp:obl	_	endali=395080|startali=394980
+6	to	_	ADP	_	_	5	goeswith	_	endali=395190|startali=395080
+7	my	_	ADJ	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	endali=395360|startali=395190
+8	last	_	ADJ	_	_	9	dep	_	endali=395600|startali=395360
+9	story	_	NOUN	_	_	5	comp	_	endali=395870|startali=395600
+10	now	_	ADV	_	_	9	mod	_	endali=396140|startali=395870
+11	for	_	ADP	_	_	9	dep	_	endali=396280|startali=396170
+12	We	we	PROPN	_	_	11	comp	_	endali=396280|startali=396170
+13	Don	_	PROPN	_	Aspect=Perf	12	flat	_	endali=396476|startali=396340
+14	Hear	_	PROPN	_	_	13	flat	_	endali=396674|startali=396476
+15	Say	_	PROPN	_	_	14	flat	_	endali=396840|startali=396674
+16	<	_	PUNCT	_	_	11	punct	_	endali=396840|startali=396674
+17	for	_	ADP	_	_	35	dislocated	_	endali=397170|startali=396870
+18	inside	_	ADP	_	_	17	fixed	_	endali=398080|startali=397170
+19	France	_	NOUN	_	_	17	comp	_	endali=398912|startali=398080
+20	<	_	PUNCT	_	_	17	punct	_	endali=398942|startali=398912
+21	yes	_	INTJ	_	_	35	discourse	_	endali=399418|startali=398942
+22	#	_	PUNCT	_	_	21	punct	_	endali=399740|startali=399418
+23	the	_	DET	_	Definite=Def|PronType=Art	27	det	_	endali=399920|startali=399740
+24	{	_	PUNCT	_	_	27	punct	_	endali=399950|startali=399920
+25	pro	_	DET	_	_	27	dep	_	endali=400240|startali=399950
+26	European	_	ADJ	_	_	25	goeswith	_	endali=400830|startali=400240
+27	candidate	_	NOUN	_	_	35	dislocated	_	endali=401531|startali=400830
+28	|a	_	PUNCT	_	_	29	punct	_	endali=401561|startali=401531
+29	Emmanuel	_	PROPN	_	_	27	conj:appos	_	endali=401960|startali=401561
+30	Macron	_	PROPN	_	_	29	flat	_	endali=402482|startali=401960
+31	}	_	PUNCT	_	_	27	punct	_	endali=402512|startali=402482
+32	<	_	PUNCT	_	_	27	punct	_	endali=402512|startali=402482
+33	yes	_	INTJ	_	_	35	discourse	_	endali=402805|startali=402512
+34	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	35	subj	_	endali=402860|startali=402805
+35	don	_	AUX	_	Aspect=Perf	0	root	_	endali=402999|startali=402860
+36	hear	_	VERB	_	_	35	comp:aux	_	endali=403157|startali=402999
+37	sey	_	SCONJ	_	_	36	comp:obj	_	endali=403281|startali=403157
+38	[	_	PUNCT	_	_	39	punct	_	endali=403311|startali=403281
+39	na	_	PART	_	PartType=Cop	37	comp	_	endali=403490|startali=403311
+40	better	_	ADJ	_	Degree=Comp	41	dep	_	endali=403820|startali=403490
+41	jubilation	_	NOUN	_	_	39	comp:pred	_	endali=404330|startali=403820
+42	>+	_	PUNCT	_	_	43	punct	_	endali=404330|startali=403820
+43	dey	_	VERB	_	PartType=Cop	39	comp:cleft	_	endali=404450|startali=404330
+44	inside	_	ADP	_	_	43	comp:pred	_	endali=404670|startali=404450
+45	France	_	NOUN	_	_	44	comp	_	endali=405100|startali=404670
+46	now	_	ADV	_	_	43	mod	_	endali=405533|startali=405100
+47	as	_	ADP	_	_	39	mod	_	endali=405738|startali=405533
+48	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	49	subj	_	endali=405863|startali=405738
+49	don	_	AUX	_	Aspect=Perf	47	comp	_	endali=406230|startali=405863
+50	win	_	VERB	_	_	49	comp:aux	_	endali=406450|startali=406230
+51	di	_	DET	_	Definite=Def|PronType=Art	54	det	_	endali=406560|startali=406450
+52	French	_	ADJ	_	_	54	dep	_	endali=407090|startali=406560
+53	presidential	_	ADJ	_	_	54	dep	_	endali=407685|startali=407090
+54	election	_	NOUN	_	_	50	comp:obj	_	endali=408538|startali=407685
+55	ehm	_	INTJ	_	_	57	discourse	_	endali=408750|startali=408538
+56	sey	_	SCONJ	_	_	57	cc	_	endali=408930|startali=408750
+57	by	_	ADP	_	_	50	comp:obl	_	endali=409160|startali=408930
+58	between	_	ADP	_	_	60	cc	_	endali=409540|startali=409160
+59	sixty	_	NUM	_	NumType=Card	60	compound	_	endali=410000|startali=409540
+60	five	_	NUM	_	NumType=Card	64	dep	_	endali=410230|startali=410000
+61	to	_	ADP	_	_	63	cc	_	endali=410351|startali=410230
+62	sixty	_	NUM	_	NumType=Card	63	compound	_	endali=410658|startali=410351
+63	six	_	NUM	_	NumType=Card	60	conj:coord	_	endali=410930|startali=410658
+64	percent	_	NOUN	_	_	57	comp	_	endali=411487|startali=410930
+65	#	_	PUNCT	_	_	66	punct	_	endali=411760|startali=411487
+66	of	_	ADP	_	_	64	dep	_	endali=411950|startali=411760
+67	the	_	DET	_	Definite=Def|PronType=Art	68	det	_	endali=412100|startali=411950
+68	vote	_	VERB	_	_	66	comp	_	endali=412545|startali=412100
+69	]	_	PUNCT	_	_	39	punct	_	endali=412575|startali=412545
+70	//	_	PUNCT	_	_	3	punct	_	endali=412575|startali=412545
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_50
+# sent_translation = # Now, we heard that Macron is the youngest ever president which the French country has ever got  and in fact that he led the far right national front leader Marine le piere and after one very very strong contest that emerged
+# text = # now we hear sey [ Macron < na im >+ go be di youngest ever president wey be sey obodo France don ever get |c # and in fact sey im bin beat { the far right National Front leader |a Marine Le Pen } after one { very |r very } strong contest wey be sey bin sele ] //
+# timestamp = 1590163822.940743
+1	#	_	PUNCT	_	_	4	punct	_	endali=412860|startali=412575
+2	now	_	ADV	_	_	4	mod:periph	_	endali=412950|startali=412860
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	subj	_	endali=413030|startali=412950
+4	hear	_	VERB	_	_	0	root	_	endali=413120|startali=413030
+5	sey	_	SCONJ	_	_	4	comp:obj	_	endali=413253|startali=413120
+6	[	_	PUNCT	_	_	9	punct	_	endali=413283|startali=413253
+7	Macron	_	PROPN	_	_	9	dislocated	_	endali=413680|startali=413283
+8	<	_	PUNCT	_	_	7	punct	_	endali=413710|startali=413680
+9	na	_	PART	_	PartType=Cop	5	comp	_	endali=413805|startali=413710
+10	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	comp:pred	_	endali=413900|startali=413805
+11	>+	_	PUNCT	_	_	12	punct	_	endali=413930|startali=413900
+12	go	_	AUX	_	Tense=Prosp	9	comp:cleft	_	endali=414020|startali=413930
+13	be	_	VERB	_	PartType=Cop	12	comp:aux	_	endali=414150|startali=414020
+14	di	_	DET	_	Definite=Def|PronType=Art	17	det	_	endali=414407|startali=414150
+15	youngest	_	ADJ	_	Degree=Sup	17	dep	_	endali=415085|startali=414407
+16	ever	_	ADV	_	_	17	mod	_	endali=415380|startali=415085
+17	president	_	NOUN	_	_	13	comp:pred	_	endali=415809|startali=415380
+18	wey	_	SCONJ	_	_	17	dep	_	endali=415880|startali=415809
+19	be	_	VERB	_	PartType=Cop	18	comp	_	endali=415965|startali=415880
+20	sey	_	SCONJ	_	_	19	comp:pred	_	endali=416110|startali=415965
+21	obodo	_	NOUN	_	_	23	subj	_	endali=416400|startali=416110
+22	France	_	PROPN	_	_	21	dep:appos	_	endali=416800|startali=416400
+23	don	_	AUX	_	Aspect=Perf	20	comp	_	endali=416940|startali=416800
+24	ever	_	ADV	_	_	25	mod	_	endali=417220|startali=416940
+25	get	_	VERB	_	_	23	comp:aux	_	endali=417467|startali=417220
+26	|c	_	PUNCT	_	_	33	punct	_	endali=417497|startali=417467
+27	#	_	PUNCT	_	_	33	punct	_	endali=417740|startali=417497
+28	and	_	CCONJ	_	_	33	cc	_	endali=417850|startali=417740
+29	in	_	ADP	_	_	33	mod:periph	_	endali=417950|startali=417850
+30	fact	_	NOUN	_	_	29	fixed	_	endali=418130|startali=417950
+31	sey	_	SCONJ	_	_	33	cc	_	endali=418281|startali=418130
+32	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	subj	_	endali=418450|startali=418281
+33	bin	_	AUX	_	Tense=Past	9	conj:coord	_	endali=418922|startali=418450
+34	beat	_	VERB	_	_	33	comp:aux	_	endali=419390|startali=418922
+35	{	_	PUNCT	_	_	41	punct	_	endali=419420|startali=419390
+36	the	_	DET	_	Definite=Def|PronType=Art	41	det	_	endali=419520|startali=419420
+37	far	_	ADV	_	_	38	mod	_	endali=419900|startali=419520
+38	right	_	ADV	_	_	41	dep	_	endali=420210|startali=419900
+39	National	_	PROPN	_	_	41	compound	_	endali=420620|startali=420210
+40	Front	_	PROPN	_	_	39	flat	_	endali=420930|startali=420620
+41	leader	_	NOUN	_	_	34	comp:obj	_	endali=421374|startali=420930
+42	|a	_	PUNCT	_	_	43	punct	_	endali=421404|startali=421374
+43	Marine	_	PROPN	_	_	41	conj:appos	_	endali=421890|startali=421404
+44	Le	_	PROPN	_	_	43	flat	_	endali=422100|startali=421890
+45	Pen	_	PROPN	_	_	44	flat	_	endali=422410|startali=422100
+46	}	_	PUNCT	_	_	41	punct	_	endali=422440|startali=422410
+47	after	_	ADP	_	_	34	mod	_	endali=422736|startali=422440
+48	one	_	DET	_	Definite=Spec|Number=Sing|PronType=Art	55	det	_	endali=422820|startali=422736
+49	{	_	PUNCT	_	_	50	punct	_	endali=422850|startali=422820
+50	very	_	ADV	_	_	54	mod	_	endali=423019|startali=422850
+51	|r	_	PUNCT	_	_	52	punct	_	endali=423049|startali=423019
+52	very	_	ADV	_	_	50	conj:dicto	_	endali=423240|startali=423049
+53	}	_	PUNCT	_	_	50	punct	_	endali=423270|startali=423240
+54	strong	_	ADJ	_	_	55	dep	_	endali=423949|startali=423270
+55	contest	_	VERB	_	_	47	comp	_	endali=424510|startali=423949
+56	wey	_	SCONJ	_	_	55	dep	_	endali=424570|startali=424510
+57	be	_	VERB	_	PartType=Cop	56	comp	_	endali=424650|startali=424570
+58	sey	_	SCONJ	_	_	57	comp:pred	_	endali=424800|startali=424650
+59	bin	_	AUX	_	Tense=Past	58	comp	_	endali=425010|startali=424800
+60	sele	_	VERB	_	_	59	comp:pred	_	endali=425550|startali=425010
+61	]	_	PUNCT	_	_	9	punct	_	endali=425580|startali=425550
+62	//	_	PUNCT	_	_	4	punct	_	endali=425580|startali=425550
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_51
+# sent_translation = # and on this one also, we heard that Le Pen said that she has conceded, she has agreed that yes, it is Macron that emerged victory, that she has called him to congratulate him on the victory, it is this she shares with her fans in France.
+# text = # and on top dis one also < we hear sey [ Le Pen say [ she don concede |c she don gree sey [ yes na Macron >+ na im chopulate am //] ] ] //
+# timestamp = 1590163822.940746
+1	#	_	PUNCT	_	_	10	punct	_	endali=425960|startali=425580
+2	and	_	CCONJ	_	_	10	cc	_	endali=426040|startali=425960
+3	on	_	ADP	_	_	10	mod:periph	_	endali=426160|startali=426040
+4	top	_	NOUN	_	_	3	fixed	_	endali=426330|startali=426160
+5	dis	_	DET	_	Number=Sing|PronType=Prox	6	det	_	endali=426520|startali=426330
+6	one	_	NOUN	_	_	3	comp	_	endali=426670|startali=426520
+7	also	_	ADV	_	_	6	mod	_	endali=426870|startali=426670
+8	<	_	PUNCT	_	_	3	punct	_	endali=426900|startali=426870
+9	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	subj	_	endali=426980|startali=426900
+10	hear	_	VERB	_	_	0	root	_	endali=427123|startali=426980
+11	sey	_	SCONJ	_	_	10	comp:obj	_	endali=427421|startali=427123
+12	[	_	PUNCT	_	_	15	punct	_	endali=427451|startali=427421
+13	Le	_	PROPN	_	_	15	subj	_	endali=427677|startali=427451
+14	Pen	_	PROPN	_	_	13	flat	_	endali=428070|startali=427677
+15	say	_	VERB	_	_	11	comp	_	endali=428220|startali=428070
+16	[	_	PUNCT	_	_	18	punct	_	endali=428250|startali=428220
+17	she	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	subj	_	endali=428400|startali=428250
+18	don	_	AUX	_	Aspect=Perf	15	parataxis:obj	_	endali=428610|startali=428400
+19	concede	_	VERB	_	_	18	comp:aux	_	endali=429050|startali=428610
+20	|c	_	PUNCT	_	_	22	punct	_	endali=429080|startali=429050
+21	she	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	subj	_	endali=429220|startali=429080
+22	don	_	AUX	_	Aspect=Perf	18	conj:coord	_	endali=429481|startali=429220
+23	gree	_	VERB	_	_	22	comp:aux	_	endali=430031|startali=429481
+24	sey	_	SCONJ	_	_	23	compound:svc	_	endali=430260|startali=430061
+25	[	_	PUNCT	_	_	27	punct	_	endali=430600|startali=430290
+26	yes	_	INTJ	_	_	27	discourse	_	endali=430600|startali=430290
+27	na	_	PART	_	PartType=Cop	24	comp	_	endali=430740|startali=430600
+28	Macron	_	PROPN	_	_	27	comp:pred	_	endali=431130|startali=430740
+29	>+	_	PUNCT	_	_	30	punct	_	endali=431160|startali=431130
+30	na	_	PART	_	PartType=Cop	27	comp:cleft	_	endali=431288|startali=431160
+31	im	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	comp:pred	_	endali=431390|startali=431288
+32	chopulate	_	VERB	_	_	31	dep	_	endali=431880|startali=431390
+33	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	endali=432000|startali=431880
+34	//]	_	PUNCT	_	_	27	punct	_	endali=432030|startali=432000
+35	]	_	PUNCT	_	_	18	punct	_	endali=432030|startali=432000
+36	]	_	PUNCT	_	_	15	punct	_	endali=432030|startali=432000
+37	//	_	PUNCT	_	_	10	punct	_	endali=432030|startali=432000
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_52
+# sent_translation = and on this one also, we heard that Le Pen said that she has conceded, she has agreed that yes, it is Macron that emerged victory, that she has called him to congratulate him on the victory, it is this she shares with her fans in France.
+# text = and in fact sey she don { call am |c congratulate am } on the victory //
+# timestamp = 1590163822.940748
+1	and	_	CCONJ	_	_	6	cc	_	endali=432120|startali=432030
+2	in	_	ADP	_	_	6	mod	_	endali=432220|startali=432120
+3	fact	_	NOUN	_	_	2	fixed	_	endali=432410|startali=432220
+4	sey	_	SCONJ	_	_	6	cc	_	endali=432490|startali=432410
+5	she	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	subj	_	endali=432610|startali=432490
+6	don	_	AUX	_	Aspect=Perf	0	root	_	endali=432805|startali=432610
+7	{	_	PUNCT	_	_	8	punct	_	endali=432835|startali=432805
+8	call	_	VERB	_	_	6	comp:aux	_	endali=433020|startali=432835
+9	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	comp:obj	_	endali=433456|startali=433020
+10	|c	_	PUNCT	_	_	11	punct	_	endali=433486|startali=433456
+11	congratulate	_	VERB	_	_	8	conj:coord	_	endali=434120|startali=433486
+12	am	_	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj	_	endali=434450|startali=434120
+13	}	_	PUNCT	_	_	8	punct	_	endali=434480|startali=434450
+14	on	_	ADP	_	_	11	comp:obl	_	endali=434670|startali=434480
+15	the	_	DET	_	Definite=Def|PronType=Art	16	det	_	endali=434760|startali=434670
+16	victory	_	NOUN	_	_	14	comp	_	endali=435489|startali=434760
+17	//	_	PUNCT	_	_	6	punct	_	endali=435519|startali=435489
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_53
+# sent_translation = and on this one also, we heard that Le Pen said that she has conceded, she has agreed that yes, it is Macron that emerged victory, that she has called him to congratulate him on the victory, it is this she shares with her fans in France.  # that Fren the country France said they have chosen their own president, they have chosen their own leader now and in fact that they were voting
+# text = now on top dis one also < she bin dey tell her fans inside eh { Fr- || France } # sey [ { Fren- em || obodo France } now < sey de don choose deir own presido //] //
+# timestamp = 1590163822.940751
+1	now	_	ADV	_	_	9	mod:periph	_	endali=435619|startali=435519
+2	on	_	ADP	_	_	9	mod:periph	_	endali=435726|startali=435619
+3	top	_	NOUN	_	_	2	fixed	_	endali=435860|startali=435726
+4	dis	_	DET	_	Number=Sing|PronType=Prox	5	det	_	endali=436038|startali=435860
+5	one	_	NOUN	_	_	2	comp	_	endali=436170|startali=436038
+6	also	_	ADV	_	_	5	mod	_	endali=436370|startali=436170
+7	<	_	PUNCT	_	_	2	punct	_	endali=436400|startali=436370
+8	she	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj	_	endali=436529|startali=436400
+9	bin	_	AUX	_	Tense=Past	0	root	_	endali=436660|startali=436529
+10	dey	_	AUX	_	Aspect=Imp	9	comp:aux	_	endali=436770|startali=436660
+11	tell	_	VERB	_	_	10	comp:aux	_	endali=436973|startali=436770
+12	her	_	ADJ	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	dep	_	endali=437080|startali=436973
+13	fans	fan	NOUN	_	Number=Plur	11	comp:obj	_	endali=437470|startali=437080
+14	inside	_	ADP	_	_	11	comp:obl	_	endali=437781|startali=437470
+15	eh	_	INTJ	_	_	17	discourse	_	endali=437793|startali=437781
+16	{	_	PUNCT	_	_	17	punct	_	endali=437823|startali=437793
+17	Fr-	_	X	_	_	14	comp	_	endali=438155|startali=437823
+18	||	_	PUNCT	_	_	19	punct	_	endali=438185|startali=438155
+19	France	_	NOUN	_	_	17	conj:dicto	_	endali=438590|startali=438185
+20	}	_	PUNCT	_	_	17	punct	_	endali=438620|startali=438590
+21	#	_	PUNCT	_	_	22	punct	_	endali=438866|startali=438620
+22	sey	_	SCONJ	_	_	11	comp:obj	_	endali=439050|startali=438866
+23	[	_	PUNCT	_	_	35	punct	_	endali=439080|startali=439050
+24	{	_	PUNCT	_	_	25	punct	_	endali=439080|startali=439050
+25	Fren-	_	PROPN	_	_	35	dislocated	_	endali=439478|startali=439080
+26	em	_	INTJ	_	_	28	discourse	_	endali=439670|startali=439478
+27	||	_	PUNCT	_	_	28	punct	_	endali=439700|startali=439670
+28	obodo	_	NOUN	_	_	25	conj:dicto	_	endali=439980|startali=439700
+29	France	_	NOUN	_	_	28	dep:appos	_	endali=440329|startali=439980
+30	}	_	PUNCT	_	_	25	punct	_	endali=440359|startali=440329
+31	now	_	ADV	_	_	29	mod:periph	_	endali=440520|startali=440359
+32	<	_	PUNCT	_	_	25	punct	_	endali=440550|startali=440520
+33	sey	_	SCONJ	_	_	35	cc	_	endali=440690|startali=440550
+34	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	subj	_	endali=440770|startali=440690
+35	don	_	AUX	_	Aspect=Perf	22	comp	_	endali=440990|startali=440770
+36	choose	_	VERB	_	_	35	comp:aux	_	endali=441250|startali=440990
+37	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	39	dep	_	endali=441443|startali=441250
+38	own	_	ADJ	_	_	39	dep	_	endali=441630|startali=441443
+39	presido	_	NOUN	_	_	36	comp:obj	_	endali=442382|startali=441630
+40	//]	_	PUNCT	_	_	35	punct	_	endali=442412|startali=442382
+41	//	_	PUNCT	_	_	9	punct	_	endali=442412|startali=442382
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_54
+# sent_translation = that Fren the country France said they have chosen their own president, they have chosen their own leader now and in fact that they were voting
+# text = de don choose deir own leader now //
+# timestamp = 1590163822.940753
+1	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	subj	_	endali=442528|startali=442412
+2	don	_	AUX	_	Aspect=Perf	0	root	_	endali=442700|startali=442528
+3	choose	_	VERB	_	_	2	comp:aux	_	endali=442910|startali=442700
+4	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	dep	_	endali=443070|startali=442910
+5	own	_	ADJ	_	_	6	dep	_	endali=443320|startali=443070
+6	leader	_	NOUN	_	_	3	comp:obj	_	endali=443660|startali=443320
+7	now	_	ADV	_	_	3	mod	_	endali=444184|startali=443660
+8	//	_	PUNCT	_	_	2	punct	_	endali=444214|startali=444184
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_55
+# sent_translation = that Fren the country France said they have chosen their own president, they have chosen their own leader now and in fact that they were voting # for continuity because they like the guy's plan for their country, now we heard that many people voted for the far right leader
+# text = and in fact sey de bin dey vote # for continuity because of sey [ de bin like wetin { di guy's || di guy's } plan bin dey for deir obodo ] //
+# timestamp = 1590163822.940755
+1	and	_	CCONJ	_	_	6	cc	_	endali=444340|startali=444214
+2	in	_	ADP	_	_	6	mod:periph	_	endali=444470|startali=444340
+3	fact	_	NOUN	_	_	2	fixed	_	endali=444950|startali=444470
+4	sey	_	SCONJ	_	_	6	cc	_	endali=445089|startali=444950
+5	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	subj	_	endali=445290|startali=445089
+6	bin	_	AUX	_	Tense=Past	0	root	_	endali=445460|startali=445290
+7	dey	_	AUX	_	Aspect=Imp	6	comp:aux	_	endali=445630|startali=445460
+8	vote	_	VERB	_	_	7	comp:aux	_	endali=446061|startali=445630
+9	#	_	PUNCT	_	_	10	punct	_	endali=446248|startali=446061
+10	for	_	ADP	_	_	8	comp:obl	_	endali=446399|startali=446248
+11	continuity	_	NOUN	_	_	10	comp	_	endali=447379|startali=446399
+12	because	_	SCONJ	_	_	8	mod	_	endali=447629|startali=447379
+13	of	_	ADP	_	_	12	fixed	_	endali=447699|startali=447629
+14	sey	_	SCONJ	_	_	13	fixed	_	endali=447800|startali=447699
+15	[	_	PUNCT	_	_	17	punct	_	endali=447830|startali=447800
+16	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	subj	_	endali=447999|startali=447830
+17	bin	_	AUX	_	Tense=Past	12	comp	_	endali=448145|startali=447999
+18	like	_	VERB	_	_	17	comp:aux	_	endali=448799|startali=448145
+19	wetin	_	PRON	_	PronType=Int	18	comp:obj	_	endali=449022|startali=448799
+20	{	_	PUNCT	_	_	22	punct	_	endali=449052|startali=449022
+21	di	_	DET	_	Definite=Def|PronType=Art	22	det	_	endali=449161|startali=449052
+22	guy's	_	X	_	_	27	dep	_	endali=449491|startali=449161
+23	||	_	PUNCT	_	_	25	punct	_	endali=449521|startali=449491
+24	di	_	DET	_	Definite=Def|PronType=Art	25	det	_	endali=449719|startali=449521
+25	guy's	_	X	_	_	22	conj:dicto	_	endali=450015|startali=449719
+26	}	_	PUNCT	_	_	22	punct	_	endali=450045|startali=450015
+27	plan	_	NOUN	_	_	28	subj	_	endali=450309|startali=450045
+28	bin	_	AUX	_	Tense=Past	19	dep	_	endali=450529|startali=450309
+29	dey	_	VERB	_	PartType=Cop	28	comp:aux	_	endali=450839|startali=450529
+30	for	_	ADP	_	_	29	comp:pred	_	endali=451159|startali=450839
+31	deir	_	ADJ	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	dep	_	endali=451322|startali=451159
+32	obodo	_	NOUN	_	_	30	comp	_	endali=451939|startali=451322
+33	]	_	PUNCT	_	_	17	punct	_	endali=451969|startali=451939
+34	//	_	PUNCT	_	_	6	punct	_	endali=451969|startali=451939
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_56
+# sent_translation = for continuity because they like the guy's plan for their country, now we heard that many people voted for the far right leader # but right now,everything is up to Emmanuel Macron I think he led with sixty five, sixty percent of all the votes which they casted for that puepose
+# text = now we hear sey { plenty |r plenty } people ehn bin vote for the far right leader //
+# timestamp = 1590163822.940758
+1	now	_	ADV	_	_	3	mod	_	endali=452114|startali=451969
+2	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	subj	_	endali=452219|startali=452114
+3	hear	_	VERB	_	_	0	root	_	endali=452349|startali=452219
+4	sey	_	SCONJ	_	_	3	comp:obj	_	endali=452556|startali=452349
+5	{	_	PUNCT	_	_	6	punct	_	endali=452586|startali=452556
+6	plenty	_	ADJ	_	_	10	dep	_	endali=452869|startali=452586
+7	|r	_	PUNCT	_	_	8	punct	_	endali=452899|startali=452869
+8	plenty	_	ADJ	_	_	6	compound:redup	_	endali=453189|startali=452899
+9	}	_	PUNCT	_	_	6	punct	_	endali=453219|startali=453189
+10	people	_	NOUN	_	_	12	subj	_	endali=453811|startali=453219
+11	ehn	_	INTJ	_	_	12	discourse	_	endali=454125|startali=453811
+12	bin	_	AUX	_	Tense=Past	4	comp	_	endali=454329|startali=454125
+13	vote	_	VERB	_	_	12	comp:aux	_	endali=454819|startali=454329
+14	for	_	ADP	_	_	13	comp:obl	_	endali=455089|startali=454819
+15	the	di	DET	_	Definite=Def|PronType=Art	18	det	_	endali=455174|startali=455089
+16	far	_	ADV	_	_	17	mod	_	endali=455449|startali=455174
+17	right	_	NOUN	_	_	18	dep	_	endali=455679|startali=455449
+18	leader	_	NOUN	_	_	14	comp	_	endali=456010|startali=455679
+19	//	_	PUNCT	_	_	3	punct	_	endali=456040|startali=456010
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_57
+# text = # but right now < everything is up ehm to Emmanuel Macron as e now chopulate dis { sixty five |c sixty six } percent of all the vote wey be sey [ de bin cast on top di matter ] //
+# timestamp = 1590163822.94076
+1	#	_	PUNCT	_	_	7	punct	_	endali=456391|startali=456040
+2	but	_	CCONJ	_	_	7	cc	_	endali=456760|startali=456391
+3	right	_	ADV	_	_	7	mod:periph	_	endali=457080|startali=456760
+4	now	_	ADV	_	_	3	mod	_	endali=457400|startali=457080
+5	<	_	PUNCT	_	_	3	punct	_	endali=457430|startali=457400
+6	everything	_	PRON	_	_	7	subj	_	endali=457950|startali=457430
+7	is	_	VERB	_	PartType=Cop	0	root	_	endali=458120|startali=457950
+8	up	_	ADP	_	_	7	comp:pred	_	endali=458640|startali=458120
+9	ehm	_	INTJ	_	_	10	discourse	_	endali=458920|startali=458640
+10	to	_	ADP	_	_	8	fixed	_	endali=459113|startali=458920
+11	Emmanuel	_	PROPN	_	_	8	comp	_	endali=459538|startali=459113
+12	Macron	_	PROPN	_	_	11	flat	_	endali=460035|startali=459538
+13	as	_	ADP	_	_	7	mod	_	endali=460210|startali=460035
+14	e	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	subj	_	endali=460250|startali=460210
+15	now	_	ADV	_	_	16	mod	_	endali=460456|startali=460250
+16	chopulate	_	VERB	_	_	13	comp	_	endali=460910|startali=460456
+17	dis	_	DET	_	Number=Sing|PronType=Prox	25	det	_	endali=461120|startali=460910
+18	{	_	PUNCT	_	_	19	punct	_	endali=461150|startali=461120
+19	sixty	_	NUM	_	NumType=Card	25	dep	_	endali=461430|startali=461150
+20	five	_	NUM	_	NumType=Card	19	flat	_	endali=461600|startali=461430
+21	|c	_	PUNCT	_	_	22	punct	_	endali=461630|startali=461600
+22	sixty	_	NUM	_	NumType=Card	19	conj:coord	_	endali=461903|startali=461630
+23	six	_	NUM	_	NumType=Card	22	flat	_	endali=462102|startali=461903
+24	}	_	PUNCT	_	_	19	punct	_	endali=462132|startali=462102
+25	percent	_	NOUN	_	_	16	comp:obj	_	endali=462750|startali=462132
+26	of	_	ADP	_	_	25	dep	_	endali=462870|startali=462750
+27	all	_	DET	_	_	29	det	_	endali=463015|startali=462870
+28	the	_	DET	_	Definite=Def|PronType=Art	29	det	_	endali=463100|startali=463015
+29	vote	_	NOUN	_	_	26	comp	_	endali=463366|startali=463100
+30	wey	_	SCONJ	_	_	29	dep	_	endali=463443|startali=463366
+31	be	_	VERB	_	PartType=Cop	30	comp	_	endali=463510|startali=463443
+32	sey	_	SCONJ	_	_	31	comp:pred	_	endali=463670|startali=463510
+33	[	_	PUNCT	_	_	35	punct	_	endali=463902|startali=463670
+34	de	_	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	subj	_	endali=463902|startali=463670
+35	bin	_	AUX	_	Tense=Past	32	comp	_	endali=464060|startali=463902
+36	cast	_	VERB	_	_	35	comp:aux	_	endali=464527|startali=464060
+37	on	_	ADP	_	_	36	comp:obl	_	endali=464650|startali=464527
+38	top	_	NOUN	_	_	37	fixed	_	endali=464840|startali=464650
+39	di	_	DET	_	Definite=Def|PronType=Art	40	det	_	endali=464932|startali=464840
+40	matter	_	NOUN	_	_	37	comp	_	endali=465256|startali=464932
+41	]	_	PUNCT	_	_	7	punct	_	endali=465286|startali=465256
+42	//	_	PUNCT	_	_	7	punct	_	endali=465286|startali=465256
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_58
+# sent_translation = # alright and that is the information which we bring for you today and of course I didnt forget that for any other kind of information on Wazobia TV
+# text = # allright ehm and dat na di informate >+ we don bring for una again today //
+# timestamp = 1590163822.940763
+1	#	_	PUNCT	_	_	6	punct	_	endali=466376|startali=465286
+2	allright	_	ADV	_	_	6	mod:periph	_	endali=466755|startali=466376
+3	ehm	_	INTJ	_	_	6	discourse	_	endali=466815|startali=466755
+4	and	_	CCONJ	_	_	6	cc	_	endali=467037|startali=466815
+5	dat	_	PRON	_	Number=Sing|PronType=Dem	6	subj	_	endali=467145|startali=467037
+6	na	_	PART	_	PartType=Cop	0	root	_	endali=467275|startali=467145
+7	di	_	DET	_	Definite=Def|PronType=Art	8	det	_	endali=467335|startali=467275
+8	informate	_	NOUN	_	_	6	comp:pred	_	endali=467684|startali=467335
+9	>+	_	PUNCT	_	_	11	punct	_	endali=467750|startali=467684
+10	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	subj	_	endali=467750|startali=467684
+11	don	_	AUX	_	Aspect=Perf	6	comp:cleft	_	endali=467850|startali=467750
+12	bring	_	VERB	_	_	11	comp:aux	_	endali=468006|startali=467850
+13	for	_	ADP	_	_	12	comp:obl	_	endali=468141|startali=468006
+14	una	_	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	13	comp	_	endali=468314|startali=468141
+15	again	_	ADV	_	_	12	mod	_	endali=468505|startali=468314
+16	today	_	NOUN	_	_	12	mod	_	endali=468725|startali=468505
+17	//	_	PUNCT	_	_	6	punct	_	endali=468755|startali=468725
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_59
+# sent_translation = alright and that is the information which we bring for you today and of course I didnt forget that for any other kind of information on Wazobia TV # our Website is there www.wazobiatv.tv
+# text = yes and of course I no forget sey [ on top any oda kind informate for Wazobia TV < # { our website dey dere |a www dot Wazobia TV dot TV } ] //
+# timestamp = 1590163822.940765
+1	yes	_	INTJ	_	_	7	discourse	_	endali=469005|startali=468755
+2	and	_	CCONJ	_	_	7	cc	_	endali=469105|startali=469005
+3	of	_	ADP	_	_	7	mod:periph	_	endali=469255|startali=469105
+4	course	_	NOUN	_	_	3	fixed	_	endali=469495|startali=469255
+5	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	subj	_	endali=469575|startali=469495
+6	no	_	PART	_	Polarity=Neg	7	mod	_	endali=469675|startali=469575
+7	forget	_	VERB	_	_	0	root	_	endali=469935|startali=469675
+8	sey	_	SCONJ	_	_	7	comp:obj	_	endali=470055|startali=469935
+9	[	_	PUNCT	_	_	24	punct	_	endali=470085|startali=470055
+10	on	_	ADP	_	_	24	mod:periph	_	endali=470175|startali=470085
+11	top	_	NOUN	_	_	10	fixed	_	endali=470383|startali=470175
+12	any	_	DET	_	_	15	det	_	endali=470555|startali=470383
+13	oda	_	ADJ	_	_	15	dep	_	endali=470702|startali=470555
+14	kind	_	ADJ	_	_	15	dep	_	endali=470875|startali=470702
+15	informate	_	NOUN	_	_	10	comp	_	endali=471245|startali=470875
+16	for	_	ADP	_	_	15	dep	_	endali=471375|startali=471245
+17	Wazobia	_	PROPN	_	_	16	comp	_	endali=471775|startali=471375
+18	TV	_	NOUN	_	_	17	flat	_	endali=472188|startali=471775
+19	<	_	PUNCT	_	_	10	punct	_	endali=472218|startali=472188
+20	#	_	PUNCT	_	_	10	punct	_	endali=472540|startali=472218
+21	{	_	PUNCT	_	_	23	punct	_	endali=472540|startali=472218
+22	our	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	dep	_	endali=472730|startali=472540
+23	website	_	NOUN	_	_	24	subj	_	endali=473190|startali=472730
+24	dey	_	VERB	_	PartType=Cop	8	comp	_	endali=473350|startali=473190
+25	dere	_	ADV	_	PronType=Dem	24	comp:pred	_	endali=473668|startali=473350
+26	|a	_	PUNCT	_	_	27	punct	_	endali=473698|startali=473668
+27	www	_	PROPN	_	_	23	conj:appos	_	endali=474670|startali=473698
+28	dot	_	NOUN	_	_	27	flat	_	endali=474900|startali=474670
+29	Wazobia	_	PROPN	_	_	27	flat	_	endali=475250|startali=474900
+30	TV	_	NOUN	_	_	29	flat	_	endali=475570|startali=475250
+31	dot	_	NOUN	_	_	30	flat	_	endali=475860|startali=475570
+32	TV	_	NOUN	_	_	31	flat	_	endali=476277|startali=475860
+33	}	_	PUNCT	_	_	23	punct	_	endali=476307|startali=476277
+34	]	_	PUNCT	_	_	24	punct	_	endali=476307|startali=476277
+35	//	_	PUNCT	_	_	7	punct	_	endali=476307|startali=476277
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_60
+# sent_translation = # let us go in into weather studio and see what the the nature of the weather is this beautiful morning.
+# text = # make we enter our weather studio //
+# timestamp = 1590163822.940767
+1	#	_	PUNCT	_	_	2	punct	_	endali=476725|startali=476307
+2	make	_	AUX	_	Mood=Jus	0	root	_	endali=476865|startali=476725
+3	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	subj	_	endali=476955|startali=476865
+4	enter	_	VERB	_	_	2	comp:aux	_	endali=477245|startali=476955
+5	our	_	ADJ	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	dep	_	endali=477375|startali=477245
+6	weather	_	NOUN	_	_	7	compound	_	endali=477641|startali=477375
+7	studio	_	NOUN	_	_	4	comp:obj	_	endali=478095|startali=477641
+8	//	_	PUNCT	_	_	2	punct	_	endali=478125|startali=478095
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_61
+# sent_translation = let us go in into weather studio and see what the the nature of the weather is this beautiful morning.
+# text = make we see how weather go be for us dis beautiful morning //
+# timestamp = 1590163822.940769
+1	make	_	AUX	_	Mood=Jus	0	root	_	endali=478295|startali=478125
+2	we	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	subj	_	endali=478355|startali=478295
+3	see	_	VERB	_	_	1	comp:aux	_	endali=478523|startali=478355
+4	how	_	ADV	_	PronType=Int	3	comp:obj	_	endali=478709|startali=478523
+5	weather	_	NOUN	_	_	6	subj	_	endali=478955|startali=478709
+6	go	_	AUX	_	Tense=Prosp	4	dep	_	endali=479075|startali=478955
+7	be	_	VERB	_	PartType=Cop	6	comp:aux	_	endali=479205|startali=479075
+8	for	_	ADP	_	_	7	comp:pred	_	endali=479485|startali=479205
+9	us	_	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	comp	_	endali=479603|startali=479485
+10	dis	_	DET	_	Number=Sing|PronType=Prox	12	det	_	endali=479769|startali=479603
+11	beautiful	_	ADJ	_	_	12	dep	_	endali=480185|startali=479769
+12	morning	_	NOUN	_	_	7	mod	_	endali=480613|startali=480185
+13	//	_	PUNCT	_	_	1	punct	_	endali=480643|startali=480613
+
+
+# sent_id = P_WAZL_03_News-on-GMNS_PRO_62
+# sent_translation = # My name is Jibike Ogunlayi.
+# text = # my name na Jibike Ogunladi //
+# timestamp = 1590163822.940771
+1	#	_	PUNCT	_	_	4	punct	_	endali=480955|startali=480643
+2	my	_	ADJ	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	dep	_	endali=481115|startali=480955
+3	name	_	NOUN	_	_	4	subj	_	endali=481458|startali=481115
+4	na	_	PART	_	PartType=Cop	0	root	_	endali=481757|startali=481488
+5	Jibike	_	PROPN	_	_	4	comp:pred	_	endali=482210|startali=481757
+6	Ogunladi	_	NOUN	_	_	5	flat	_	endali=482866|startali=482210
+7	//	_	PUNCT	_	_	4	punct	_	endali=482896|startali=482866
