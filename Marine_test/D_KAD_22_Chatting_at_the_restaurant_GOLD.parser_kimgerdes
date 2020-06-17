@@ -1,0 +1,24 @@
+# user_id = kimgerdes
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_170
+# sent_translation = Sapai does not gum them.
+# speaker = D_KAD_22@Sp2_101:Godwin Joy Elego (Sp205)
+# text = sapain no gum dem //
+# timestamp = 1589469822692
+# user_id = kimgerdes
+1	sapain	sapain	NOUN	_	_	3	subj	_	endali=284706|startali=284340
+2	no	no	PART	_	Polarity=Neg	3	mod	_	endali=285072|startali=284706
+3	gum	gum	VERB	_	_	0	root	_	endali=285439|startali=285072
+4	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	endali=285805|startali=285439
+5	//	//	PUNCT	_	_	3	punct@fixed	_	endali=285805|startali=285805
+
+
+# user_id = kimgerdes
+# sent_id = D_KAD_22_Chatting at the restaurant_GOLD_172
+# sent_translation = Mstchew Hm!
+# speaker = D_KAD_22@Sp2_102:Godwin Joy Elego (Sp205)
+# text = mstchew hm !//
+# timestamp = 1589469805111
+# user_id = kimgerdes
+1	mstchew	mstchew	INTJ	_	_	0	root	_	endali=287320|startali=286160
+2	hm	hm	INTJ	_	_	1	discourse	_	endali=288480|startali=287320
+3	!//	!//	PUNCT	_	_	1	punct:cleft	_	endali=288480|startali=288480
